@@ -1,0 +1,163 @@
+{
+  "id": "u22",
+  "title": "Moving about",
+  "intro": "Spanish is strict about direction in a way English is not. ir is away from here, venir towards the speaker, llevar is carrying away, traer carrying towards. Getting these backwards is the most persistent English-speaker error in the language.",
+  "entries": [
+    {
+      "es": "venir · ir", "pos": "v. irr.", "en": "to come (towards me); to go (away from me)",
+      "he": "לבוא / ללכת",
+      "note": "In English you can say I'm coming to your house. In Spanish that is voy a tu casa — you are going, because you are not yet there.",
+      "ex": [
+        {"tag": "come", "es": "Ven aquí un momento.", "en": "Come here a moment."},
+        {"tag": "go", "es": "Ya voy para allá.", "en": "I'm on my way over there."}
+      ]
+    },
+    {
+      "es": "traer · llevar", "pos": "v. irr.", "en": "to bring (here); to take (away)",
+      "he": "להביא / לקחת",
+      "note": "The same split as venir and ir. ¿Te traigo algo? offers to bring it to you here.",
+      "conj": {"label": "traer, pres.", "forms": ["traigo", "traes", "trae", "traemos", "traen"]},
+      "ex": [
+        {"tag": "bring", "es": "¿Me traes un vaso de agua?", "en": "Could you bring me a glass of water?"},
+        {"tag": "take", "es": "Llévate el paraguas.", "en": "Take the umbrella with you."}
+      ]
+    },
+    {
+      "es": "salir", "pos": "v. irr.", "en": "to leave, to go out; to turn out",
+      "he": "לצאת",
+      "conj": {"label": "pres.", "forms": ["salgo", "sales", "sale", "salimos", "salen"]},
+      "ex": [
+        {"tag": "go out", "es": "Salimos a las ocho.", "en": "We leave at eight."},
+        {"tag": "turn out", "es": "Todo salió bien.", "en": "Everything turned out fine."}
+      ]
+    },
+    {
+      "es": "entrar", "pos": "v.", "en": "to go in, to enter",
+      "note": "Takes en or a, never a bare object: entrar en la casa, entrar al cuarto.",
+      "ex": [
+        {"es": "Entramos sin hacer ruido.", "en": "We went in without making a noise."}
+      ]
+    },
+    {
+      "es": "subir", "pos": "v.", "en": "to go up, to climb; to get on (a vehicle); to raise",
+      "he": "לעלות",
+      "ex": [
+        {"tag": "go up", "es": "Subimos al último piso.", "en": "We went up to the top floor."},
+        {"tag": "get on", "es": "Sube al autobús, ya va a salir.", "en": "Get on the bus, it's about to leave."},
+        {"tag": "raise", "es": "Sube el volumen, por favor.", "en": "Turn the volume up, please."}
+      ]
+    },
+    {
+      "es": "bajar", "pos": "v.", "en": "to go down; to get off; to lower, to download",
+      "he": "לירד",
+      "ex": [
+        {"tag": "go down", "es": "Baja con cuidado, está resbaloso.", "en": "Go down carefully, it's slippery."},
+        {"tag": "get off", "es": "Bajamos en la próxima parada.", "en": "We get off at the next stop."},
+        {"tag": "download", "es": "Bajé la aplicación anoche.", "en": "I downloaded the app last night."}
+      ]
+    },
+    {
+      "es": "regresar", "pos": "v.", "en": "to return, to go back",
+      "note": "Interchangeable with volver — see unit 1. regresar is commoner in Latin America.",
+      "ex": [
+        {"es": "Regresamos el lunes.", "en": "We're coming back on Monday."}
+      ]
+    },
+    {
+      "es": "correr", "pos": "v.", "en": "to run; to move (something) along",
+      "he": "לרוץ",
+      "ex": [
+        {"tag": "run", "es": "Corre todas las mañanas.", "en": "She runs every morning."},
+        {"tag": "move along", "es": "Corre la silla un poco.", "en": "Move the chair over a bit."}
+      ]
+    },
+    {
+      "es": "saltar", "pos": "v.", "en": "to jump; to skip (over)",
+      "ex": [
+        {"tag": "jump", "es": "El gato saltó a la mesa.", "en": "The cat jumped onto the table."},
+        {"tag": "skip", "es": "Se saltó dos páginas.", "en": "He skipped two pages."}
+      ]
+    },
+    {
+      "es": "seguir", "pos": "v. irr.", "en": "to follow; to carry on, to keep doing",
+      "he": "לעקוב / להמשיך",
+      "note": "seguir + gerund is the everyday way to say still doing something: sigue lloviendo, it's still raining.",
+      "conj": {"label": "pres.", "forms": ["sigo", "sigues", "sigue", "seguimos", "siguen"]},
+      "ex": [
+        {"tag": "follow", "es": "Sígueme, conozco el camino.", "en": "Follow me, I know the way."},
+        {"tag": "carry on", "es": "Sigue estudiando, vas muy bien.", "en": "Keep studying, you're doing well."}
+      ]
+    },
+    {
+      "es": "parar", "pos": "v.", "en": "to stop; (pararse) to stand up",
+      "he": "לעצור / לקום",
+      "note": "In Latin America pararse means to stand up; in Spain it means to stop oneself. A real difference.",
+      "ex": [
+        {"tag": "stop", "es": "Para aquí, por favor.", "en": "Stop here, please."},
+        {"tag": "stand up", "es": "Se paró para saludarnos.", "en": "He stood up to greet us."}
+      ]
+    },
+    {
+      "es": "moverse", "pos": "v. irr.", "en": "to move",
+      "conj": {"label": "pres.", "forms": ["me muevo", "te mueves", "se mueve", "nos movemos", "se mueven"]},
+      "ex": [
+        {"es": "No te muevas, ya casi termino.", "en": "Don't move, I'm nearly done."}
+      ]
+    },
+    {
+      "es": "acercarse", "pos": "v.", "en": "to approach, to get closer",
+      "note": "acercarse a. The opposite is alejarse de.",
+      "ex": [
+        {"es": "Se acercó para escuchar mejor.", "en": "She came closer to hear better."}
+      ]
+    },
+    {
+      "es": "cruzar", "pos": "v.", "en": "to cross",
+      "ex": [
+        {"es": "Cruza en la esquina, no aquí.", "en": "Cross at the corner, not here."}
+      ]
+    },
+    {
+      "es": "caer", "pos": "v. irr.", "en": "to fall",
+      "note": "Usually reflexive for people: me caí. caerse bien means to get on well with someone.",
+      "conj": {"label": "pres.", "forms": ["caigo", "caes", "cae", "caemos", "caen"]},
+      "ex": [
+        {"es": "Se cayó de la bicicleta.", "en": "He fell off his bicycle."}
+      ]
+    },
+    {
+      "es": "el viaje", "pos": "n.m.", "en": "trip, journey",
+      "note": "viajar is to travel; el viajero the traveller. ¡Buen viaje!",
+      "ex": [
+        {"es": "El viaje dura seis horas.", "en": "The journey takes six hours."}
+      ]
+    },
+    {
+      "es": "la parada", "pos": "n.f.", "en": "stop (bus, train)",
+      "ex": [
+        {"es": "Te espero en la parada.", "en": "I'll wait for you at the stop."}
+      ]
+    },
+    {
+      "es": "el boleto", "pos": "n.m.", "en": "ticket",
+      "note": "boleto in Latin America; el billete in Spain, where boleto means a lottery ticket.",
+      "ex": [
+        {"es": "Compré los boletos por internet.", "en": "I bought the tickets online."}
+      ]
+    },
+    {
+      "es": "la maleta", "pos": "n.f.", "en": "suitcase",
+      "note": "hacer la maleta is to pack. el equipaje is luggage.",
+      "ex": [
+        {"es": "Todavía no hice la maleta.", "en": "I haven't packed yet."}
+      ]
+    },
+    {
+      "es": "el avión", "pos": "n.m.", "en": "aeroplane",
+      "note": "Plural aviones. volar is to fly; el vuelo the flight.",
+      "ex": [
+        {"es": "El avión salió con retraso.", "en": "The plane left late."}
+      ]
+    }
+  ]
+}

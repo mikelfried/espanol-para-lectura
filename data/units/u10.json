@@ -1,0 +1,155 @@
+{
+  "id": "u10",
+  "title": "Wider family, birth and marriage",
+  "intro": "Read plate 4 alongside this unit. Spanish builds in-law words from the base word rather than compounding with in-law, so each one has to be learned separately — and the most dangerous word here is pariente, which does not mean parent.",
+  "entries": [
+    {
+      "es": "el tío / la tía", "pos": "n.", "en": "uncle / aunt",
+      "note": "In Spain tío doubles as slang for guy or mate. In Latin America it does not.",
+      "ex": [
+        {"es": "Mi tía vive en Guadalajara.", "en": "My aunt lives in Guadalajara."}
+      ]
+    },
+    {
+      "es": "el primo / la prima", "pos": "n.", "en": "cousin",
+      "note": "primo hermano is a first cousin; primo segundo a second cousin.",
+      "ex": [
+        {"es": "Crecí con mis primos en el campo.", "en": "I grew up with my cousins in the countryside."}
+      ]
+    },
+    {
+      "es": "el sobrino / la sobrina", "pos": "n.", "en": "nephew / niece",
+      "ex": [
+        {"es": "Le compré un regalo a mi sobrina.", "en": "I bought my niece a present."}
+      ]
+    },
+    {
+      "es": "el nieto / la nieta", "pos": "n.", "en": "grandson / granddaughter",
+      "note": "los nietos covers grandchildren of either sex.",
+      "ex": [
+        {"es": "Los abuelos cuidan a sus nietos los viernes.", "en": "The grandparents look after their grandchildren on Fridays."}
+      ]
+    },
+    {
+      "es": "el bisabuelo / la bisabuela", "pos": "n.", "en": "great-grandfather / great-grandmother",
+      "note": "bis- adds a generation each time: bisnieto is a great-grandchild.",
+      "ex": [
+        {"es": "Mi bisabuela llegó de Polonia en 1930.", "en": "My great-grandmother arrived from Poland in 1930."}
+      ]
+    },
+    {
+      "es": "el suegro / la suegra", "pos": "n.", "en": "father-in-law / mother-in-law",
+      "note": "los suegros means the in-laws as a pair.",
+      "ex": [
+        {"es": "Mis suegros vienen a cenar el domingo.", "en": "My in-laws are coming to dinner on Sunday."}
+      ]
+    },
+    {
+      "es": "el cuñado / la cuñada", "pos": "n.", "en": "brother-in-law / sister-in-law",
+      "ex": [
+        {"es": "Su cuñado le consiguió el trabajo.", "en": "His brother-in-law got him the job."}
+      ]
+    },
+    {
+      "es": "el yerno / la nuera", "pos": "n.", "en": "son-in-law / daughter-in-law",
+      "note": "Two unrelated words rather than a matched pair — these two simply have to be memorised.",
+      "ex": [
+        {"es": "Su nuera es arquitecta.", "en": "Her daughter-in-law is an architect."}
+      ]
+    },
+    {
+      "es": "el pariente", "pos": "n.m.", "en": "relative, relation",
+      "he": "קרוב משפחה",
+      "warn": "A false friend, and a costly one. Parents is los padres. Mis parientes means my relatives — cousins, aunts, the lot.",
+      "ex": [
+        {"es": "Tengo parientes en tres países.", "en": "I have relatives in three countries."}
+      ]
+    },
+    {
+      "es": "casarse", "pos": "v.", "en": "to get married",
+      "he": "להתחתן",
+      "note": "Reflexive, and the person you marry takes con: se casó con Ana. estar casado is to be married.",
+      "ex": [
+        {"es": "Se casaron en la playa.", "en": "They got married on the beach."}
+      ]
+    },
+    {
+      "es": "la boda", "pos": "n.f.", "en": "wedding",
+      "note": "el matrimonio is the marriage itself, the institution, not the party.",
+      "ex": [
+        {"es": "La boda fue pequeña y bonita.", "en": "The wedding was small and lovely."}
+      ]
+    },
+    {
+      "es": "soltero", "pos": "adj.", "en": "single, unmarried",
+      "note": "Goes with ser, not estar: es soltera.",
+      "ex": [
+        {"es": "Sigue soltero y muy contento.", "en": "He's still single and very happy."}
+      ]
+    },
+    {
+      "es": "nacer", "pos": "v. irr.", "en": "to be born",
+      "he": "להיוולד",
+      "note": "One word, not a passive. Only the yo form is irregular.",
+      "conj": {"label": "pres.", "forms": ["nazco", "naces", "nace", "nacemos", "nacen"]},
+      "ex": [
+        {"es": "Nací en Jerusalén.", "en": "I was born in Jerusalem."}
+      ]
+    },
+    {
+      "es": "crecer", "pos": "v. irr.", "en": "to grow; to grow up",
+      "conj": {"label": "pres.", "forms": ["crezco", "creces", "crece", "crecemos", "crecen"]},
+      "ex": [
+        {"tag": "grow", "es": "El árbol creció muy rápido.", "en": "The tree grew very fast."},
+        {"tag": "grow up", "es": "Crecí en un pueblo chico.", "en": "I grew up in a small town."}
+      ]
+    },
+    {
+      "es": "morir", "pos": "v. irr.", "en": "to die",
+      "note": "Past participle is muerto. morirse de risa is to die laughing.",
+      "conj": {"label": "pres.", "forms": ["muero", "mueres", "muere", "morimos", "mueren"]},
+      "ex": [
+        {"es": "Su abuelo murió el año pasado.", "en": "His grandfather died last year."}
+      ]
+    },
+    {
+      "es": "el bebé", "pos": "n.m.", "en": "baby",
+      "note": "Masculine whatever the baby is: el bebé es una niña.",
+      "ex": [
+        {"es": "El bebé durmió toda la noche.", "en": "The baby slept all night."}
+      ]
+    },
+    {
+      "es": "joven", "pos": "adj. / n.", "en": "young; a young person",
+      "he": "צעיר",
+      "note": "Plural jóvenes takes an accent, because the stress must stay on the first syllable.",
+      "ex": [
+        {"tag": "young", "es": "Es demasiado joven para manejar.", "en": "He's too young to drive."},
+        {"tag": "a young person", "es": "Los jóvenes se reúnen en la plaza.", "en": "The young people gather in the square."}
+      ]
+    },
+    {
+      "es": "viejo", "pos": "adj. / n.", "en": "old; (colloquial) parents, folks",
+      "he": "זקן / ישן",
+      "note": "Blunt about people — mayor is the polite word. mis viejos for my parents is warm, not rude, in Mexico and the Southern Cone.",
+      "ex": [
+        {"tag": "old", "es": "Ese carro ya está muy viejo.", "en": "That car is very old now."},
+        {"tag": "folks", "es": "Voy a visitar a mis viejos.", "en": "I'm going to visit my folks."}
+      ]
+    },
+    {
+      "es": "el cumpleaños", "pos": "n.m.", "en": "birthday",
+      "note": "Already ends in -s in the singular and does not change in the plural: un cumpleaños, dos cumpleaños.",
+      "ex": [
+        {"es": "¡Feliz cumpleaños!", "en": "Happy birthday!"}
+      ]
+    },
+    {
+      "es": "el apellido", "pos": "n.m.", "en": "surname, last name",
+      "note": "Most Spanish speakers carry two: the father's first, then the mother's. García Márquez is one person, not two names.",
+      "ex": [
+        {"es": "¿Cómo se escribe su apellido?", "en": "How do you spell your surname?"}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "u05",
+  "title": "Getting by: greeting people and being polite",
+  "intro": "Fixed formulas rather than words you build from parts. Learn each one whole. Spanish is warmer than English here: strangers greet each other in lifts and shops, and skipping the greeting reads as rudeness rather than efficiency.",
+  "entries": [
+    {
+      "es": "hola", "pos": "interj.", "en": "hello, hi",
+      "note": "Neutral at any hour and with anyone. The h is silent.",
+      "ex": [
+        {"es": "¡Hola! ¿Qué tal todo?", "en": "Hi! How's everything?"}
+      ]
+    },
+    {
+      "es": "buenos días", "pos": "phrase", "en": "good morning",
+      "note": "Plural in Spanish, always. Used until about midday.",
+      "ex": [
+        {"es": "Buenos días, ¿ya desayunaste?", "en": "Good morning, have you had breakfast?"}
+      ]
+    },
+    {
+      "es": "buenas tardes", "pos": "phrase", "en": "good afternoon, good evening",
+      "note": "From midday until dark, so it covers the English evening too.",
+      "ex": [
+        {"es": "Buenas tardes, ¿en qué le puedo ayudar?", "en": "Good afternoon, how can I help you?"}
+      ]
+    },
+    {
+      "es": "buenas noches", "pos": "phrase", "en": "good evening (arriving); good night (leaving)",
+      "he": "ערב טוב / לילה טוב",
+      "note": "One phrase for both hello and goodbye after dark — the moment decides which.",
+      "ex": [
+        {"tag": "arriving", "es": "Buenas noches, mesa para dos.", "en": "Good evening, a table for two."},
+        {"tag": "leaving", "es": "Buenas noches, que descanses.", "en": "Good night, sleep well."}
+      ]
+    },
+    {
+      "es": "¿cómo estás? · ¿cómo está?", "pos": "phrase", "en": "how are you? (informal); how are you? (formal)",
+      "note": "The -s ending is the whole difference between tú and usted.",
+      "ex": [
+        {"tag": "informal", "es": "¡Pedro! ¿Cómo estás?", "en": "Pedro! How are you?"},
+        {"tag": "formal", "es": "Buenos días, doctora. ¿Cómo está?", "en": "Good morning, doctor. How are you?"}
+      ]
+    },
+    {
+      "es": "¿qué tal?", "pos": "phrase", "en": "how's it going?, what's up?",
+      "note": "Casual and invariable — no verb to conjugate, which makes it the safe one.",
+      "ex": [
+        {"es": "¿Qué tal el trabajo nuevo?", "en": "How's the new job going?"}
+      ]
+    },
+    {
+      "es": "bien", "pos": "adv.", "en": "well, fine; very (before an adjective)",
+      "he": "טוב / מאוד",
+      "note": "bien is an adverb, bueno an adjective. Estoy bien, not estoy bueno — the second means something quite different.",
+      "ex": [
+        {"tag": "well", "es": "Todo salió bien.", "en": "Everything turned out well."},
+        {"tag": "very", "es": "El café está bien caliente.", "en": "The coffee is really hot."}
+      ]
+    },
+    {
+      "es": "mal", "pos": "adv. / adj.", "en": "badly; bad",
+      "ex": [
+        {"tag": "badly", "es": "Dormí mal anoche.", "en": "I slept badly last night."},
+        {"tag": "bad", "es": "No está mal.", "en": "It's not bad."}
+      ]
+    },
+    {
+      "es": "más o menos", "pos": "phrase", "en": "so-so; roughly, about",
+      "he": "ככה ככה / בערך",
+      "ex": [
+        {"tag": "so-so", "es": "—¿Cómo te fue? —Más o menos.", "en": "\"How did it go?\" \"So-so.\""},
+        {"tag": "roughly", "es": "Cuesta más o menos cien pesos.", "en": "It costs about a hundred pesos."}
+      ]
+    },
+    {
+      "es": "gracias", "pos": "interj.", "en": "thank you",
+      "note": "muchas gracias, never mucho gracias — the word is feminine plural.",
+      "ex": [
+        {"es": "Muchas gracias por todo.", "en": "Thank you very much for everything."}
+      ]
+    },
+    {
+      "es": "de nada", "pos": "phrase", "en": "you're welcome, not at all",
+      "note": "In Mexico you will also hear no hay de qué and con gusto.",
+      "ex": [
+        {"es": "—Gracias. —De nada.", "en": "\"Thanks.\" \"You're welcome.\""}
+      ]
+    },
+    {
+      "es": "por favor", "pos": "phrase", "en": "please",
+      "ex": [
+        {"es": "Un café, por favor.", "en": "A coffee, please."}
+      ]
+    },
+    {
+      "es": "perdón", "pos": "interj.", "en": "sorry; excuse me (to get past or interrupt)",
+      "he": "סליחה",
+      "ex": [
+        {"tag": "sorry", "es": "Perdón, no quise molestarte.", "en": "Sorry, I didn't mean to bother you."},
+        {"tag": "excuse me", "es": "Perdón, ¿me deja pasar?", "en": "Excuse me, may I get past?"}
+      ]
+    },
+    {
+      "es": "disculpe", "pos": "interj.", "en": "excuse me (formal, to get attention)",
+      "note": "The opener for asking a stranger anything. Informal: disculpa.",
+      "ex": [
+        {"es": "Disculpe, ¿dónde está la estación?", "en": "Excuse me, where is the station?"}
+      ]
+    },
+    {
+      "es": "con permiso", "pos": "phrase", "en": "excuse me (passing by, or leaving)",
+      "he": "ברשותך",
+      "note": "Said as you squeeze past someone or step away from a table. Where English says nothing, Spanish says this.",
+      "ex": [
+        {"es": "Con permiso, voy a salir un momento.", "en": "Excuse me, I'm going to step out for a moment."}
+      ]
+    },
+    {
+      "es": "mucho gusto", "pos": "phrase", "en": "nice to meet you",
+      "note": "The reply is igualmente or el gusto es mío.",
+      "ex": [
+        {"es": "Mucho gusto, soy Miguel.", "en": "Nice to meet you, I'm Miguel."}
+      ]
+    },
+    {
+      "es": "claro", "pos": "adv.", "en": "of course, sure; clearly",
+      "he": "בטח / ברור",
+      "note": "claro que sí is an emphatic yes; claro que no an emphatic no.",
+      "ex": [
+        {"tag": "of course", "es": "—¿Me ayudas? —¡Claro!", "en": "\"Will you help me?\" \"Of course!\""},
+        {"tag": "clearly", "es": "Habla claro, por favor.", "en": "Speak clearly, please."}
+      ]
+    },
+    {
+      "es": "salud", "pos": "interj.", "en": "cheers!; bless you!",
+      "he": "לחיים / לבריאות",
+      "note": "Literally health. The same word covers the toast and the sneeze.",
+      "ex": [
+        {"tag": "cheers", "es": "¡Salud, por los novios!", "en": "Cheers, to the newlyweds!"},
+        {"tag": "bless you", "es": "—¡Achú! —¡Salud!", "en": "\"Achoo!\" \"Bless you!\""}
+      ]
+    },
+    {
+      "es": "adiós", "pos": "interj.", "en": "goodbye",
+      "note": "A touch final. For everyday partings people prefer hasta luego or chao.",
+      "ex": [
+        {"es": "Adiós, y buen viaje.", "en": "Goodbye, and have a good trip."}
+      ]
+    },
+    {
+      "es": "hasta luego", "pos": "phrase", "en": "see you later",
+      "note": "Same pattern: hasta mañana, hasta el lunes, hasta pronto.",
+      "ex": [
+        {"es": "Me voy. ¡Hasta luego!", "en": "I'm off. See you later!"}
+      ]
+    }
+  ]
+}

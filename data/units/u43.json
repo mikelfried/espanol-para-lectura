@@ -1,0 +1,165 @@
+{
+  "id": "u43",
+  "title": "Judging and comparing",
+  "intro": "Adjectives and adverbs for saying how good, how bad and how much. Remember the four irregular comparatives that refuse más: mejor, peor, mayor, menor (see the opening section).",
+  "entries": [
+    {
+      "es": "bueno · malo", "pos": "adj.", "en": "good; bad",
+      "note": "Both shorten before a masculine singular noun: un buen día, un mal año.",
+      "ex": [
+        {"tag": "good", "es": "Es una buena idea.", "en": "It's a good idea."},
+        {"tag": "bad", "es": "Fue un mal día para todos.", "en": "It was a bad day for everyone."}
+      ]
+    },
+    {
+      "es": "mejor · peor", "pos": "adj. / adv.", "en": "better, best; worse, worst",
+      "he": "יותר טוב / יותר גרוע",
+      "note": "Never más bueno or más malo in comparisons. With the article they become the superlative: el mejor.",
+      "ex": [
+        {"tag": "better", "es": "Este camino es mejor.", "en": "This road is better."},
+        {"tag": "worse", "es": "La segunda parte es peor.", "en": "The second part is worse."}
+      ]
+    },
+    {
+      "es": "mayor · menor", "pos": "adj.", "en": "older, greater; younger, lesser",
+      "note": "mi hermano mayor is my older brother. Also used of quantities: la mayor parte, most of.",
+      "ex": [
+        {"tag": "older", "es": "Mi hermana mayor vive en Chile.", "en": "My older sister lives in Chile."},
+        {"tag": "younger", "es": "Es tres años menor que yo.", "en": "He's three years younger than me."}
+      ]
+    },
+    {
+      "es": "igual", "pos": "adj. / adv.", "en": "the same, equal; anyway",
+      "he": "אותו דבר / בכל מקרה",
+      "note": "me da igual means I don't mind. al igual que means just like.",
+      "ex": [
+        {"tag": "the same", "es": "Los dos cuestan igual.", "en": "They both cost the same."},
+        {"tag": "anyway", "es": "Igual voy a ir.", "en": "I'm going to go anyway."}
+      ]
+    },
+    {
+      "es": "parecido · distinto", "pos": "adj.", "en": "similar; different",
+      "note": "diferente also works for different. parecerse a is to look like.",
+      "ex": [
+        {"tag": "similar", "es": "Son muy parecidos.", "en": "They're very similar."},
+        {"tag": "different", "es": "Es distinto de lo que esperaba.", "en": "It's different from what I expected."}
+      ]
+    },
+    {
+      "es": "importante", "pos": "adj.", "en": "important; sizeable",
+      "note": "lo importante is the important thing — see lo in the opening section.",
+      "ex": [
+        {"tag": "important", "es": "Es importante llegar temprano.", "en": "It's important to arrive early."},
+        {"tag": "sizeable", "es": "Fue una suma importante.", "en": "It was a sizeable sum."}
+      ]
+    },
+    {
+      "es": "difícil · fácil", "pos": "adj.", "en": "difficult; easy",
+      "note": "Both are invariable for gender: un examen difícil, una pregunta difícil.",
+      "ex": [
+        {"tag": "difficult", "es": "El examen fue más difícil de lo normal.", "en": "The exam was harder than usual."},
+        {"tag": "easy", "es": "Es fácil de aprender.", "en": "It's easy to learn."}
+      ]
+    },
+    {
+      "es": "posible · imposible", "pos": "adj.", "en": "possible; impossible",
+      "note": "lo antes posible means as soon as possible.",
+      "ex": [
+        {"tag": "possible", "es": "Es posible que llueva.", "en": "It may rain."},
+        {"tag": "impossible", "es": "Es imposible llegar a tiempo.", "en": "It's impossible to get there on time."}
+      ]
+    },
+    {
+      "es": "cierto", "pos": "adj.", "en": "true; certain, a certain",
+      "he": "נכון / מסוים",
+      "note": "es cierto means it's true. Before a noun it means a certain: cierta persona.",
+      "ex": [
+        {"tag": "true", "es": "Lo que dice es cierto.", "en": "What he says is true."},
+        {"tag": "a certain", "es": "Hay cierto riesgo.", "en": "There is a certain risk."}
+      ]
+    },
+    {
+      "es": "claro · confuso", "pos": "adj.", "en": "clear; confusing, unclear",
+      "note": "See unit 5 for claro meaning of course.",
+      "ex": [
+        {"tag": "clear", "es": "La explicación fue muy clara.", "en": "The explanation was very clear."},
+        {"tag": "unclear", "es": "El texto es confuso.", "en": "The text is confusing."}
+      ]
+    },
+    {
+      "es": "suficiente", "pos": "adj.", "en": "enough, sufficient",
+      "note": "bastante does the same job in speech — see unit 35.",
+      "ex": [
+        {"es": "No hay tiempo suficiente.", "en": "There isn't enough time."}
+      ]
+    },
+    {
+      "es": "principal", "pos": "adj.", "en": "main, principal",
+      "note": "sobre todo and principalmente are the adverbs.",
+      "ex": [
+        {"es": "Ése es el problema principal.", "en": "That's the main problem."}
+      ]
+    },
+    {
+      "es": "general", "pos": "adj.", "en": "general",
+      "note": "en general means generally, on the whole.",
+      "ex": [
+        {"es": "En general estoy de acuerdo.", "en": "On the whole I agree."}
+      ]
+    },
+    {
+      "es": "muy · mucho", "pos": "adv.", "en": "very; a lot, much",
+      "he": "מאוד / הרבה",
+      "warn": "muy goes before adjectives and adverbs, mucho with verbs and nouns. muy bien but me gusta mucho. Never muy mucho.",
+      "ex": [
+        {"tag": "very", "es": "Está muy cansada.", "en": "She's very tired."},
+        {"tag": "a lot", "es": "Trabaja mucho.", "en": "He works a lot."}
+      ]
+    },
+    {
+      "es": "tan · tanto", "pos": "adv.", "en": "so; so much, so many",
+      "note": "Same split as muy and mucho. tan ... como is as ... as; tanto como as much as.",
+      "ex": [
+        {"tag": "so", "es": "No es tan difícil como parece.", "en": "It isn't as hard as it looks."},
+        {"tag": "so much", "es": "No comas tanto.", "en": "Don't eat so much."}
+      ]
+    },
+    {
+      "es": "apenas", "pos": "adv.", "en": "barely, hardly; just, only just",
+      "he": "בקושי / רק עכשיו",
+      "ex": [
+        {"tag": "barely", "es": "Apenas lo conozco.", "en": "I barely know him."},
+        {"tag": "just", "es": "Apenas llegué.", "en": "I've only just arrived."}
+      ]
+    },
+    {
+      "es": "quizá · tal vez", "pos": "adv.", "en": "perhaps, maybe",
+      "note": "quizás with an s is equally correct. Both often take the subjunctive: quizá venga.",
+      "ex": [
+        {"es": "Tal vez llegue mañana.", "en": "Perhaps he'll arrive tomorrow."}
+      ]
+    },
+    {
+      "es": "por supuesto", "pos": "phrase", "en": "of course",
+      "note": "claro que sí and desde luego do the same job.",
+      "ex": [
+        {"es": "Por supuesto que te ayudo.", "en": "Of course I'll help you."}
+      ]
+    },
+    {
+      "es": "de acuerdo", "pos": "phrase", "en": "agreed, all right; in agreement",
+      "note": "estar de acuerdo con is to agree with. On its own, de acuerdo means OK.",
+      "ex": [
+        {"tag": "OK", "es": "De acuerdo, nos vemos allí.", "en": "All right, see you there."},
+        {"tag": "in agreement", "es": "No estoy de acuerdo contigo.", "en": "I don't agree with you."}
+      ]
+    },
+    {
+      "es": "vale la pena", "pos": "phrase", "en": "it's worth it",
+      "note": "From valer — see unit 40. vale la pena intentarlo, it's worth trying.",
+      "ex": [
+        {"es": "El viaje es largo pero vale la pena.", "en": "The journey is long but it's worth it."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "id": "u40",
+  "title": "More high-frequency verbs",
+  "intro": "A gathering of verbs that are too common to leave out but belong to no single theme. Several are irregular only in the yo form, which is the easiest kind of irregularity to learn.",
+  "entries": [
+    {
+      "es": "necesitar", "pos": "v.", "en": "to need",
+      "note": "hacer falta is the alternative, built like gustar: me hace falta tiempo.",
+      "ex": [
+        {"es": "Necesito hablar contigo.", "en": "I need to talk to you."}
+      ]
+    },
+    {
+      "es": "usar · utilizar", "pos": "v.", "en": "to use",
+      "note": "See unit 28. utilizar is the more formal of the two.",
+      "ex": [
+        {"es": "Utilizamos este método desde hace años.", "en": "We've used this method for years."}
+      ]
+    },
+    {
+      "es": "cambiar", "pos": "v.", "en": "to change; to exchange",
+      "he": "לשנות / להחליף",
+      "ex": [
+        {"tag": "change", "es": "Cambió de trabajo en marzo.", "en": "He changed jobs in March."},
+        {"tag": "exchange", "es": "¿Puedo cambiar esta camisa?", "en": "Can I exchange this shirt?"}
+      ]
+    },
+    {
+      "es": "pasar", "pos": "v.", "en": "to pass, to go by; to happen; to spend (time)",
+      "he": "לעבור / לקרות",
+      "note": "¿Qué pasa? is what's happening. pasarlo bien is to have a good time.",
+      "ex": [
+        {"tag": "pass", "es": "Pasamos por tu casa camino al centro.", "en": "We went past your house on the way into town."},
+        {"tag": "happen", "es": "¿Qué pasó anoche?", "en": "What happened last night?"},
+        {"tag": "spend time", "es": "Pasé el verano en el campo.", "en": "I spent the summer in the countryside."}
+      ]
+    },
+    {
+      "es": "quedarse", "pos": "v.", "en": "to stay, to remain",
+      "note": "See unit 1 for quedar without the reflexive.",
+      "ex": [
+        {"es": "Me quedo una noche más.", "en": "I'm staying one more night."}
+      ]
+    },
+    {
+      "es": "vivir · morir", "pos": "v. irr.", "en": "to live; to die",
+      "note": "See unit 2 and unit 10. Paired here because they are the two commonest verbs in any obituary or biography.",
+      "ex": [
+        {"tag": "live", "es": "Vivió noventa años.", "en": "She lived ninety years."},
+        {"tag": "die", "es": "Murió en su pueblo.", "en": "He died in his village."}
+      ]
+    },
+    {
+      "es": "creer · pensar", "pos": "v.", "en": "to believe; to think",
+      "note": "See unit 2. creo que and pienso que are interchangeable in most sentences.",
+      "ex": [
+        {"tag": "believe", "es": "No creo lo que dice.", "en": "I don't believe what he says."},
+        {"tag": "think", "es": "Pienso que deberías ir.", "en": "I think you should go."}
+      ]
+    },
+    {
+      "es": "salir · entrar", "pos": "v. irr.", "en": "to go out; to go in",
+      "note": "See unit 22. Printed on every door: salida and entrada.",
+      "ex": [
+        {"tag": "go out", "es": "Salgo del trabajo a las seis.", "en": "I leave work at six."},
+        {"tag": "go in", "es": "Entró sin llamar.", "en": "He came in without knocking."}
+      ]
+    },
+    {
+      "es": "esperar · empezar", "pos": "v. irr.", "en": "to wait; to begin",
+      "note": "See unit 2 for the three meanings of esperar.",
+      "ex": [
+        {"tag": "wait", "es": "Esperemos cinco minutos más.", "en": "Let's wait five more minutes."},
+        {"tag": "begin", "es": "Empezamos a las nueve en punto.", "en": "We begin at nine sharp."}
+      ]
+    },
+    {
+      "es": "acabar", "pos": "v.", "en": "to finish; to have just done",
+      "he": "לגמור / בדיוק עשה",
+      "note": "acabar de + infinitive means to have just done something: acabo de llegar, I've just arrived. Extremely common and has no single-word English equivalent.",
+      "ex": [
+        {"tag": "finish", "es": "Acabamos el trabajo ayer.", "en": "We finished the work yesterday."},
+        {"tag": "have just", "es": "Acabo de hablar con ella.", "en": "I've just spoken to her."}
+      ]
+    },
+    {
+      "es": "convertirse · volverse", "pos": "v. irr.", "en": "to become",
+      "note": "Spanish has several becomes: hacerse for a chosen change, ponerse for a passing state, volverse for a lasting one, convertirse en for a transformation.",
+      "ex": [
+        {"es": "Se convirtió en el mejor del equipo.", "en": "He became the best in the team."}
+      ]
+    },
+    {
+      "es": "evitar", "pos": "v.", "en": "to avoid; to prevent",
+      "he": "להימנע / למנוע",
+      "ex": [
+        {"tag": "avoid", "es": "Evita la avenida a esta hora.", "en": "Avoid the avenue at this time."},
+        {"tag": "prevent", "es": "No pudimos evitar el accidente.", "en": "We couldn't prevent the accident."}
+      ]
+    },
+    {
+      "es": "aceptar · negar", "pos": "v. irr.", "en": "to accept; to deny, to refuse",
+      "note": "negarse a is to refuse to do something.",
+      "ex": [
+        {"tag": "accept", "es": "Aceptó la oferta enseguida.", "en": "She accepted the offer straight away."},
+        {"tag": "deny", "es": "Negó todo lo que dijeron.", "en": "He denied everything they said."}
+      ]
+    },
+    {
+      "es": "mostrar", "pos": "v. irr.", "en": "to show",
+      "note": "enseñar does the same job in speech — see unit 24.",
+      "conj": {"label": "pres.", "forms": ["muestro", "muestras", "muestra", "mostramos", "muestran"]},
+      "ex": [
+        {"es": "Muéstrame cómo se hace.", "en": "Show me how it's done."}
+      ]
+    },
+    {
+      "es": "elegir · escoger", "pos": "v. irr.", "en": "to choose; to elect",
+      "he": "לבחור",
+      "conj": {"label": "elegir, pres.", "forms": ["elijo", "eliges", "elige", "elegimos", "eligen"]},
+      "ex": [
+        {"tag": "choose", "es": "Escoge el que más te guste.", "en": "Choose the one you like best."},
+        {"tag": "elect", "es": "Lo eligieron presidente.", "en": "They elected him president."}
+      ]
+    },
+    {
+      "es": "ocurrir · suceder", "pos": "v.", "en": "to happen, to occur",
+      "note": "se me ocurrió means it occurred to me — an idea rather than an event.",
+      "ex": [
+        {"es": "Nadie sabe qué ocurrió.", "en": "Nobody knows what happened."}
+      ]
+    },
+    {
+      "es": "resolver", "pos": "v. irr.", "en": "to solve, to resolve",
+      "note": "Irregular past participle: resuelto.",
+      "conj": {"label": "pres.", "forms": ["resuelvo", "resuelves", "resuelve", "resolvemos", "resuelven"]},
+      "ex": [
+        {"es": "Ya resolvimos el problema.", "en": "We've already solved the problem."}
+      ]
+    },
+    {
+      "es": "faltar", "pos": "v.", "en": "to be missing, to be lacking; to be left",
+      "he": "לחסר / להישאר",
+      "note": "Built like gustar. falta sal means it needs salt; faltan dos días, there are two days to go.",
+      "ex": [
+        {"tag": "be missing", "es": "Falta una silla.", "en": "There's a chair missing."},
+        {"tag": "be left", "es": "Faltan diez minutos.", "en": "There are ten minutes to go."}
+      ]
+    },
+    {
+      "es": "sobrar", "pos": "v.", "en": "to be left over, to be more than enough",
+      "note": "The opposite of faltar. las sobras are leftovers.",
+      "ex": [
+        {"es": "Sobró mucha comida.", "en": "There was a lot of food left over."}
+      ]
+    },
+    {
+      "es": "valer", "pos": "v. irr.", "en": "to be worth; to cost",
+      "he": "להיות שווה",
+      "note": "vale la pena means it's worth it. In Spain ¡vale! means OK.",
+      "conj": {"label": "pres.", "forms": ["valgo", "vales", "vale", "valemos", "valen"]},
+      "ex": [
+        {"tag": "be worth", "es": "No vale la pena discutir.", "en": "It isn't worth arguing."},
+        {"tag": "cost", "es": "¿Cuánto vale este libro?", "en": "How much is this book?"}
+      ]
+    }
+  ]
+}

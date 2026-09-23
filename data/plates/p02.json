@@ -1,0 +1,53 @@
+{
+  "id": "p02",
+  "title": "¿Dónde está el gato? · the prepositions of place",
+  "intro": "One cat, one table, one box, nine situations. These nine words resist glossing — English collapses debajo de and bajo, delante de and antes de, dentro de and en. So don't translate: look at where the cat is and say it.",
+  "svg": "<svg viewBox=\"0 0 780 700\" xmlns=\"http://www.w3.org/2000/svg\"><defs><g id=\"cat\"><path d=\"M14 74C-4 74-12 56-4 44 0 38 6 38 9 41\" fill=\"none\" stroke=\"#2b3138\" stroke-width=\"6.5\" stroke-linecap=\"round\"/><path d=\"M14 76C4 68 4 46 18 37c8-6 18-5 24 0 8 6 10 23 8 39z\" fill=\"#2b3138\"/><ellipse cx=\"17\" cy=\"74\" rx=\"10.5\" ry=\"4.2\" fill=\"#2b3138\"/><ellipse cx=\"48\" cy=\"74\" rx=\"8.5\" ry=\"4.2\" fill=\"#2b3138\"/><path d=\"M34 18 35 3 45 13z\" fill=\"#2b3138\"/><path d=\"M50 12 60 2 58 19z\" fill=\"#2b3138\"/><circle cx=\"45\" cy=\"26\" r=\"13.5\" fill=\"#2b3138\"/><circle cx=\"51\" cy=\"23\" r=\"2\" fill=\"#fff\"/></g><g id=\"table\"><path d=\"M75 44v48\" stroke=\"#7b6a58\" stroke-width=\"6\"/><path d=\"M4 26v42M146 26v42\" stroke=\"#8a7862\" stroke-width=\"6\"/><path d=\"M0 20 75 0l75 20-75 20z\" fill=\"#c9b79c\" stroke=\"#6f5f4d\" stroke-width=\"1.6\"/><path d=\"M0 20v8l75 20v-8z\" fill=\"#a8957a\" stroke=\"#6f5f4d\" stroke-width=\"1.6\"/><path d=\"M150 20v8L75 48v-8z\" fill=\"#93805f\" stroke=\"#6f5f4d\" stroke-width=\"1.6\"/><path d=\"M18 15 88 32M40 9 108 25\" stroke=\"#b5a289\" stroke-width=\"1.2\"/></g><g id=\"box\"><path d=\"M0 18 55 0l55 18v52L55 88 0 70z\" fill=\"#d8c4a4\" stroke=\"#8a7150\" stroke-width=\"1.8\"/><path d=\"M0 18 55 36l55-18\" fill=\"none\" stroke=\"#8a7150\" stroke-width=\"1.8\"/><path d=\"M55 36v52\" stroke=\"#8a7150\" stroke-width=\"1.6\"/><path d=\"M0 18 55 36v52L0 70z\" fill=\"#c2ab89\" stroke=\"#8a7150\" stroke-width=\"1.8\"/><path d=\"M22 48v24\" stroke=\"#a8926f\" stroke-width=\"1.3\"/><path d=\"M84 46v24\" stroke=\"#a8926f\" stroke-width=\"1.3\"/></g><g id=\"obox\"><path d=\"M0 30 55 12l55 18v46L55 94 0 76z\" fill=\"#d8c4a4\" stroke=\"#8a7150\" stroke-width=\"1.8\"/><path d=\"M0 30 55 48l55-18M55 48v46\" fill=\"none\" stroke=\"#8a7150\" stroke-width=\"1.7\"/><path d=\"M0 30 55 48v46L0 76z\" fill=\"#c2ab89\" stroke=\"#8a7150\" stroke-width=\"1.8\"/><path d=\"M0 30-16 8 40 0l15 12z\" fill=\"#e7d8bd\" stroke=\"#8a7150\" stroke-width=\"1.6\"/><path d=\"M110 30l16-22-56-8-15 12z\" fill=\"#cdb894\" stroke=\"#8a7150\" stroke-width=\"1.6\"/></g><g id=\"chair\"><path d=\"M4 30v44M50 30v44\" stroke=\"#8a7862\" stroke-width=\"5\"/><path d=\"M0 26 27 14l27 12-27 12z\" fill=\"#c9b79c\" stroke=\"#6f5f4d\" stroke-width=\"1.5\"/><path d=\"M0 26v6l27 12v-6zM54 26v6L27 44v-6z\" fill=\"#a8957a\" stroke=\"#6f5f4d\" stroke-width=\"1.5\"/><path d=\"M2 24 2-18M52 24 52-18\" stroke=\"#8a7862\" stroke-width=\"4.5\"/><path d=\"M0-18h54v10H0z\" fill=\"#c9b79c\" stroke=\"#6f5f4d\" stroke-width=\"1.5\"/></g></defs><style>.cap{font-size:18px;fill:#1d2229;font-weight:600;text-anchor:middle}.sub{font-size:12px;fill:#79818d;text-anchor:middle}.bn{fill:#1d2229}.bt{font-size:12px;fill:#fff;font-weight:700;text-anchor:middle}.cel{fill:#fbfbfa;stroke:#e2e6ea;stroke-width:1}.gnd{stroke:#cfd5db;stroke-width:1.5;stroke-linecap:round}</style><g class=\"cel\"><rect x=\"14\" y=\"14\" width=\"250\" height=\"216\" rx=\"4\"/><rect x=\"265\" y=\"14\" width=\"250\" height=\"216\" rx=\"4\"/><rect x=\"516\" y=\"14\" width=\"250\" height=\"216\" rx=\"4\"/><rect x=\"14\" y=\"231\" width=\"250\" height=\"216\" rx=\"4\"/><rect x=\"265\" y=\"231\" width=\"250\" height=\"216\" rx=\"4\"/><rect x=\"516\" y=\"231\" width=\"250\" height=\"216\" rx=\"4\"/><rect x=\"14\" y=\"448\" width=\"250\" height=\"216\" rx=\"4\"/><rect x=\"265\" y=\"448\" width=\"250\" height=\"216\" rx=\"4\"/><rect x=\"516\" y=\"448\" width=\"250\" height=\"216\" rx=\"4\"/></g><g class=\"gnd\"><path d=\"M46 176h186\"/><path d=\"M297 176h186\"/><path d=\"M548 176h186\"/><path d=\"M46 393h186\"/><path d=\"M297 393h186\"/><path d=\"M548 393h186\"/><path d=\"M46 610h186\"/><path d=\"M297 610h186\"/><path d=\"M548 610h186\"/></g><g><use href=\"#table\" x=\"64\" y=\"84\"/><use href=\"#cat\" transform=\"translate(104,30)\"/><text x=\"139\" y=\"206\" class=\"cap lab\">encima de</text><text x=\"139\" y=\"222\" class=\"sub lab\">on top of</text><circle cx=\"38\" cy=\"38\" r=\"13\" class=\"bn\"/><text x=\"38\" y=\"43\" class=\"bt\">1</text></g><g><use href=\"#table\" x=\"315\" y=\"84\"/><use href=\"#cat\" transform=\"translate(368,130) scale(0.6)\"/><text x=\"390\" y=\"206\" class=\"cap lab\">debajo de</text><text x=\"390\" y=\"222\" class=\"sub lab\">underneath</text><circle cx=\"289\" cy=\"38\" r=\"13\" class=\"bn\"/><text x=\"289\" y=\"43\" class=\"bt\">2</text></g><g><use href=\"#table\" x=\"570\" y=\"84\"/><use href=\"#cat\" transform=\"translate(600,101)\"/><text x=\"641\" y=\"206\" class=\"cap lab\">delante de</text><text x=\"641\" y=\"222\" class=\"sub lab\">in front of</text><circle cx=\"540\" cy=\"38\" r=\"13\" class=\"bn\"/><text x=\"540\" y=\"43\" class=\"bt\">3</text></g><g><use href=\"#cat\" transform=\"translate(96,272)\"/><use href=\"#table\" x=\"64\" y=\"301\"/><text x=\"139\" y=\"423\" class=\"cap lab\">detrás de</text><text x=\"139\" y=\"439\" class=\"sub lab\">behind</text><circle cx=\"38\" cy=\"255\" r=\"13\" class=\"bn\"/><text x=\"38\" y=\"260\" class=\"bt\">4</text></g><g><use href=\"#table\" x=\"296\" y=\"301\"/><use href=\"#cat\" transform=\"translate(452,318)\"/><text x=\"390\" y=\"423\" class=\"cap lab\">al lado de</text><text x=\"390\" y=\"439\" class=\"sub lab\">next to</text><circle cx=\"289\" cy=\"255\" r=\"13\" class=\"bn\"/><text x=\"289\" y=\"260\" class=\"bt\">5</text></g><g><use href=\"#chair\" x=\"556\" y=\"319\"/><use href=\"#chair\" x=\"676\" y=\"319\"/><use href=\"#cat\" transform=\"translate(612,317)\"/><text x=\"641\" y=\"423\" class=\"cap lab\">entre</text><text x=\"641\" y=\"439\" class=\"sub lab\">between</text><circle cx=\"540\" cy=\"255\" r=\"13\" class=\"bn\"/><text x=\"540\" y=\"260\" class=\"bt\">6</text></g><g><use href=\"#obox\" x=\"84\" y=\"516\"/><use href=\"#cat\" transform=\"translate(110,496)\"/><path d=\"M84 546 139 564v46l-55-18z\" fill=\"#c2ab89\" stroke=\"#8a7150\" stroke-width=\"1.8\"/><path d=\"M139 564l55-18v46l-55 18z\" fill=\"#d8c4a4\" stroke=\"#8a7150\" stroke-width=\"1.8\"/><text x=\"139\" y=\"640\" class=\"cap lab\">dentro de</text><text x=\"139\" y=\"656\" class=\"sub lab\">inside</text><circle cx=\"38\" cy=\"472\" r=\"13\" class=\"bn\"/><text x=\"38\" y=\"477\" class=\"bt\">7</text></g><g><use href=\"#obox\" x=\"300\" y=\"516\"/><use href=\"#cat\" transform=\"translate(432,535)\"/><text x=\"390\" y=\"640\" class=\"cap lab\">fuera de</text><text x=\"390\" y=\"656\" class=\"sub lab\">outside</text><circle cx=\"289\" cy=\"472\" r=\"13\" class=\"bn\"/><text x=\"289\" y=\"477\" class=\"bt\">8</text></g><g><use href=\"#box\" x=\"576\" y=\"524\"/><ellipse cx=\"631\" cy=\"568\" rx=\"106\" ry=\"52\" fill=\"none\" stroke=\"#1d2229\" stroke-width=\"1.7\" stroke-dasharray=\"8 7\"/><path d=\"M528 560 541 570 526 577z\" fill=\"#1d2229\"/><path d=\"M734 576 721 566 736 559z\" fill=\"#1d2229\"/><use href=\"#cat\" transform=\"translate(598,546)\"/><text x=\"641\" y=\"640\" class=\"cap lab\">alrededor de</text><text x=\"641\" y=\"656\" class=\"sub lab\">around</text><circle cx=\"540\" cy=\"472\" r=\"13\" class=\"bn\"/><text x=\"540\" y=\"477\" class=\"bt\">9</text></g></svg>",
+  "items": [
+    {
+      "n": 1,
+      "es": "encima de · sobre",
+      "en": "on top of, on"
+    },
+    {
+      "n": 2,
+      "es": "debajo de",
+      "en": "underneath, under"
+    },
+    {
+      "n": 3,
+      "es": "delante de",
+      "en": "in front of"
+    },
+    {
+      "n": 4,
+      "es": "detrás de",
+      "en": "behind"
+    },
+    {
+      "n": 5,
+      "es": "al lado de · junto a",
+      "en": "next to, beside"
+    },
+    {
+      "n": 6,
+      "es": "entre",
+      "en": "between, among"
+    },
+    {
+      "n": 7,
+      "es": "dentro de · en",
+      "en": "inside, in"
+    },
+    {
+      "n": 8,
+      "es": "fuera de",
+      "en": "outside of"
+    },
+    {
+      "n": 9,
+      "es": "alrededor de",
+      "en": "around"
+    }
+  ]
+}

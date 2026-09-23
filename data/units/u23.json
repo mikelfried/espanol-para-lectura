@@ -1,0 +1,156 @@
+{
+  "id": "u23",
+  "title": "Speaking and listening",
+  "intro": "Spanish separates decir (to say the words) from hablar (to talk), contar (to tell a story) and platicar or charlar (to chat). English overloads say, tell and talk; Spanish does not.",
+  "entries": [
+    {
+      "es": "la palabra", "pos": "n.f.", "en": "word; right to speak",
+      "he": "מילה",
+      "ex": [
+        {"tag": "word", "es": "No entendí esa palabra.", "en": "I didn't understand that word."},
+        {"tag": "right to speak", "es": "Le dieron la palabra al testigo.", "en": "They gave the witness the floor."}
+      ]
+    },
+    {
+      "es": "la frase", "pos": "n.f.", "en": "sentence, phrase",
+      "note": "la oración is the grammatical term for a sentence, and also a prayer.",
+      "ex": [
+        {"es": "Repite la frase completa.", "en": "Repeat the whole sentence."}
+      ]
+    },
+    {
+      "es": "el idioma", "pos": "n.m.", "en": "language",
+      "note": "Masculine despite the -a. la lengua also means language, and the tongue.",
+      "ex": [
+        {"es": "Habla cuatro idiomas.", "en": "She speaks four languages."}
+      ]
+    },
+    {
+      "es": "contar", "pos": "v. irr.", "en": "to tell (a story); to count",
+      "he": "לספר / לספור",
+      "note": "contar con means to count on, to rely on.",
+      "conj": {"label": "pres.", "forms": ["cuento", "cuentas", "cuenta", "contamos", "cuentan"]},
+      "ex": [
+        {"tag": "tell", "es": "Cuéntame qué pasó.", "en": "Tell me what happened."},
+        {"tag": "count", "es": "Cuenta hasta diez.", "en": "Count to ten."}
+      ]
+    },
+    {
+      "es": "explicar", "pos": "v.", "en": "to explain",
+      "ex": [
+        {"es": "¿Me lo explicas otra vez?", "en": "Could you explain it to me again?"}
+      ]
+    },
+    {
+      "es": "contestar", "pos": "v.", "en": "to answer, to reply",
+      "note": "responder is the slightly more formal synonym. la respuesta is the answer.",
+      "ex": [
+        {"es": "Nadie contestó el teléfono.", "en": "Nobody answered the phone."}
+      ]
+    },
+    {
+      "es": "gritar", "pos": "v.", "en": "to shout, to scream",
+      "note": "el grito is a shout. dar un grito is to let out a yell.",
+      "ex": [
+        {"es": "No me grites, te escucho bien.", "en": "Don't shout at me, I can hear you."}
+      ]
+    },
+    {
+      "es": "callarse", "pos": "v.", "en": "to be quiet, to stop talking",
+      "note": "¡Cállate! is blunt — shut up. el silencio is silence.",
+      "ex": [
+        {"es": "Se calló de repente.", "en": "He suddenly went quiet."}
+      ]
+    },
+    {
+      "es": "repetir", "pos": "v. irr.", "en": "to repeat",
+      "conj": {"label": "pres.", "forms": ["repito", "repites", "repite", "repetimos", "repiten"]},
+      "ex": [
+        {"es": "¿Puede repetir, por favor?", "en": "Could you repeat that, please?"}
+      ]
+    },
+    {
+      "es": "llamar", "pos": "v.", "en": "to call, to phone; to be called (llamarse)",
+      "he": "להתקשר / להיקרא",
+      "note": "¿Cómo te llamas? is literally what do you call yourself.",
+      "ex": [
+        {"tag": "phone", "es": "Te llamo en la noche.", "en": "I'll call you tonight."},
+        {"tag": "be called", "es": "Me llamo Miguel.", "en": "My name is Miguel."}
+      ]
+    },
+    {
+      "es": "el mensaje", "pos": "n.m.", "en": "message",
+      "note": "mandar or enviar un mensaje is to send a message.",
+      "ex": [
+        {"es": "Te dejé un mensaje.", "en": "I left you a message."}
+      ]
+    },
+    {
+      "es": "la voz", "pos": "n.f.", "en": "voice",
+      "note": "Plural voces. en voz alta means out loud; en voz baja quietly.",
+      "ex": [
+        {"es": "Tiene una voz muy grave.", "en": "He has a very deep voice."}
+      ]
+    },
+    {
+      "es": "el ruido", "pos": "n.m.", "en": "noise",
+      "note": "hacer ruido is to make a noise; ruidoso is noisy.",
+      "ex": [
+        {"es": "Los vecinos hacen mucho ruido.", "en": "The neighbours make a lot of noise."}
+      ]
+    },
+    {
+      "es": "oír", "pos": "v. irr.", "en": "to hear",
+      "he": "לשמוע",
+      "note": "Hearing that happens to you, as against escuchar, which is deliberate. ¡Oye! is hey.",
+      "conj": {"label": "pres.", "forms": ["oigo", "oyes", "oye", "oímos", "oyen"]},
+      "ex": [
+        {"es": "No te oigo, habla más fuerte.", "en": "I can't hear you, speak louder."}
+      ]
+    },
+    {
+      "es": "el verbo", "pos": "n.m.", "en": "verb",
+      "note": "el sustantivo is a noun, el adjetivo an adjective, el acento the accent mark.",
+      "ex": [
+        {"es": "Ese verbo es irregular.", "en": "That verb is irregular."}
+      ]
+    },
+    {
+      "es": "significar", "pos": "v.", "en": "to mean",
+      "note": "¿Qué significa esta palabra? is how to ask what a word means. querer decir does the same job.",
+      "ex": [
+        {"es": "¿Qué significa esto?", "en": "What does this mean?"}
+      ]
+    },
+    {
+      "es": "traducir", "pos": "v. irr.", "en": "to translate",
+      "conj": {"label": "pres.", "forms": ["traduzco", "traduces", "traduce", "traducimos", "traducen"]},
+      "ex": [
+        {"es": "¿Me traduces esta frase?", "en": "Will you translate this sentence for me?"}
+      ]
+    },
+    {
+      "es": "el chiste", "pos": "n.m.", "en": "joke",
+      "note": "contar un chiste is to tell a joke. la broma is a prank.",
+      "ex": [
+        {"es": "Nos contó un chiste malísimo.", "en": "He told us a terrible joke."}
+      ]
+    },
+    {
+      "es": "la noticia", "pos": "n.f.", "en": "a piece of news",
+      "note": "Singular for one item, plural las noticias for the news broadcast.",
+      "ex": [
+        {"tag": "one item", "es": "Tengo una buena noticia.", "en": "I have some good news."},
+        {"tag": "the news", "es": "Vemos las noticias a las nueve.", "en": "We watch the news at nine."}
+      ]
+    },
+    {
+      "es": "mentir", "pos": "v. irr.", "en": "to lie, to tell a lie",
+      "note": "la mentira is a lie; la verdad the truth.",
+      "conj": {"label": "pres.", "forms": ["miento", "mientes", "miente", "mentimos", "mienten"]},
+      "ex": [
+        {"es": "No me mientas, por favor.", "en": "Don't lie to me, please."}
+      ]
+    }
+  ]
+}

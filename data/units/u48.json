@@ -1,0 +1,154 @@
+{
+  "id": "u48",
+  "title": "On the road",
+  "intro": "Driving, road signs and the words you need when something goes wrong. See unit 8 and unit 41 for the town itself, unit 22 for the journey.",
+  "entries": [
+    {
+      "es": "la carretera", "pos": "n.f.", "en": "road, highway",
+      "note": "la autopista is a motorway, usually with a toll (la cuota or el peaje).",
+      "ex": [
+        {"es": "La carretera está en obras.", "en": "The road is under repair."}
+      ]
+    },
+    {
+      "es": "el camión", "pos": "n.m.", "en": "lorry, truck; bus (Mexico)",
+      "he": "משאית / אוטובוס",
+      "note": "A real ambiguity: in Mexico el camión is the bus. Elsewhere it is a lorry.",
+      "ex": [
+        {"tag": "lorry", "es": "El camión bloqueaba la calle.", "en": "The lorry was blocking the street."},
+        {"tag": "bus", "es": "Tomé el camión a Puebla.", "en": "I took the bus to Puebla."}
+      ]
+    },
+    {
+      "es": "la bicicleta · la moto", "pos": "n.f.", "en": "bicycle; motorbike",
+      "note": "la bici and la moto are the everyday short forms. la moto is feminine, short for la motocicleta.",
+      "ex": [
+        {"tag": "bicycle", "es": "Voy al trabajo en bicicleta.", "en": "I cycle to work."},
+        {"tag": "motorbike", "es": "Se compró una moto usada.", "en": "He bought a second-hand motorbike."}
+      ]
+    },
+    {
+      "es": "el barco", "pos": "n.m.", "en": "boat, ship",
+      "note": "el buque is a large vessel; la lancha a small motorboat.",
+      "ex": [
+        {"es": "Cruzamos en barco.", "en": "We crossed by boat."}
+      ]
+    },
+    {
+      "es": "la llanta · el neumático", "pos": "n.", "en": "tyre",
+      "note": "la llanta in Latin America, el neumático in Spain. la rueda is the wheel.",
+      "ex": [
+        {"es": "Se me pinchó una llanta.", "en": "I got a flat tyre."}
+      ]
+    },
+    {
+      "es": "el volante · el freno", "pos": "n.m.", "en": "steering wheel; brake",
+      "note": "frenar is to brake; acelerar to accelerate.",
+      "ex": [
+        {"tag": "steering wheel", "es": "No suelte el volante.", "en": "Don't let go of the steering wheel."},
+        {"tag": "brake", "es": "Los frenos no responden bien.", "en": "The brakes aren't responding properly."}
+      ]
+    },
+    {
+      "es": "la velocidad", "pos": "n.f.", "en": "speed",
+      "note": "el límite de velocidad is the speed limit; rápido and lento are fast and slow.",
+      "ex": [
+        {"es": "Iba a mucha velocidad.", "en": "He was going very fast."}
+      ]
+    },
+    {
+      "es": "el accidente", "pos": "n.m.", "en": "accident",
+      "note": "chocar is to crash; el choque the crash.",
+      "ex": [
+        {"es": "Hubo un accidente en la curva.", "en": "There was an accident on the bend."}
+      ]
+    },
+    {
+      "es": "la licencia", "pos": "n.f.", "en": "licence; leave (from work)",
+      "he": "רישיון / חופשה",
+      "note": "la licencia de conducir or el permiso de conducir is a driving licence.",
+      "ex": [
+        {"tag": "licence", "es": "Muéstreme su licencia, por favor.", "en": "Show me your licence, please."},
+        {"tag": "leave", "es": "Está de licencia por enfermedad.", "en": "She's on sick leave."}
+      ]
+    },
+    {
+      "es": "el mapa", "pos": "n.m.", "en": "map",
+      "note": "Masculine despite the -a. el plano is a street plan.",
+      "ex": [
+        {"es": "Búscalo en el mapa.", "en": "Look for it on the map."}
+      ]
+    },
+    {
+      "es": "la ruta · el recorrido", "pos": "n.", "en": "route; journey, run",
+      "ex": [
+        {"tag": "route", "es": "Tomamos la ruta más corta.", "en": "We took the shortest route."},
+        {"tag": "run", "es": "El recorrido dura una hora.", "en": "The run takes an hour."}
+      ]
+    },
+    {
+      "es": "el conductor / la conductora", "pos": "n.", "en": "driver",
+      "note": "el chofer in Latin America, especially of a hired driver.",
+      "ex": [
+        {"es": "El conductor no vio la señal.", "en": "The driver didn't see the sign."}
+      ]
+    },
+    {
+      "es": "el pasajero", "pos": "n.m.", "en": "passenger",
+      "note": "el peatón is a pedestrian.",
+      "ex": [
+        {"es": "Los pasajeros bajaron rápido.", "en": "The passengers got off quickly."}
+      ]
+    },
+    {
+      "es": "el asiento", "pos": "n.m.", "en": "seat",
+      "note": "tomar asiento is to take a seat; el cinturón the seatbelt.",
+      "ex": [
+        {"es": "Mi asiento es el catorce.", "en": "My seat is number fourteen."}
+      ]
+    },
+    {
+      "es": "la llegada · la salida", "pos": "n.f.", "en": "arrival; departure, exit",
+      "note": "The two words on every airport board.",
+      "ex": [
+        {"tag": "arrival", "es": "La llegada está prevista a las seis.", "en": "Arrival is scheduled for six."},
+        {"tag": "departure", "es": "La salida se retrasó una hora.", "en": "Departure was delayed by an hour."}
+      ]
+    },
+    {
+      "es": "el equipaje", "pos": "n.m.", "en": "luggage, baggage",
+      "note": "Singular and uncountable, like la ropa. la maleta is the case — see unit 22.",
+      "ex": [
+        {"es": "Perdieron mi equipaje.", "en": "They lost my luggage."}
+      ]
+    },
+    {
+      "es": "la aduana", "pos": "n.f.", "en": "customs",
+      "note": "declarar is to declare; la frontera the border.",
+      "ex": [
+        {"es": "Nos revisaron en la aduana.", "en": "They searched us at customs."}
+      ]
+    },
+    {
+      "es": "la frontera", "pos": "n.f.", "en": "border, frontier",
+      "ex": [
+        {"es": "Cruzamos la frontera de noche.", "en": "We crossed the border at night."}
+      ]
+    },
+    {
+      "es": "el vuelo", "pos": "n.m.", "en": "flight",
+      "note": "volar is to fly; la escala a stopover; despegar and aterrizar to take off and land.",
+      "ex": [
+        {"es": "El vuelo hace una escala en Bogotá.", "en": "The flight has a stopover in Bogotá."}
+      ]
+    },
+    {
+      "es": "el taxi · el chofer", "pos": "n.m.", "en": "taxi; driver",
+      "note": "In Mexico el taxista is the taxi driver.",
+      "ex": [
+        {"tag": "taxi", "es": "Pedimos un taxi por teléfono.", "en": "We ordered a taxi by phone."},
+        {"tag": "driver", "es": "El chofer conocía un atajo.", "en": "The driver knew a shortcut."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "p07",
+  "title": "Los colores · the colours",
+  "intro": "The one plate that needs no drawing of a thing: the colour is the answer. Colours are adjectives and follow their noun, agreeing with it — una puerta roja, unos zapatos negros. Those ending in -e or a consonant have one form for both genders: verde, azul, gris. claro and oscuro go after the colour and do not agree: unas paredes azul claro.",
+  "svg": "<svg viewBox=\"0 0 764 530\" xmlns=\"http://www.w3.org/2000/svg\"><style>.sw{stroke:#7c838b;stroke-width:1.4}.nm{font-size:15px;fill:#1d2229;font-weight:700;text-anchor:middle}.en{font-size:11px;fill:#79818d;text-anchor:middle}.bn{fill:#fff;stroke:#1d2229;stroke-width:1.6}.bt{font-size:11.5px;fill:#1d2229;font-weight:700;text-anchor:middle}</style><rect x=\"14\" y=\"14\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#ffffff\" class=\"sw\"/><circle cx=\"34\" cy=\"34\" r=\"12\" class=\"bn\"/><text x=\"34\" y=\"38.5\" class=\"bt\">1</text><text x=\"83.0\" y=\"152\" class=\"nm lab\">blanco</text><text x=\"83.0\" y=\"168\" class=\"en lab\">white</text><rect x=\"164\" y=\"14\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#1d2229\" class=\"sw\"/><circle cx=\"184\" cy=\"34\" r=\"12\" class=\"bn\"/><text x=\"184\" y=\"38.5\" class=\"bt\">2</text><text x=\"233.0\" y=\"152\" class=\"nm lab\">negro</text><text x=\"233.0\" y=\"168\" class=\"en lab\">black</text><rect x=\"314\" y=\"14\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#9aa2ab\" class=\"sw\"/><circle cx=\"334\" cy=\"34\" r=\"12\" class=\"bn\"/><text x=\"334\" y=\"38.5\" class=\"bt\">3</text><text x=\"383.0\" y=\"152\" class=\"nm lab\">gris</text><text x=\"383.0\" y=\"168\" class=\"en lab\">grey</text><rect x=\"464\" y=\"14\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#c9352c\" class=\"sw\"/><circle cx=\"484\" cy=\"34\" r=\"12\" class=\"bn\"/><text x=\"484\" y=\"38.5\" class=\"bt\">4</text><text x=\"533.0\" y=\"152\" class=\"nm lab\">rojo</text><text x=\"533.0\" y=\"168\" class=\"en lab\">red</text><rect x=\"614\" y=\"14\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#2f5d9e\" class=\"sw\"/><circle cx=\"634\" cy=\"34\" r=\"12\" class=\"bn\"/><text x=\"634\" y=\"38.5\" class=\"bt\">5</text><text x=\"683.0\" y=\"152\" class=\"nm lab\">azul</text><text x=\"683.0\" y=\"168\" class=\"en lab\">blue</text><rect x=\"14\" y=\"186\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#3f8a4d\" class=\"sw\"/><circle cx=\"34\" cy=\"206\" r=\"12\" class=\"bn\"/><text x=\"34\" y=\"210.5\" class=\"bt\">6</text><text x=\"83.0\" y=\"324\" class=\"nm lab\">verde</text><text x=\"83.0\" y=\"340\" class=\"en lab\">green</text><rect x=\"164\" y=\"186\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#f0c518\" class=\"sw\"/><circle cx=\"184\" cy=\"206\" r=\"12\" class=\"bn\"/><text x=\"184\" y=\"210.5\" class=\"bt\">7</text><text x=\"233.0\" y=\"324\" class=\"nm lab\">amarillo</text><text x=\"233.0\" y=\"340\" class=\"en lab\">yellow</text><rect x=\"314\" y=\"186\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#e2822c\" class=\"sw\"/><circle cx=\"334\" cy=\"206\" r=\"12\" class=\"bn\"/><text x=\"334\" y=\"210.5\" class=\"bt\">8</text><text x=\"383.0\" y=\"324\" class=\"nm lab\">naranja</text><text x=\"383.0\" y=\"340\" class=\"en lab\">orange</text><rect x=\"464\" y=\"186\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#e58fa8\" class=\"sw\"/><circle cx=\"484\" cy=\"206\" r=\"12\" class=\"bn\"/><text x=\"484\" y=\"210.5\" class=\"bt\">9</text><text x=\"533.0\" y=\"324\" class=\"nm lab\">rosado</text><text x=\"533.0\" y=\"340\" class=\"en lab\">pink</text><rect x=\"614\" y=\"186\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#7a4b9b\" class=\"sw\"/><circle cx=\"634\" cy=\"206\" r=\"12\" class=\"bn\"/><text x=\"634\" y=\"210.5\" class=\"bt\">10</text><text x=\"683.0\" y=\"324\" class=\"nm lab\">morado</text><text x=\"683.0\" y=\"340\" class=\"en lab\">purple</text><rect x=\"14\" y=\"358\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#7d5334\" class=\"sw\"/><circle cx=\"34\" cy=\"378\" r=\"12\" class=\"bn\"/><text x=\"34\" y=\"382.5\" class=\"bt\">11</text><text x=\"83.0\" y=\"496\" class=\"nm lab\">café · marrón</text><text x=\"83.0\" y=\"512\" class=\"en lab\">brown</text><rect x=\"164\" y=\"358\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#8fb4dd\" class=\"sw\"/><circle cx=\"184\" cy=\"378\" r=\"12\" class=\"bn\"/><text x=\"184\" y=\"382.5\" class=\"bt\">12</text><text x=\"233.0\" y=\"496\" class=\"nm lab\">azul claro</text><text x=\"233.0\" y=\"512\" class=\"en lab\">light blue</text><rect x=\"314\" y=\"358\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#1d3054\" class=\"sw\"/><circle cx=\"334\" cy=\"378\" r=\"12\" class=\"bn\"/><text x=\"334\" y=\"382.5\" class=\"bt\">13</text><text x=\"383.0\" y=\"496\" class=\"nm lab\">azul oscuro</text><text x=\"383.0\" y=\"512\" class=\"en lab\">dark blue</text><rect x=\"464\" y=\"358\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#c9a227\" class=\"sw\"/><circle cx=\"484\" cy=\"378\" r=\"12\" class=\"bn\"/><text x=\"484\" y=\"382.5\" class=\"bt\">14</text><text x=\"533.0\" y=\"496\" class=\"nm lab\">dorado</text><text x=\"533.0\" y=\"512\" class=\"en lab\">gold</text><rect x=\"614\" y=\"358\" width=\"138\" height=\"116\" rx=\"6\" fill=\"#c2c8ce\" class=\"sw\"/><circle cx=\"634\" cy=\"378\" r=\"12\" class=\"bn\"/><text x=\"634\" y=\"382.5\" class=\"bt\">15</text><text x=\"683.0\" y=\"496\" class=\"nm lab\">plateado</text><text x=\"683.0\" y=\"512\" class=\"en lab\">silver</text></svg>",
+  "items": [
+    {
+      "n": 1,
+      "es": "blanco",
+      "en": "white"
+    },
+    {
+      "n": 2,
+      "es": "negro",
+      "en": "black"
+    },
+    {
+      "n": 3,
+      "es": "gris",
+      "en": "grey"
+    },
+    {
+      "n": 4,
+      "es": "rojo",
+      "en": "red"
+    },
+    {
+      "n": 5,
+      "es": "azul",
+      "en": "blue"
+    },
+    {
+      "n": 6,
+      "es": "verde",
+      "en": "green"
+    },
+    {
+      "n": 7,
+      "es": "amarillo",
+      "en": "yellow"
+    },
+    {
+      "n": 8,
+      "es": "naranja",
+      "en": "orange"
+    },
+    {
+      "n": 9,
+      "es": "rosado",
+      "en": "pink"
+    },
+    {
+      "n": 10,
+      "es": "morado",
+      "en": "purple"
+    },
+    {
+      "n": 11,
+      "es": "café · marrón",
+      "en": "brown"
+    },
+    {
+      "n": 12,
+      "es": "azul claro",
+      "en": "light blue"
+    },
+    {
+      "n": 13,
+      "es": "azul oscuro",
+      "en": "dark blue"
+    },
+    {
+      "n": 14,
+      "es": "dorado",
+      "en": "gold"
+    },
+    {
+      "n": 15,
+      "es": "plateado",
+      "en": "silver"
+    }
+  ]
+}

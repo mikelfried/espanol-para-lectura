@@ -1,0 +1,155 @@
+{
+  "id": "u46",
+  "title": "Celebrations and the year's holidays",
+  "intro": "Holidays are a large part of the calendar in Spanish-speaking countries, and the greetings are fixed formulas. Note that feliz goes before the noun: Feliz Navidad, Feliz cumpleaños.",
+  "entries": [
+    {
+      "es": "la fiesta", "pos": "n.f.", "en": "party, celebration; public holiday",
+      "note": "See unit 33. el día festivo or el feriado is a public holiday.",
+      "ex": [
+        {"tag": "party", "es": "Hicieron una fiesta enorme.", "en": "They threw a huge party."},
+        {"tag": "holiday", "es": "El viernes es día festivo.", "en": "Friday is a public holiday."}
+      ]
+    },
+    {
+      "es": "las vacaciones", "pos": "n.f.pl.", "en": "holiday, holidays, vacation",
+      "he": "חופשה",
+      "note": "Always plural. estar de vacaciones is to be on holiday.",
+      "ex": [
+        {"es": "Nos vamos de vacaciones en julio.", "en": "We're going on holiday in July."}
+      ]
+    },
+    {
+      "es": "la Navidad", "pos": "n.f.", "en": "Christmas",
+      "note": "Capitalised. la Nochebuena is Christmas Eve, and is the bigger celebration of the two.",
+      "ex": [
+        {"es": "Pasamos la Navidad con mis suegros.", "en": "We spent Christmas with my in-laws."}
+      ]
+    },
+    {
+      "es": "el Año Nuevo", "pos": "n.m.", "en": "New Year",
+      "note": "la Nochevieja or el fin de año is New Year's Eve.",
+      "ex": [
+        {"es": "¡Feliz Año Nuevo!", "en": "Happy New Year!"}
+      ]
+    },
+    {
+      "es": "el cumpleaños", "pos": "n.m.", "en": "birthday",
+      "note": "See unit 10. cumplir años is to have a birthday: cumplo treinta.",
+      "ex": [
+        {"es": "¿Cuándo es tu cumpleaños?", "en": "When is your birthday?"}
+      ]
+    },
+    {
+      "es": "felicitar", "pos": "v.", "en": "to congratulate",
+      "note": "¡Felicidades! and ¡Felicitaciones! are both congratulations.",
+      "ex": [
+        {"es": "Vinieron a felicitarnos.", "en": "They came to congratulate us."}
+      ]
+    },
+    {
+      "es": "celebrar", "pos": "v.", "en": "to celebrate; to hold (an event)",
+      "ex": [
+        {"tag": "celebrate", "es": "Celebramos su graduación.", "en": "We celebrated her graduation."},
+        {"tag": "hold", "es": "La reunión se celebra en mayo.", "en": "The meeting is held in May."}
+      ]
+    },
+    {
+      "es": "el pastel · la torta", "pos": "n.", "en": "cake",
+      "note": "el pastel in Mexico, la torta further south. In Mexico la torta is a filled bread roll — a real difference.",
+      "ex": [
+        {"es": "Apagó las velas del pastel.", "en": "She blew out the candles on the cake."}
+      ]
+    },
+    {
+      "es": "la vela", "pos": "n.f.", "en": "candle; sail",
+      "he": "נר / מפרש",
+      "ex": [
+        {"tag": "candle", "es": "Encendimos velas cuando se fue la luz.", "en": "We lit candles when the power went out."},
+        {"tag": "sail", "es": "El barco de vela salió al amanecer.", "en": "The sailing boat left at dawn."}
+      ]
+    },
+    {
+      "es": "el globo", "pos": "n.m.", "en": "balloon; globe",
+      "ex": [
+        {"tag": "balloon", "es": "Los niños reventaron los globos.", "en": "The children burst the balloons."},
+        {"tag": "globe", "es": "Señaló España en el globo.", "en": "He pointed at Spain on the globe."}
+      ]
+    },
+    {
+      "es": "el desfile", "pos": "n.m.", "en": "parade, procession",
+      "note": "desfilar is to parade. la procesión is a religious procession.",
+      "ex": [
+        {"es": "El desfile pasa por la avenida principal.", "en": "The parade goes along the main avenue."}
+      ]
+    },
+    {
+      "es": "los fuegos artificiales", "pos": "n.m.pl.", "en": "fireworks",
+      "note": "Also los cohetes for rockets and bangers.",
+      "ex": [
+        {"es": "Hubo fuegos artificiales a medianoche.", "en": "There were fireworks at midnight."}
+      ]
+    },
+    {
+      "es": "la iglesia · la misa", "pos": "n.f.", "en": "church; mass",
+      "note": "See unit 8. ir a misa is to go to mass.",
+      "ex": [
+        {"tag": "church", "es": "La iglesia estaba llena.", "en": "The church was full."},
+        {"tag": "mass", "es": "La misa empieza a las siete.", "en": "Mass starts at seven."}
+      ]
+    },
+    {
+      "es": "rezar", "pos": "v.", "en": "to pray",
+      "note": "la oración is a prayer, and also a grammatical sentence — see unit 23.",
+      "ex": [
+        {"es": "Reza todas las noches.", "en": "She prays every night."}
+      ]
+    },
+    {
+      "es": "Dios", "pos": "n.m.", "en": "God",
+      "note": "Appears constantly in set phrases regardless of belief: gracias a Dios, si Dios quiere, ¡Dios mío!",
+      "ex": [
+        {"es": "Gracias a Dios llegaron bien.", "en": "Thank God they arrived safely."}
+      ]
+    },
+    {
+      "es": "el santo · la Semana Santa", "pos": "n.", "en": "saint, saint's day; Holy Week, Easter",
+      "note": "Many people celebrate their santo as well as their birthday. Semana Santa is the biggest holiday of the year in much of the region.",
+      "ex": [
+        {"tag": "saint's day", "es": "Mañana es su santo.", "en": "Tomorrow is his saint's day."},
+        {"tag": "Holy Week", "es": "Viajamos en Semana Santa.", "en": "We travel during Holy Week."}
+      ]
+    },
+    {
+      "es": "el regalo · el detalle", "pos": "n.m.", "en": "present; a small gift",
+      "note": "See unit 28 and unit 45. envolver is to wrap.",
+      "ex": [
+        {"tag": "present", "es": "Abrió los regalos por la mañana.", "en": "She opened the presents in the morning."},
+        {"tag": "small gift", "es": "Le llevé un detalle a la anfitriona.", "en": "I took a small gift for the host."}
+      ]
+    },
+    {
+      "es": "la tradición · la costumbre", "pos": "n.f.", "en": "tradition; custom",
+      "note": "See unit 31 for la costumbre.",
+      "ex": [
+        {"tag": "tradition", "es": "Es una tradición familiar.", "en": "It's a family tradition."},
+        {"tag": "custom", "es": "Aquí la costumbre es cenar tarde.", "en": "Here the custom is to eat late."}
+      ]
+    },
+    {
+      "es": "el baile · la música", "pos": "n.", "en": "dance, dancing; music",
+      "note": "See unit 33. No celebration in the region happens without both.",
+      "ex": [
+        {"tag": "dancing", "es": "El baile duró hasta el amanecer.", "en": "The dancing went on until dawn."},
+        {"tag": "music", "es": "La música estaba altísima.", "en": "The music was very loud."}
+      ]
+    },
+    {
+      "es": "disfrutar", "pos": "v.", "en": "to enjoy",
+      "note": "disfrutar de algo, or just disfrutar algo. See divertirse in unit 33.",
+      "ex": [
+        {"es": "Disfrutamos mucho la fiesta.", "en": "We really enjoyed the party."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,292 @@
+{
+  "id": "u17",
+  "title": "Work and jobs",
+  "intro": "Professions drop the article after ser: es maestra, not es una maestra. Adding the article turns it into an emphatic judgement — ¡es un artista! meaning he's a real artist.",
+  "entries": [
+    {
+      "es": "el trabajo",
+      "pos": "n.m.",
+      "en": "work, job; piece of work",
+      "he": "עבודה",
+      "ex": [
+        {
+          "tag": "job",
+          "es": "Encontró trabajo en un banco.",
+          "en": "She found a job at a bank."
+        },
+        {
+          "tag": "piece of work",
+          "es": "Entregué el trabajo tarde.",
+          "en": "I handed the assignment in late."
+        }
+      ]
+    },
+    {
+      "es": "la empresa",
+      "pos": "n.f.",
+      "en": "company, firm",
+      "note": "la compañía is a synonym; el negocio is a business or a deal.",
+      "ex": [
+        {
+          "es": "La empresa tiene cien empleados.",
+          "en": "The company has a hundred employees."
+        }
+      ]
+    },
+    {
+      "es": "la oficina",
+      "pos": "n.f.",
+      "en": "office",
+      "ex": [
+        {
+          "es": "La oficina cierra a las seis.",
+          "en": "The office closes at six."
+        }
+      ]
+    },
+    {
+      "es": "el empleo",
+      "pos": "n.m.",
+      "en": "employment, job",
+      "note": "el empleado is the employee; el desempleo unemployment.",
+      "ex": [
+        {
+          "es": "Busca empleo desde enero.",
+          "en": "He's been looking for work since January."
+        }
+      ]
+    },
+    {
+      "es": "el sueldo",
+      "pos": "n.m.",
+      "en": "salary, wage",
+      "note": "el salario is the formal word; la paga what you actually get.",
+      "ex": [
+        {
+          "es": "Le subieron el sueldo.",
+          "en": "They raised his salary."
+        }
+      ]
+    },
+    {
+      "es": "la reunión",
+      "pos": "n.f.",
+      "en": "meeting, gathering",
+      "note": "Plural reuniones loses the accent.",
+      "ex": [
+        {
+          "es": "La reunión se canceló.",
+          "en": "The meeting was cancelled."
+        }
+      ]
+    },
+    {
+      "es": "el maestro / la maestra",
+      "pos": "n.",
+      "en": "teacher (school); master",
+      "he": "מורה",
+      "note": "el profesor teaches at secondary or university level.",
+      "ex": [
+        {
+          "tag": "teacher",
+          "es": "Mi hermana es maestra.",
+          "en": "My sister is a teacher."
+        },
+        {
+          "tag": "master",
+          "es": "Es un maestro de la guitarra.",
+          "en": "He is a master of the guitar."
+        }
+      ]
+    },
+    {
+      "es": "el abogado / la abogada",
+      "pos": "n.",
+      "en": "lawyer",
+      "ex": [
+        {
+          "es": "Consultamos a una abogada.",
+          "en": "We consulted a lawyer."
+        }
+      ]
+    },
+    {
+      "es": "el ingeniero / la ingeniera",
+      "pos": "n.",
+      "en": "engineer",
+      "ex": [
+        {
+          "es": "Trabaja como ingeniero de software.",
+          "en": "He works as a software engineer."
+        }
+      ]
+    },
+    {
+      "es": "el obrero / la obrera",
+      "pos": "n.",
+      "en": "manual worker, labourer",
+      "note": "el trabajador is any worker; el obrero specifically manual.",
+      "ex": [
+        {
+          "es": "Los obreros empiezan a las seis.",
+          "en": "The workers start at six."
+        }
+      ]
+    },
+    {
+      "es": "el agricultor / el campesino",
+      "pos": "n.m.",
+      "en": "farmer, farm worker",
+      "note": "el campesino carries a rural, often poorer connotation; el granjero is a farm owner.",
+      "ex": [
+        {
+          "es": "Los campesinos venden en el mercado.",
+          "en": "The farmers sell at the market."
+        }
+      ]
+    },
+    {
+      "es": "el policía / la policía",
+      "pos": "n.",
+      "en": "police officer; the police (force)",
+      "he": "שוטר / משטרה",
+      "note": "el policía is one officer, la policía is the force. Gender does the work.",
+      "ex": [
+        {
+          "tag": "officer",
+          "es": "Un policía nos ayudó.",
+          "en": "A police officer helped us."
+        },
+        {
+          "tag": "the force",
+          "es": "Llamamos a la policía.",
+          "en": "We called the police."
+        }
+      ]
+    },
+    {
+      "es": "el cliente / la clienta",
+      "pos": "n.",
+      "en": "customer, client",
+      "ex": [
+        {
+          "es": "El cliente siempre tiene razón.",
+          "en": "The customer is always right."
+        }
+      ]
+    },
+    {
+      "es": "la entrevista",
+      "pos": "n.f.",
+      "en": "interview",
+      "note": "entrevistar is to interview.",
+      "ex": [
+        {
+          "es": "Tengo una entrevista el jueves.",
+          "en": "I have an interview on Thursday."
+        }
+      ]
+    },
+    {
+      "es": "el horario",
+      "pos": "n.m.",
+      "en": "timetable, schedule; opening hours",
+      "ex": [
+        {
+          "tag": "schedule",
+          "es": "Mi horario cambia cada semana.",
+          "en": "My schedule changes every week."
+        },
+        {
+          "tag": "hours",
+          "es": "¿Cuál es el horario de la tienda?",
+          "en": "What are the shop's opening hours?"
+        }
+      ]
+    },
+    {
+      "es": "ganar",
+      "pos": "v.",
+      "en": "to earn; to win",
+      "he": "להרוויח / לנצח",
+      "ex": [
+        {
+          "tag": "earn",
+          "es": "Gana bien en ese puesto.",
+          "en": "She earns well in that position."
+        },
+        {
+          "tag": "win",
+          "es": "Ganamos el partido.",
+          "en": "We won the match."
+        }
+      ]
+    },
+    {
+      "es": "contratar",
+      "pos": "v.",
+      "en": "to hire, to take on",
+      "note": "despedir is to dismiss; renunciar to resign.",
+      "ex": [
+        {
+          "es": "Van a contratar a dos personas más.",
+          "en": "They're going to hire two more people."
+        }
+      ]
+    },
+    {
+      "es": "el jefe / la jefa",
+      "pos": "n.",
+      "en": "boss, head",
+      "note": "el gerente is a manager; el dueño the owner.",
+      "ex": [
+        {
+          "es": "Mi jefa aprobó las vacaciones.",
+          "en": "My boss approved the holiday."
+        }
+      ]
+    },
+    {
+      "es": "ocupado",
+      "pos": "adj.",
+      "en": "busy; occupied, taken",
+      "he": "עסוק / תפוס",
+      "ex": [
+        {
+          "tag": "busy",
+          "es": "Estoy ocupado toda la mañana.",
+          "en": "I'm busy all morning."
+        },
+        {
+          "tag": "taken",
+          "es": "Ese asiento está ocupado.",
+          "en": "That seat is taken."
+        }
+      ]
+    },
+    {
+      "es": "la carrera",
+      "pos": "n.f.",
+      "en": "career; university degree; race",
+      "he": "קריירה / תואר / מרוץ",
+      "note": "Asking ¿qué carrera estudias? asks what you are studying, not about your career.",
+      "ex": [
+        {
+          "tag": "career",
+          "es": "Dejó su carrera para viajar.",
+          "en": "She left her career to travel."
+        },
+        {
+          "tag": "degree",
+          "es": "Estudia la carrera de derecho.",
+          "en": "He is studying law."
+        },
+        {
+          "tag": "race",
+          "es": "Corrió la carrera en tres horas.",
+          "en": "He ran the race in three hours."
+        }
+      ]
+    }
+  ]
+}

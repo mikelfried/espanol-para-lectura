@@ -1,0 +1,158 @@
+{
+  "id": "u38",
+  "title": "Fruit, vegetables and the market",
+  "intro": "Names vary by country more here than almost anywhere else — the same fruit can be el plátano, la banana or el banano. The Mexican and widely-understood term is given first, with alternatives in the notes.",
+  "entries": [
+    {
+      "es": "la manzana", "pos": "n.f.", "en": "apple; block (of houses, in Spain)",
+      "he": "תפוח",
+      "ex": [
+        {"tag": "apple", "es": "Me como una manzana al día.", "en": "I eat an apple a day."},
+        {"tag": "block", "es": "Está a dos manzanas de aquí.", "en": "It's two blocks from here."}
+      ]
+    },
+    {
+      "es": "el plátano", "pos": "n.m.", "en": "banana",
+      "note": "la banana in Argentina and Uruguay, el banano in Colombia. In Spain el plátano; a cooking plantain is el plátano macho.",
+      "ex": [
+        {"es": "Los plátanos ya están maduros.", "en": "The bananas are ripe now."}
+      ]
+    },
+    {
+      "es": "la naranja · el limón", "pos": "n.", "en": "orange; lemon",
+      "note": "In Mexico el limón usually means a lime, and a lemon is el limón amarillo.",
+      "ex": [
+        {"tag": "orange", "es": "Exprimí tres naranjas.", "en": "I squeezed three oranges."},
+        {"tag": "lemon", "es": "Ponle limón al pescado.", "en": "Put lemon on the fish."}
+      ]
+    },
+    {
+      "es": "la uva · la fresa", "pos": "n.f.", "en": "grape; strawberry",
+      "note": "In Spain and Mexico la fresa; in the Southern Cone la frutilla.",
+      "ex": [
+        {"tag": "grape", "es": "Compramos un kilo de uvas.", "en": "We bought a kilo of grapes."},
+        {"tag": "strawberry", "es": "Las fresas están carísimas.", "en": "Strawberries are very expensive."}
+      ]
+    },
+    {
+      "es": "la piña · el mango", "pos": "n.", "en": "pineapple; mango",
+      "note": "In Argentina el ananá for pineapple.",
+      "ex": [
+        {"tag": "pineapple", "es": "Corta la piña en trozos.", "en": "Cut the pineapple into pieces."},
+        {"tag": "mango", "es": "El mango está en su mejor época.", "en": "Mango is at its best right now."}
+      ]
+    },
+    {
+      "es": "el aguacate", "pos": "n.m.", "en": "avocado",
+      "note": "la palta in Peru, Chile, Argentina and Bolivia. A genuine divide.",
+      "ex": [
+        {"es": "El aguacate se pone negro rápido.", "en": "Avocado goes black quickly."}
+      ]
+    },
+    {
+      "es": "el tomate", "pos": "n.m.", "en": "tomato",
+      "note": "el jitomate in central Mexico, where el tomate means a green tomatillo.",
+      "ex": [
+        {"es": "La ensalada lleva tomate y cebolla.", "en": "The salad has tomato and onion in it."}
+      ]
+    },
+    {
+      "es": "la cebolla · el ajo", "pos": "n.", "en": "onion; garlic",
+      "note": "un diente de ajo is a clove of garlic — literally a tooth.",
+      "ex": [
+        {"tag": "onion", "es": "Pica la cebolla bien fina.", "en": "Chop the onion very finely."},
+        {"tag": "garlic", "es": "Añade dos dientes de ajo.", "en": "Add two cloves of garlic."}
+      ]
+    },
+    {
+      "es": "la papa", "pos": "n.f.", "en": "potato",
+      "note": "la papa across Latin America, la patata in Spain. Chips or fries are las papas fritas.",
+      "ex": [
+        {"es": "Hierve las papas veinte minutos.", "en": "Boil the potatoes for twenty minutes."}
+      ]
+    },
+    {
+      "es": "la zanahoria · la lechuga", "pos": "n.f.", "en": "carrot; lettuce",
+      "ex": [
+        {"tag": "carrot", "es": "Ralla una zanahoria para la ensalada.", "en": "Grate a carrot for the salad."},
+        {"tag": "lettuce", "es": "La lechuga está marchita.", "en": "The lettuce has wilted."}
+      ]
+    },
+    {
+      "es": "el maíz", "pos": "n.m.", "en": "maize, corn",
+      "note": "Masculine, despite some lists getting this wrong. el elote is a corn cob in Mexico, el choclo further south.",
+      "ex": [
+        {"es": "Las tortillas son de maíz.", "en": "The tortillas are made of maize."}
+      ]
+    },
+    {
+      "es": "el chile", "pos": "n.m.", "en": "chilli pepper",
+      "note": "el ají in the Andes and the Southern Cone, el pimiento for a sweet pepper in Spain.",
+      "ex": [
+        {"es": "Ese chile es muy picante.", "en": "That chilli is very hot."}
+      ]
+    },
+    {
+      "es": "la sopa · la ensalada", "pos": "n.f.", "en": "soup; salad",
+      "ex": [
+        {"tag": "soup", "es": "La sopa está fría.", "en": "The soup is cold."},
+        {"tag": "salad", "es": "De entrada pedí una ensalada.", "en": "For a starter I ordered a salad."}
+      ]
+    },
+    {
+      "es": "el aceite", "pos": "n.m.", "en": "oil (cooking)",
+      "note": "el petróleo is crude oil. el vinagre is vinegar.",
+      "ex": [
+        {"es": "Usa aceite de oliva.", "en": "Use olive oil."}
+      ]
+    },
+    {
+      "es": "la harina", "pos": "n.f.", "en": "flour",
+      "note": "la masa is dough; hornear is to bake.",
+      "ex": [
+        {"es": "Falta harina para el pan.", "en": "There isn't enough flour for the bread."}
+      ]
+    },
+    {
+      "es": "maduro · fresco", "pos": "adj.", "en": "ripe, mature; fresh, cool",
+      "he": "בשל / טרי",
+      "ex": [
+        {"tag": "ripe", "es": "Espera a que esté maduro.", "en": "Wait until it's ripe."},
+        {"tag": "fresh", "es": "El pescado es fresquísimo.", "en": "The fish is extremely fresh."}
+      ]
+    },
+    {
+      "es": "cocer · hervir", "pos": "v. irr.", "en": "to cook (in liquid); to boil",
+      "note": "cocinar is the general to cook — see unit 12. freír is to fry, asar to roast, hornear to bake.",
+      "ex": [
+        {"tag": "cook", "es": "Cuece el arroz a fuego lento.", "en": "Cook the rice on a low heat."},
+        {"tag": "boil", "es": "Hierve el agua primero.", "en": "Boil the water first."}
+      ]
+    },
+    {
+      "es": "picar", "pos": "v.", "en": "to chop; to sting, to bite; to be spicy",
+      "he": "לקצוץ / לעקוץ / לצרוב",
+      "ex": [
+        {"tag": "chop", "es": "Pica el ajo muy fino.", "en": "Chop the garlic very finely."},
+        {"tag": "sting", "es": "Me picó un mosquito.", "en": "A mosquito bit me."},
+        {"tag": "be spicy", "es": "Esta salsa pica mucho.", "en": "This sauce is very hot."}
+      ]
+    },
+    {
+      "es": "mezclar · añadir", "pos": "v.", "en": "to mix; to add",
+      "note": "agregar is the everyday alternative to añadir in Latin America.",
+      "ex": [
+        {"tag": "mix", "es": "Mezcla bien los ingredientes.", "en": "Mix the ingredients well."},
+        {"tag": "add", "es": "Añade la sal al final.", "en": "Add the salt at the end."}
+      ]
+    },
+    {
+      "es": "la olla · la sartén", "pos": "n.", "en": "pot, pan; frying pan",
+      "note": "la sartén is feminine in most of the Spanish-speaking world, masculine in parts of Latin America.",
+      "ex": [
+        {"tag": "pot", "es": "Pon la olla en la estufa.", "en": "Put the pot on the stove."},
+        {"tag": "frying pan", "es": "Calienta la sartén primero.", "en": "Heat the frying pan first."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "id": "u49",
+  "title": "Set phrases worth knowing whole",
+  "intro": "Fixed expressions that no amount of word-by-word knowledge will give you. Learn each as a single unit, the way you learned the greetings in unit 5.",
+  "entries": [
+    {
+      "es": "tener que", "pos": "phrase", "en": "to have to, must",
+      "he": "חייב",
+      "note": "The commonest way to express obligation, ahead of deber. hay que is the impersonal version: one must.",
+      "ex": [
+        {"tag": "personal", "es": "Tengo que irme ya.", "en": "I have to go now."},
+        {"tag": "impersonal", "es": "Hay que llegar temprano.", "en": "One has to arrive early."}
+      ]
+    },
+    {
+      "es": "ir a + infinitivo", "pos": "phrase", "en": "to be going to",
+      "note": "The everyday future. Spanish has a proper future tense but this outnumbers it in speech.",
+      "ex": [
+        {"es": "Voy a llamarla mañana.", "en": "I'm going to call her tomorrow."}
+      ]
+    },
+    {
+      "es": "acabar de + infinitivo", "pos": "phrase", "en": "to have just done",
+      "note": "See unit 40. acabo de comer, I've just eaten.",
+      "ex": [
+        {"es": "Acaba de salir.", "en": "He's just left."}
+      ]
+    },
+    {
+      "es": "volver a + infinitivo", "pos": "phrase", "en": "to do again",
+      "note": "See unit 1. Where English adds again, Spanish uses a verb.",
+      "ex": [
+        {"es": "Volvió a preguntar lo mismo.", "en": "He asked the same thing again."}
+      ]
+    },
+    {
+      "es": "estar a punto de", "pos": "phrase", "en": "to be about to",
+      "ex": [
+        {"es": "Estaba a punto de llamarte.", "en": "I was about to call you."}
+      ]
+    },
+    {
+      "es": "darse cuenta de", "pos": "phrase", "en": "to realise",
+      "note": "See unit 24. Nothing to do with realizar.",
+      "ex": [
+        {"es": "No se dio cuenta del error.", "en": "He didn't realise the mistake."}
+      ]
+    },
+    {
+      "es": "tener ganas de", "pos": "phrase", "en": "to feel like, to fancy",
+      "note": "See unit 20. The natural way to say you feel like doing something.",
+      "ex": [
+        {"es": "Tengo ganas de un café.", "en": "I fancy a coffee."}
+      ]
+    },
+    {
+      "es": "dar igual", "pos": "phrase", "en": "not to matter, to make no difference",
+      "note": "Built like gustar. me da igual is I don't mind either way.",
+      "ex": [
+        {"es": "Me da igual dónde comamos.", "en": "I don't mind where we eat."}
+      ]
+    },
+    {
+      "es": "por lo menos", "pos": "phrase", "en": "at least",
+      "note": "al menos means the same.",
+      "ex": [
+        {"es": "Dura por lo menos dos horas.", "en": "It lasts at least two hours."}
+      ]
+    },
+    {
+      "es": "más o menos", "pos": "phrase", "en": "more or less, roughly; so-so",
+      "note": "See unit 5.",
+      "ex": [
+        {"tag": "roughly", "es": "Son más o menos veinte minutos.", "en": "It's about twenty minutes."},
+        {"tag": "so-so", "es": "—¿Te gustó? —Más o menos.", "en": "\"Did you like it?\" \"So-so.\""}
+      ]
+    },
+    {
+      "es": "a lo mejor", "pos": "phrase", "en": "maybe, perhaps",
+      "note": "Unlike quizá it takes the indicative: a lo mejor viene.",
+      "ex": [
+        {"es": "A lo mejor llueve por la tarde.", "en": "Maybe it'll rain this afternoon."}
+      ]
+    },
+    {
+      "es": "en serio", "pos": "phrase", "en": "seriously, really",
+      "note": "¿En serio? is the everyday really? tomar en serio is to take seriously.",
+      "ex": [
+        {"es": "¿En serio te dijo eso?", "en": "Did he really say that to you?"}
+      ]
+    },
+    {
+      "es": "ni idea", "pos": "phrase", "en": "no idea",
+      "note": "Short for no tengo ni idea.",
+      "ex": [
+        {"es": "—¿Dónde está? —Ni idea.", "en": "\"Where is it?\" \"No idea.\""}
+      ]
+    },
+    {
+      "es": "de nuevo · otra vez", "pos": "phrase", "en": "again",
+      "note": "otra vez is commoner in speech. See volver a above for the verb version.",
+      "ex": [
+        {"es": "Lo intentó otra vez.", "en": "He tried again."}
+      ]
+    },
+    {
+      "es": "sobre todo · en general", "pos": "phrase", "en": "above all; in general",
+      "note": "See unit 32 and unit 43.",
+      "ex": [
+        {"tag": "above all", "es": "Sobre todo, no te preocupes.", "en": "Above all, don't worry."},
+        {"tag": "in general", "es": "En general funciona bien.", "en": "In general it works well."}
+      ]
+    },
+    {
+      "es": "qué + adjetivo", "pos": "phrase", "en": "how ...!, what a ...!",
+      "he": "כמה...!",
+      "note": "¡Qué bonito! ¡Qué lástima! ¡Qué calor! The commonest exclamation pattern in the language.",
+      "ex": [
+        {"es": "¡Qué bonita casa!", "en": "What a lovely house!"}
+      ]
+    },
+    {
+      "es": "¡Qué lástima! · ¡Qué pena!", "pos": "phrase", "en": "what a shame, what a pity",
+      "note": "In Colombia ¡qué pena! also means sorry or how embarrassing.",
+      "ex": [
+        {"es": "¡Qué lástima que no pudiste venir!", "en": "What a shame you couldn't come!"}
+      ]
+    },
+    {
+      "es": "no importa · no pasa nada", "pos": "phrase", "en": "it doesn't matter; it's fine, no harm done",
+      "note": "no pasa nada is the standard reassurance after an apology.",
+      "ex": [
+        {"tag": "doesn't matter", "es": "No importa, lo hacemos después.", "en": "It doesn't matter, we'll do it later."},
+        {"tag": "it's fine", "es": "—Perdón. —No pasa nada.", "en": "\"Sorry.\" \"It's fine.\""}
+      ]
+    },
+    {
+      "es": "por si acaso", "pos": "phrase", "en": "just in case",
+      "ex": [
+        {"es": "Lleva paraguas por si acaso.", "en": "Take an umbrella just in case."}
+      ]
+    },
+    {
+      "es": "poco a poco", "pos": "phrase", "en": "little by little, gradually",
+      "note": "The standard encouragement to a learner, and true of this book.",
+      "ex": [
+        {"es": "Poco a poco vas mejorando.", "en": "Little by little you're improving."}
+      ]
+    }
+  ]
+}

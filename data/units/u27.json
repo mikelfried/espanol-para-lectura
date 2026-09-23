@@ -1,0 +1,304 @@
+{
+  "id": "u27",
+  "title": "Phones, computers and the internet",
+  "intro": "This is the one area where borrowed English is normal and understood everywhere, but the native words are still the ones printed on signs and menus. Both are given.",
+  "entries": [
+    {
+      "es": "el teléfono",
+      "pos": "n.m.",
+      "en": "telephone",
+      "note": "el celular in Latin America, el móvil in Spain. Both mean mobile phone.",
+      "ex": [
+        {
+          "es": "Se me quedó el teléfono en casa.",
+          "en": "I left my phone at home."
+        }
+      ]
+    },
+    {
+      "es": "la computadora",
+      "pos": "n.f.",
+      "en": "computer",
+      "note": "la computadora in Latin America, el ordenador in Spain. Both are everyday.",
+      "ex": [
+        {
+          "es": "La computadora va lentísima.",
+          "en": "The computer is running very slowly."
+        }
+      ]
+    },
+    {
+      "es": "la pantalla",
+      "pos": "n.f.",
+      "en": "screen",
+      "note": "Also the cinema screen and a lampshade.",
+      "ex": [
+        {
+          "es": "Se rompió la pantalla del celular.",
+          "en": "The phone screen broke."
+        }
+      ]
+    },
+    {
+      "es": "el teclado",
+      "pos": "n.m.",
+      "en": "keyboard",
+      "note": "la tecla is a single key; el ratón the mouse.",
+      "ex": [
+        {
+          "es": "El teclado no tiene la eñe.",
+          "en": "The keyboard doesn't have an ñ."
+        }
+      ]
+    },
+    {
+      "es": "el archivo",
+      "pos": "n.m.",
+      "en": "file; archive",
+      "he": "קובץ / ארכיון",
+      "note": "la carpeta is a folder.",
+      "ex": [
+        {
+          "tag": "file",
+          "es": "No puedo abrir el archivo.",
+          "en": "I can't open the file."
+        },
+        {
+          "tag": "archive",
+          "es": "Lo encontré en el archivo nacional.",
+          "en": "I found it in the national archive."
+        }
+      ]
+    },
+    {
+      "es": "guardar",
+      "pos": "v.",
+      "en": "to save; to keep, to put away",
+      "he": "לשמור",
+      "ex": [
+        {
+          "tag": "save",
+          "es": "Guarda el archivo antes de cerrar.",
+          "en": "Save the file before closing."
+        },
+        {
+          "tag": "put away",
+          "es": "Guarda la ropa en el cajón.",
+          "en": "Put the clothes away in the drawer."
+        }
+      ]
+    },
+    {
+      "es": "borrar",
+      "pos": "v.",
+      "en": "to delete, to erase, to rub out",
+      "ex": [
+        {
+          "es": "Borré el mensaje sin leerlo.",
+          "en": "I deleted the message without reading it."
+        }
+      ]
+    },
+    {
+      "es": "la contraseña",
+      "pos": "n.f.",
+      "en": "password",
+      "note": "la clave is used just as often, and also means key or code.",
+      "ex": [
+        {
+          "es": "Olvidé la contraseña otra vez.",
+          "en": "I've forgotten the password again."
+        }
+      ]
+    },
+    {
+      "es": "la red",
+      "pos": "n.f.",
+      "en": "network; net",
+      "he": "רשת",
+      "note": "las redes sociales is social media. la Red with a capital is the internet.",
+      "ex": [
+        {
+          "tag": "network",
+          "es": "No hay red en este cuarto.",
+          "en": "There's no signal in this room."
+        },
+        {
+          "tag": "net",
+          "es": "La pelota pasó por encima de la red.",
+          "en": "The ball went over the net."
+        }
+      ]
+    },
+    {
+      "es": "el correo",
+      "pos": "n.m.",
+      "en": "email; post, mail",
+      "he": "אימייל / דואר",
+      "note": "el correo electrónico in full; everyone says el correo. la oficina de correos is the post office.",
+      "ex": [
+        {
+          "tag": "email",
+          "es": "Te mandé un correo ayer.",
+          "en": "I sent you an email yesterday."
+        },
+        {
+          "tag": "post",
+          "es": "Llegó por correo esta mañana.",
+          "en": "It came in the post this morning."
+        }
+      ]
+    },
+    {
+      "es": "el enlace",
+      "pos": "n.m.",
+      "en": "link",
+      "note": "el vínculo is the formal word. Many people just say el link.",
+      "ex": [
+        {
+          "es": "Haz clic en el enlace.",
+          "en": "Click on the link."
+        }
+      ]
+    },
+    {
+      "es": "descargar",
+      "pos": "v.",
+      "en": "to download; to unload",
+      "note": "bajar does the job too — see unit 22.",
+      "ex": [
+        {
+          "tag": "download",
+          "es": "Descargué la película anoche.",
+          "en": "I downloaded the film last night."
+        },
+        {
+          "tag": "unload",
+          "es": "Están descargando el camión.",
+          "en": "They're unloading the lorry."
+        }
+      ]
+    },
+    {
+      "es": "subir",
+      "pos": "v.",
+      "en": "to upload",
+      "note": "Same verb as to go up — see unit 22. Context decides.",
+      "ex": [
+        {
+          "es": "Subió las fotos a la nube.",
+          "en": "She uploaded the photos to the cloud."
+        }
+      ]
+    },
+    {
+      "es": "el usuario",
+      "pos": "n.m.",
+      "en": "user; username",
+      "ex": [
+        {
+          "tag": "user",
+          "es": "El sistema tiene mil usuarios.",
+          "en": "The system has a thousand users."
+        },
+        {
+          "tag": "username",
+          "es": "Escribe tu usuario y contraseña.",
+          "en": "Type your username and password."
+        }
+      ]
+    },
+    {
+      "es": "la aplicación",
+      "pos": "n.f.",
+      "en": "app, application",
+      "note": "Often shortened to la app, pronounced as in English.",
+      "ex": [
+        {
+          "es": "Esa aplicación gasta mucha batería.",
+          "en": "That app uses a lot of battery."
+        }
+      ]
+    },
+    {
+      "es": "la batería",
+      "pos": "n.f.",
+      "en": "battery; drums",
+      "he": "סוללה / תופים",
+      "note": "la pila is a small battery, the AA kind.",
+      "ex": [
+        {
+          "tag": "battery",
+          "es": "Se me acabó la batería.",
+          "en": "My battery died."
+        },
+        {
+          "tag": "drums",
+          "es": "Toca la batería en un grupo.",
+          "en": "He plays drums in a band."
+        }
+      ]
+    },
+    {
+      "es": "cargar",
+      "pos": "v.",
+      "en": "to charge; to carry, to load",
+      "he": "לטעון / לסחוב",
+      "note": "el cargador is the charger.",
+      "ex": [
+        {
+          "tag": "charge",
+          "es": "Necesito cargar el celular.",
+          "en": "I need to charge my phone."
+        },
+        {
+          "tag": "carry",
+          "es": "Cargó las bolsas hasta el carro.",
+          "en": "He carried the bags to the car."
+        }
+      ]
+    },
+    {
+      "es": "funcionar",
+      "pos": "v.",
+      "en": "to work, to function",
+      "note": "Used of machines, never of people. For people, trabajar.",
+      "ex": [
+        {
+          "es": "El control no funciona.",
+          "en": "The remote doesn't work."
+        }
+      ]
+    },
+    {
+      "es": "prender · apagar",
+      "pos": "v. irr.",
+      "en": "to switch on; to switch off",
+      "note": "prender is the Latin American everyday word for on; encender is standard everywhere.",
+      "ex": [
+        {
+          "tag": "on",
+          "es": "Prende la computadora.",
+          "en": "Switch the computer on."
+        },
+        {
+          "tag": "off",
+          "es": "Apaga el teléfono en el cine.",
+          "en": "Switch your phone off in the cinema."
+        }
+      ]
+    },
+    {
+      "es": "la foto",
+      "pos": "n.f.",
+      "en": "photo",
+      "note": "Short for la fotografía, and feminine even though it ends in -o. tomar or sacar una foto is to take a photo.",
+      "ex": [
+        {
+          "es": "¿Nos tomas una foto?",
+          "en": "Would you take a photo of us?"
+        }
+      ]
+    }
+  ]
+}

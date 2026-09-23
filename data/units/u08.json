@@ -1,0 +1,158 @@
+{
+  "id": "u08",
+  "title": "Town and getting around",
+  "intro": "Words for finding your way and naming what you pass. This unit has more regional variation than any other in the book — the bus alone has five names — so the alternatives are given where they matter.",
+  "entries": [
+    {
+      "es": "la ciudad", "pos": "n.f.", "en": "city, town",
+      "note": "Stress on the last syllable: ciu-DAD.",
+      "ex": [
+        {"es": "Es la ciudad más grande del país.", "en": "It's the largest city in the country."}
+      ]
+    },
+    {
+      "es": "el pueblo", "pos": "n.m.", "en": "village, small town; the people, the populace",
+      "he": "כפר / עם",
+      "note": "The second sense is the political one — el pueblo mexicano, the Mexican people.",
+      "ex": [
+        {"tag": "village", "es": "Mis abuelos viven en un pueblo pequeño.", "en": "My grandparents live in a small village."},
+        {"tag": "the people", "es": "El pueblo salió a la calle.", "en": "The people took to the streets."}
+      ]
+    },
+    {
+      "es": "la calle", "pos": "n.f.", "en": "street",
+      "note": "Double l sounds like English y in most of Latin America; in Buenos Aires it is closer to sh.",
+      "ex": [
+        {"es": "Vivo en la calle Bolívar.", "en": "I live on Bolívar Street."}
+      ]
+    },
+    {
+      "es": "la avenida", "pos": "n.f.", "en": "avenue",
+      "note": "Abbreviated Av. in addresses. Wider than a calle and usually numbered or named after a date.",
+      "ex": [
+        {"es": "Camina dos cuadras por la avenida.", "en": "Walk two blocks along the avenue."}
+      ]
+    },
+    {
+      "es": "la esquina", "pos": "n.f.", "en": "corner (of a street)",
+      "he": "פינת רחוב",
+      "note": "An outside corner where two streets meet. An inside corner of a room is el rincón.",
+      "ex": [
+        {"es": "Nos vemos en la esquina de Juárez y Reforma.", "en": "Let's meet at the corner of Juárez and Reforma."}
+      ]
+    },
+    {
+      "es": "la cuadra", "pos": "n.f.", "en": "block (of houses)",
+      "note": "The standard unit of walking directions in Latin America. Spain says manzana.",
+      "ex": [
+        {"es": "Está a tres cuadras de aquí.", "en": "It's three blocks from here."}
+      ]
+    },
+    {
+      "es": "la plaza", "pos": "n.f.", "en": "square, plaza",
+      "note": "The centre of any Latin American town, usually with a church on one side.",
+      "ex": [
+        {"es": "La plaza se llena los domingos.", "en": "The square fills up on Sundays."}
+      ]
+    },
+    {
+      "es": "el parque", "pos": "n.m.", "en": "park",
+      "ex": [
+        {"es": "Los niños juegan en el parque hasta que oscurece.", "en": "The children play in the park until it gets dark."}
+      ]
+    },
+    {
+      "es": "la tienda", "pos": "n.f.", "en": "shop, store",
+      "note": "A shop for a specific trade takes -ería: panadería, librería, zapatería.",
+      "ex": [
+        {"es": "La tienda cierra a las nueve.", "en": "The shop closes at nine."}
+      ]
+    },
+    {
+      "es": "el mercado", "pos": "n.m.", "en": "market",
+      "ex": [
+        {"es": "En el mercado todo es más barato.", "en": "Everything is cheaper at the market."}
+      ]
+    },
+    {
+      "es": "la escuela", "pos": "n.f.", "en": "school",
+      "note": "el colegio is also school, not college. University is la universidad.",
+      "ex": [
+        {"es": "La escuela está frente al parque.", "en": "The school is opposite the park."}
+      ]
+    },
+    {
+      "es": "el hospital", "pos": "n.m.", "en": "hospital",
+      "ex": [
+        {"es": "Lo llevaron al hospital anoche.", "en": "They took him to the hospital last night."}
+      ]
+    },
+    {
+      "es": "el banco", "pos": "n.m.", "en": "bank; bench, stool",
+      "he": "בנק / ספסל",
+      "note": "Context alone separates the two. A river bank is la orilla, a third thing entirely.",
+      "ex": [
+        {"tag": "bank", "es": "El banco abre a las nueve.", "en": "The bank opens at nine."},
+        {"tag": "bench", "es": "Nos sentamos en un banco del parque.", "en": "We sat on a park bench."}
+      ]
+    },
+    {
+      "es": "la iglesia", "pos": "n.f.", "en": "church",
+      "ex": [
+        {"es": "La iglesia es del siglo XVII.", "en": "The church is from the seventeenth century."}
+      ]
+    },
+    {
+      "es": "la estación", "pos": "n.f.", "en": "station; season (of the year)",
+      "he": "תחנה / עונה",
+      "ex": [
+        {"tag": "station", "es": "Te espero en la estación.", "en": "I'll wait for you at the station."},
+        {"tag": "season", "es": "Mi estación favorita es el otoño.", "en": "My favourite season is autumn."}
+      ]
+    },
+    {
+      "es": "el camino", "pos": "n.m.", "en": "road, path; way, route",
+      "he": "דרך",
+      "ex": [
+        {"tag": "path", "es": "El camino al río es de tierra.", "en": "The road to the river is unpaved."},
+        {"tag": "way", "es": "Nos perdimos en el camino.", "en": "We got lost on the way."}
+      ]
+    },
+    {
+      "es": "el autobús", "pos": "n.m.", "en": "bus",
+      "note": "Regional roulette: camión in Mexico, guagua in the Caribbean, colectivo in Argentina, micro in Chile, bus almost everywhere. autobús is understood by all of them.",
+      "ex": [
+        {"es": "El autobús pasa cada veinte minutos.", "en": "The bus comes every twenty minutes."}
+      ]
+    },
+    {
+      "es": "el tren", "pos": "n.m.", "en": "train",
+      "ex": [
+        {"es": "Perdimos el último tren.", "en": "We missed the last train."}
+      ]
+    },
+    {
+      "es": "el carro", "pos": "n.m.", "en": "car",
+      "note": "carro in Mexico, Colombia and Central America; auto in Argentina and Chile; coche in Spain. All three are understood everywhere.",
+      "ex": [
+        {"es": "Dejé el carro en la esquina.", "en": "I left the car on the corner."}
+      ]
+    },
+    {
+      "es": "manejar", "pos": "v.", "en": "to drive; to handle, to manage",
+      "he": "לנהוג / לטפל ב-",
+      "note": "Latin America drives with manejar; Spain uses conducir.",
+      "ex": [
+        {"tag": "drive", "es": "No sé manejar.", "en": "I don't know how to drive."},
+        {"tag": "handle", "es": "Ella maneja muy bien la presión.", "en": "She handles pressure very well."}
+      ]
+    },
+    {
+      "es": "caminar", "pos": "v.", "en": "to walk",
+      "note": "andar also means to walk, but leans towards to go about, to be running: el reloj no anda.",
+      "ex": [
+        {"es": "Caminamos hasta la plaza.", "en": "We walked to the square."}
+      ]
+    }
+  ]
+}

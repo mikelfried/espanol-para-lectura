@@ -1,0 +1,159 @@
+{
+  "id": "u41",
+  "title": "Buildings and getting things done in town",
+  "intro": "Places you need and the words for dealing with them. See unit 8 for the street layout itself.",
+  "entries": [
+    {
+      "es": "el edificio", "pos": "n.m.", "en": "building",
+      "note": "el piso or el departamento is a flat; el apartamento too.",
+      "ex": [
+        {"es": "El edificio tiene diez pisos.", "en": "The building has ten floors."}
+      ]
+    },
+    {
+      "es": "el departamento", "pos": "n.m.", "en": "flat, apartment; department",
+      "he": "דירה / מחלקה",
+      "note": "el apartamento and el piso (Spain) mean the same thing.",
+      "ex": [
+        {"tag": "flat", "es": "Rentamos un departamento pequeño.", "en": "We rent a small flat."},
+        {"tag": "department", "es": "Trabaja en el departamento de ventas.", "en": "He works in the sales department."}
+      ]
+    },
+    {
+      "es": "el vecindario · el barrio", "pos": "n.m.", "en": "neighbourhood, district",
+      "note": "la colonia in Mexico. el vecino is the neighbour — see unit 3.",
+      "ex": [
+        {"es": "Es un barrio tranquilo y seguro.", "en": "It's a quiet, safe neighbourhood."}
+      ]
+    },
+    {
+      "es": "la puerta · la entrada", "pos": "n.f.", "en": "door; entrance",
+      "note": "la salida is the exit, printed on every sign.",
+      "ex": [
+        {"tag": "door", "es": "Llama a la puerta antes de entrar.", "en": "Knock on the door before going in."},
+        {"tag": "entrance", "es": "La entrada es por el otro lado.", "en": "The entrance is on the other side."}
+      ]
+    },
+    {
+      "es": "el ascensor", "pos": "n.m.", "en": "lift, elevator",
+      "note": "el elevador in Mexico. la escalera is the stairs — see unit 19.",
+      "ex": [
+        {"es": "El ascensor está fuera de servicio.", "en": "The lift is out of order."}
+      ]
+    },
+    {
+      "es": "el techo · el suelo", "pos": "n.m.", "en": "ceiling, roof; floor, ground",
+      "he": "תקרה / רצפה",
+      "ex": [
+        {"tag": "ceiling", "es": "El techo tiene una mancha de humedad.", "en": "The ceiling has a damp patch."},
+        {"tag": "floor", "es": "Se cayó al suelo.", "en": "It fell to the floor."}
+      ]
+    },
+    {
+      "es": "rentar · alquilar", "pos": "v.", "en": "to rent",
+      "note": "rentar in Mexico, alquilar in Spain and much of South America. la renta or el alquiler is the rent.",
+      "ex": [
+        {"es": "Alquilamos un carro por tres días.", "en": "We rented a car for three days."}
+      ]
+    },
+    {
+      "es": "el hotel · la habitación", "pos": "n.", "en": "hotel; room",
+      "note": "el cuarto also means a room; la habitación is the hotel word.",
+      "ex": [
+        {"tag": "hotel", "es": "El hotel está lleno esta semana.", "en": "The hotel is full this week."},
+        {"tag": "room", "es": "Reservé una habitación doble.", "en": "I booked a double room."}
+      ]
+    },
+    {
+      "es": "reservar", "pos": "v.", "en": "to book, to reserve",
+      "note": "la reserva or la reservación is the booking.",
+      "ex": [
+        {"es": "¿Reservaste mesa?", "en": "Did you book a table?"}
+      ]
+    },
+    {
+      "es": "abierto · cerrado", "pos": "adj.", "en": "open; closed",
+      "note": "The two words on every shop door, and the past participles of abrir and cerrar.",
+      "ex": [
+        {"tag": "open", "es": "¿Está abierto los domingos?", "en": "Is it open on Sundays?"},
+        {"tag": "closed", "es": "Estuvo cerrado todo agosto.", "en": "It was closed all August."}
+      ]
+    },
+    {
+      "es": "el semáforo", "pos": "n.m.", "en": "traffic light",
+      "note": "A common landmark in directions: en el semáforo, gira a la derecha.",
+      "ex": [
+        {"es": "Para en el semáforo.", "en": "Stop at the traffic light."}
+      ]
+    },
+    {
+      "es": "el puente", "pos": "n.m.", "en": "bridge; long weekend",
+      "he": "גשר",
+      "note": "hacer puente is to take the bridging day off between a holiday and the weekend.",
+      "ex": [
+        {"tag": "bridge", "es": "Cruzamos el puente a pie.", "en": "We crossed the bridge on foot."},
+        {"tag": "long weekend", "es": "El lunes hay puente.", "en": "Monday is part of a long weekend."}
+      ]
+    },
+    {
+      "es": "el tráfico · el tránsito", "pos": "n.m.", "en": "traffic",
+      "note": "el tránsito is preferred in much of South America. el atasco or el trancón is a traffic jam.",
+      "ex": [
+        {"es": "Llegué tarde por el tráfico.", "en": "I was late because of the traffic."}
+      ]
+    },
+    {
+      "es": "estacionar · aparcar", "pos": "v.", "en": "to park",
+      "note": "estacionar in Latin America, aparcar in Spain. el estacionamiento is the car park.",
+      "ex": [
+        {"es": "No se puede estacionar aquí.", "en": "You can't park here."}
+      ]
+    },
+    {
+      "es": "la gasolina", "pos": "n.f.", "en": "petrol, gasoline",
+      "note": "la gasolinera is the petrol station; la nafta in Argentina.",
+      "ex": [
+        {"es": "Hay que echar gasolina.", "en": "We need to get petrol."}
+      ]
+    },
+    {
+      "es": "la esquina · la cuadra", "pos": "n.f.", "en": "corner; block",
+      "note": "See unit 8. Together they make up almost all spoken directions.",
+      "ex": [
+        {"tag": "corner", "es": "Dobla en la próxima esquina.", "en": "Turn at the next corner."},
+        {"tag": "block", "es": "Camina dos cuadras derecho.", "en": "Walk two blocks straight ahead."}
+      ]
+    },
+    {
+      "es": "el letrero · el cartel", "pos": "n.m.", "en": "sign, notice; poster",
+      "ex": [
+        {"tag": "sign", "es": "El letrero dice cerrado.", "en": "The sign says closed."},
+        {"tag": "poster", "es": "Pegaron carteles por toda la calle.", "en": "They put posters up all along the street."}
+      ]
+    },
+    {
+      "es": "el basurero", "pos": "n.m.", "en": "bin; rubbish collector",
+      "note": "See unit 19 for la basura itself.",
+      "ex": [
+        {"tag": "bin", "es": "Tíralo en el basurero.", "en": "Throw it in the bin."},
+        {"tag": "collector", "es": "El basurero pasa los martes.", "en": "The bin man comes on Tuesdays."}
+      ]
+    },
+    {
+      "es": "el ruido · el silencio", "pos": "n.m.", "en": "noise; silence",
+      "note": "See unit 23. Paired here because they are what you notice most about a neighbourhood.",
+      "ex": [
+        {"tag": "noise", "es": "No soporto el ruido de la calle.", "en": "I can't stand the street noise."},
+        {"tag": "silence", "es": "Se hizo un silencio incómodo.", "en": "An awkward silence fell."}
+      ]
+    },
+    {
+      "es": "seguro · peligroso", "pos": "adj.", "en": "safe; dangerous",
+      "note": "See unit 34 for el seguro, insurance.",
+      "ex": [
+        {"tag": "safe", "es": "Es una zona segura de noche.", "en": "It's a safe area at night."},
+        {"tag": "dangerous", "es": "Ese cruce es peligroso.", "en": "That crossing is dangerous."}
+      ]
+    }
+  ]
+}

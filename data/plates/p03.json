@@ -1,0 +1,108 @@
+{
+  "id": "p03",
+  "title": "El cuerpo · the body",
+  "intro": "Twenty words on one drawing. Two of them break the gender rules you have learned so far: la mano ends in -o and is feminine, el pie is masculine and short. The small figure at the right exists for la espalda, which a front view cannot show.",
+  "svg": "<svg viewBox=\"0 0 780 640\" xmlns=\"http://www.w3.org/2000/svg\"><style>.sk{fill:#f0e6da;stroke:#4a5159;stroke-width:3;stroke-linejoin:round}.limb{fill:none;stroke:#4a5159;stroke-width:3}.limbf{fill:none;stroke:#f0e6da;stroke-linecap:round;stroke-linejoin:round}.limbs{fill:none;stroke:#4a5159;stroke-linecap:round;stroke-linejoin:round}.ft{fill:none;stroke:#8d949c;stroke-width:2;stroke-linecap:round}.hair{fill:#5d5148;stroke:#4a5159;stroke-width:2.4;stroke-linejoin:round}.bn{fill:#1d2229}.bt{font-size:12.5px;fill:#fff;font-weight:700;text-anchor:middle}.ld{stroke:#1d2229;stroke-width:1.1;fill:none}.dot{fill:#1d2229}.cap{font-size:12px;fill:#79818d;text-anchor:middle;font-style:italic}</style><path d=\"M336 168 308 262 296 382\" class=\"limbs\" stroke-width=\"36\"/><path d=\"M444 168 472 262 484 382\" class=\"limbs\" stroke-width=\"36\"/><path d=\"M362 330 352 466 348 580\" class=\"limbs\" stroke-width=\"48\"/><path d=\"M418 330 428 466 432 580\" class=\"limbs\" stroke-width=\"48\"/><path d=\"M336 168 308 262 296 382\" class=\"limbf\" stroke-width=\"30\"/><path d=\"M444 168 472 262 484 382\" class=\"limbf\" stroke-width=\"30\"/><path d=\"M362 330 352 466 348 580\" class=\"limbf\" stroke-width=\"42\"/><path d=\"M418 330 428 466 432 580\" class=\"limbf\" stroke-width=\"42\"/><path d=\"M296 376c-12 0-19 9-19 21 0 11 6 20 17 20 10 0 16-7 17-17l2-18zm-19 14c-6 1-9 5-8 10 1 4 5 6 8 4z\" class=\"sk\"/><path d=\"M484 376c12 0 19 9 19 21 0 11-6 20-17 20-10 0-16-7-17-17l-2-18zm19 14c6 1 9 5 8 10-1 4-5 6-8 4z\" class=\"sk\"/><path d=\"M348 578c-20 2-32 8-32 15 0 6 10 9 26 9 14 0 24-3 24-10z\" class=\"sk\"/><path d=\"M432 578c20 2 32 8 32 15 0 6-10 9-26 9-14 0-24-3-24-10z\" class=\"sk\"/><path d=\"M287 398v16\" class=\"ft\"/><path d=\"M294 398v16\" class=\"ft\"/><path d=\"M301 398v16\" class=\"ft\"/><path d=\"M479 398v16\" class=\"ft\"/><path d=\"M486 398v16\" class=\"ft\"/><path d=\"M493 398v16\" class=\"ft\"/><path d=\"M334 186q2-30 22-38 14-6 34-6t34 6q20 8 22 38l-8 86q-4 32-12 62H354q-8-30-12-62z\" class=\"sk\"/><circle cx=\"390\" cy=\"288\" r=\"3.5\" fill=\"none\" stroke=\"#b9b0a4\" stroke-width=\"2\"/><rect x=\"374\" y=\"116\" width=\"32\" height=\"34\" rx=\"10\" class=\"sk\"/><ellipse cx=\"390\" cy=\"84\" rx=\"37\" ry=\"45\" class=\"sk\"/><ellipse cx=\"352\" cy=\"86\" rx=\"8\" ry=\"12\" class=\"sk\"/><ellipse cx=\"428\" cy=\"86\" rx=\"8\" ry=\"12\" class=\"sk\"/><path d=\"M353 62q6-30 37-30t37 30q2-16-8-28-12-14-29-14t-29 14q-10 12-8 28z\" class=\"hair\"/><path d=\"M370 80q6-7 12 0-6 6-12 0z\" fill=\"#fff\" stroke=\"#4a5159\" stroke-width=\"1.6\" stroke-linejoin=\"round\"/><path d=\"M398 80q6-7 12 0-6 6-12 0z\" fill=\"#fff\" stroke=\"#4a5159\" stroke-width=\"1.6\" stroke-linejoin=\"round\"/><circle cx=\"376\" cy=\"80\" r=\"2.3\" fill=\"#3a4047\"/><circle cx=\"404\" cy=\"80\" r=\"2.3\" fill=\"#3a4047\"/><path d=\"M367 69q8-5 16-2M397 67q8-3 16 2\" fill=\"none\" stroke=\"#5d5148\" stroke-width=\"2.2\" stroke-linecap=\"round\"/><path d=\"M389 86v11q0 5-6 6\" fill=\"none\" stroke=\"#b9b0a4\" stroke-width=\"2.2\" stroke-linecap=\"round\"/><path d=\"M379 110q6 6 11 6t11-6\" fill=\"none\" stroke=\"#a8998c\" stroke-width=\"2.4\" stroke-linecap=\"round\"/><g transform=\"translate(546,352) scale(0.34)\"><path d=\"M336 168 306 262 294 372\" class=\"limbs\" stroke-width=\"40\"/><path d=\"M444 168 474 262 486 372\" class=\"limbs\" stroke-width=\"40\"/><path d=\"M362 330 352 466 348 560\" class=\"limbs\" stroke-width=\"52\"/><path d=\"M418 330 428 466 432 560\" class=\"limbs\" stroke-width=\"52\"/><path d=\"M336 168 306 262 294 372\" class=\"limbf\" stroke-width=\"34\"/><path d=\"M444 168 474 262 486 372\" class=\"limbf\" stroke-width=\"34\"/><path d=\"M362 330 352 466 348 560\" class=\"limbf\" stroke-width=\"46\"/><path d=\"M418 330 428 466 432 560\" class=\"limbf\" stroke-width=\"46\"/><rect x=\"374\" y=\"116\" width=\"32\" height=\"34\" rx=\"10\" class=\"sk\"/><path d=\"M330 172q0-24 26-28h68q26 4 26 28l-8 100q-4 32-12 62H350q-8-30-12-62z\" class=\"sk\"/><path d=\"M390 168v150\" stroke=\"#b6aea4\" stroke-width=\"4\" fill=\"none\"/><ellipse cx=\"390\" cy=\"84\" rx=\"37\" ry=\"45\" class=\"sk\"/><path d=\"M353 84q0-52 37-52t37 52q0 16-6 22H359q-6-6-6-22z\" class=\"hair\"/></g><text x=\"678\" y=\"586\" class=\"cap lab\">de espaldas · from behind</text><line x1=\"222\" y1=\"180\" x2=\"338\" y2=\"158\" class=\"ld\"/><circle cx=\"338\" cy=\"158\" r=\"3\" class=\"dot\"/><circle cx=\"206\" cy=\"180\" r=\"13\" class=\"bn\"/><text x=\"206\" y=\"185\" class=\"bt\">9</text><line x1=\"222\" y1=\"236\" x2=\"314\" y2=\"240\" class=\"ld\"/><circle cx=\"314\" cy=\"240\" r=\"3\" class=\"dot\"/><circle cx=\"206\" cy=\"236\" r=\"13\" class=\"bn\"/><text x=\"206\" y=\"241\" class=\"bt\">10</text><line x1=\"222\" y1=\"296\" x2=\"300\" y2=\"296\" class=\"ld\"/><circle cx=\"300\" cy=\"296\" r=\"3\" class=\"dot\"/><circle cx=\"206\" cy=\"296\" r=\"13\" class=\"bn\"/><text x=\"206\" y=\"301\" class=\"bt\">11</text><line x1=\"222\" y1=\"380\" x2=\"292\" y2=\"386\" class=\"ld\"/><circle cx=\"292\" cy=\"386\" r=\"3\" class=\"dot\"/><circle cx=\"206\" cy=\"380\" r=\"13\" class=\"bn\"/><text x=\"206\" y=\"385\" class=\"bt\">12</text><line x1=\"222\" y1=\"428\" x2=\"294\" y2=\"412\" class=\"ld\"/><circle cx=\"294\" cy=\"412\" r=\"3\" class=\"dot\"/><circle cx=\"206\" cy=\"428\" r=\"13\" class=\"bn\"/><text x=\"206\" y=\"433\" class=\"bt\">13</text><line x1=\"558\" y1=\"250\" x2=\"416\" y2=\"186\" class=\"ld\"/><circle cx=\"416\" cy=\"186\" r=\"3\" class=\"dot\"/><circle cx=\"574\" cy=\"250\" r=\"13\" class=\"bn\"/><text x=\"574\" y=\"255\" class=\"bt\">14</text><line x1=\"558\" y1=\"290\" x2=\"404\" y2=\"210\" class=\"ld\"/><circle cx=\"404\" cy=\"210\" r=\"3\" class=\"dot\"/><circle cx=\"574\" cy=\"290\" r=\"13\" class=\"bn\"/><text x=\"574\" y=\"295\" class=\"bt\">20</text><line x1=\"558\" y1=\"330\" x2=\"400\" y2=\"280\" class=\"ld\"/><circle cx=\"400\" cy=\"280\" r=\"3\" class=\"dot\"/><circle cx=\"574\" cy=\"330\" r=\"13\" class=\"bn\"/><text x=\"574\" y=\"335\" class=\"bt\">16</text><line x1=\"558\" y1=\"418\" x2=\"430\" y2=\"420\" class=\"ld\"/><circle cx=\"430\" cy=\"420\" r=\"3\" class=\"dot\"/><circle cx=\"574\" cy=\"418\" r=\"13\" class=\"bn\"/><text x=\"574\" y=\"423\" class=\"bt\">17</text><line x1=\"558\" y1=\"466\" x2=\"430\" y2=\"466\" class=\"ld\"/><circle cx=\"430\" cy=\"466\" r=\"3\" class=\"dot\"/><circle cx=\"574\" cy=\"466\" r=\"13\" class=\"bn\"/><text x=\"574\" y=\"471\" class=\"bt\">18</text><line x1=\"558\" y1=\"566\" x2=\"440\" y2=\"588\" class=\"ld\"/><circle cx=\"440\" cy=\"588\" r=\"3\" class=\"dot\"/><circle cx=\"574\" cy=\"566\" r=\"13\" class=\"bn\"/><text x=\"574\" y=\"571\" class=\"bt\">19</text><line x1=\"296\" y1=\"52\" x2=\"368\" y2=\"44\" class=\"ld\"/><circle cx=\"368\" cy=\"44\" r=\"3\" class=\"dot\"/><circle cx=\"280\" cy=\"52\" r=\"13\" class=\"bn\"/><text x=\"280\" y=\"57\" class=\"bt\">2</text><line x1=\"296\" y1=\"88\" x2=\"350\" y2=\"88\" class=\"ld\"/><circle cx=\"350\" cy=\"88\" r=\"3\" class=\"dot\"/><circle cx=\"280\" cy=\"88\" r=\"13\" class=\"bn\"/><text x=\"280\" y=\"93\" class=\"bt\">7</text><line x1=\"296\" y1=\"124\" x2=\"362\" y2=\"100\" class=\"ld\"/><circle cx=\"362\" cy=\"100\" r=\"3\" class=\"dot\"/><circle cx=\"280\" cy=\"124\" r=\"13\" class=\"bn\"/><text x=\"280\" y=\"129\" class=\"bt\">3</text><line x1=\"484\" y1=\"52\" x2=\"414\" y2=\"50\" class=\"ld\"/><circle cx=\"414\" cy=\"50\" r=\"3\" class=\"dot\"/><circle cx=\"500\" cy=\"52\" r=\"13\" class=\"bn\"/><text x=\"500\" y=\"57\" class=\"bt\">1</text><line x1=\"484\" y1=\"88\" x2=\"406\" y2=\"80\" class=\"ld\"/><circle cx=\"406\" cy=\"80\" r=\"3\" class=\"dot\"/><circle cx=\"500\" cy=\"88\" r=\"13\" class=\"bn\"/><text x=\"500\" y=\"93\" class=\"bt\">4</text><line x1=\"484\" y1=\"124\" x2=\"392\" y2=\"96\" class=\"ld\"/><circle cx=\"392\" cy=\"96\" r=\"3\" class=\"dot\"/><circle cx=\"500\" cy=\"124\" r=\"13\" class=\"bn\"/><text x=\"500\" y=\"129\" class=\"bt\">5</text><line x1=\"484\" y1=\"160\" x2=\"392\" y2=\"112\" class=\"ld\"/><circle cx=\"392\" cy=\"112\" r=\"3\" class=\"dot\"/><circle cx=\"500\" cy=\"160\" r=\"13\" class=\"bn\"/><text x=\"500\" y=\"165\" class=\"bt\">6</text><line x1=\"484\" y1=\"196\" x2=\"400\" y2=\"134\" class=\"ld\"/><circle cx=\"400\" cy=\"134\" r=\"3\" class=\"dot\"/><circle cx=\"500\" cy=\"196\" r=\"13\" class=\"bn\"/><text x=\"500\" y=\"201\" class=\"bt\">8</text><circle cx=\"606\" cy=\"516\" r=\"13\" class=\"bn\"/><text x=\"606\" y=\"521\" class=\"bt\">15</text><line x1=\"619\" y1=\"516\" x2=\"652\" y2=\"500\" class=\"ld\"/><circle cx=\"652\" cy=\"500\" r=\"3\" class=\"dot\"/></svg>",
+  "items": [
+    {
+      "n": 1,
+      "es": "la cabeza",
+      "en": "head"
+    },
+    {
+      "n": 2,
+      "es": "el pelo",
+      "en": "hair"
+    },
+    {
+      "n": 3,
+      "es": "la cara",
+      "en": "face"
+    },
+    {
+      "n": 4,
+      "es": "el ojo",
+      "en": "eye"
+    },
+    {
+      "n": 5,
+      "es": "la nariz",
+      "en": "nose"
+    },
+    {
+      "n": 6,
+      "es": "la boca",
+      "en": "mouth"
+    },
+    {
+      "n": 7,
+      "es": "la oreja",
+      "en": "ear"
+    },
+    {
+      "n": 8,
+      "es": "el cuello",
+      "en": "neck"
+    },
+    {
+      "n": 9,
+      "es": "el hombro",
+      "en": "shoulder"
+    },
+    {
+      "n": 10,
+      "es": "el brazo",
+      "en": "arm"
+    },
+    {
+      "n": 11,
+      "es": "el codo",
+      "en": "elbow"
+    },
+    {
+      "n": 12,
+      "es": "la mano",
+      "en": "hand"
+    },
+    {
+      "n": 13,
+      "es": "el dedo",
+      "en": "finger"
+    },
+    {
+      "n": 14,
+      "es": "el pecho",
+      "en": "chest"
+    },
+    {
+      "n": 15,
+      "es": "la espalda",
+      "en": "back"
+    },
+    {
+      "n": 16,
+      "es": "el estómago",
+      "en": "stomach"
+    },
+    {
+      "n": 17,
+      "es": "la pierna",
+      "en": "leg"
+    },
+    {
+      "n": 18,
+      "es": "la rodilla",
+      "en": "knee"
+    },
+    {
+      "n": 19,
+      "es": "el pie",
+      "en": "foot"
+    },
+    {
+      "n": 20,
+      "es": "el corazón",
+      "en": "heart"
+    }
+  ]
+}

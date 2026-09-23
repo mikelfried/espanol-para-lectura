@@ -1,0 +1,328 @@
+{
+  "id": "u45",
+  "title": "The senses and perception",
+  "intro": "Spanish pairs a deliberate verb with a passive one for each sense: mirar and ver, escuchar and oír. English uses look and see, listen and hear the same way, so the pattern is familiar — but Spanish holds to it more strictly.",
+  "entries": [
+    {
+      "es": "ver · mirar",
+      "pos": "v. irr.",
+      "en": "to see; to look at",
+      "note": "See unit 1 and unit 2. ver is what reaches your eyes, mirar what you point them at.",
+      "ex": [
+        {
+          "tag": "see",
+          "es": "No veo nada sin lentes.",
+          "en": "I can't see anything without glasses."
+        },
+        {
+          "tag": "look at",
+          "es": "Mira esa foto.",
+          "en": "Look at that photo."
+        }
+      ]
+    },
+    {
+      "es": "oír · escuchar",
+      "pos": "v. irr.",
+      "en": "to hear; to listen to",
+      "note": "See unit 23 and unit 2.",
+      "ex": [
+        {
+          "tag": "hear",
+          "es": "¿Oyes ese ruido?",
+          "en": "Do you hear that noise?"
+        },
+        {
+          "tag": "listen",
+          "es": "Escucha lo que te digo.",
+          "en": "Listen to what I'm telling you."
+        }
+      ]
+    },
+    {
+      "es": "el olor · oler",
+      "pos": "n.m. / v. irr.",
+      "en": "smell; to smell",
+      "he": "ריח / להריח",
+      "note": "oler a means to smell of: huele a café. The yo form takes an h: huelo.",
+      "ex": [
+        {
+          "tag": "smell (noun)",
+          "es": "Hay un olor raro en la cocina.",
+          "en": "There's a strange smell in the kitchen."
+        },
+        {
+          "tag": "to smell",
+          "es": "Huele a pan recién hecho.",
+          "en": "It smells of fresh bread."
+        }
+      ]
+    },
+    {
+      "es": "el sabor · saber a",
+      "pos": "n.m. / v.",
+      "en": "taste, flavour; to taste of",
+      "note": "Yes, the same saber as to know — see unit 1. sabe a limón, it tastes of lemon.",
+      "ex": [
+        {
+          "tag": "flavour",
+          "es": "Tiene un sabor muy fuerte.",
+          "en": "It has a very strong flavour."
+        },
+        {
+          "tag": "to taste of",
+          "es": "Sabe a naranja.",
+          "en": "It tastes of orange."
+        }
+      ]
+    },
+    {
+      "es": "tocar",
+      "pos": "v.",
+      "en": "to touch",
+      "note": "See unit 33 for its other meanings. el tacto is the sense of touch.",
+      "ex": [
+        {
+          "es": "No toques la pintura, está fresca.",
+          "en": "Don't touch the paint, it's wet."
+        }
+      ]
+    },
+    {
+      "es": "sentir · sentirse",
+      "pos": "v. irr.",
+      "en": "to feel (something); to feel (a way)",
+      "note": "See unit 2. sentir takes an object; sentirse takes an adjective.",
+      "ex": [
+        {
+          "tag": "feel something",
+          "es": "Sentí un dolor en el pecho.",
+          "en": "I felt a pain in my chest."
+        },
+        {
+          "tag": "feel a way",
+          "es": "Me siento mucho mejor.",
+          "en": "I feel much better."
+        }
+      ]
+    },
+    {
+      "es": "la vista",
+      "pos": "n.f.",
+      "en": "sight, eyesight; view",
+      "he": "ראייה / נוף",
+      "note": "hasta la vista is a farewell, though less used than films suggest.",
+      "ex": [
+        {
+          "tag": "eyesight",
+          "es": "Tiene mala vista.",
+          "en": "His eyesight is poor."
+        },
+        {
+          "tag": "view",
+          "es": "El cuarto tiene vista al mar.",
+          "en": "The room has a sea view."
+        }
+      ]
+    },
+    {
+      "es": "los lentes · las gafas",
+      "pos": "n.pl.",
+      "en": "glasses, spectacles",
+      "note": "los lentes or los anteojos in Latin America, las gafas in Spain. Always plural.",
+      "ex": [
+        {
+          "es": "No encuentro mis lentes.",
+          "en": "I can't find my glasses."
+        }
+      ]
+    },
+    {
+      "es": "la luz · la oscuridad",
+      "pos": "n.f.",
+      "en": "light; darkness",
+      "note": "See unit 19 for la luz meaning electricity.",
+      "ex": [
+        {
+          "tag": "light",
+          "es": "Entra mucha luz por la mañana.",
+          "en": "A lot of light comes in in the morning."
+        },
+        {
+          "tag": "darkness",
+          "es": "No me gusta la oscuridad.",
+          "en": "I don't like the dark."
+        }
+      ]
+    },
+    {
+      "es": "brillante · opaco",
+      "pos": "adj.",
+      "en": "bright, shiny; dull, matt",
+      "note": "brillar is to shine. brillante of a person means brilliant.",
+      "ex": [
+        {
+          "tag": "bright",
+          "es": "El sol estaba brillante.",
+          "en": "The sun was bright."
+        },
+        {
+          "tag": "dull",
+          "es": "Quedó con un acabado opaco.",
+          "en": "It ended up with a matt finish."
+        }
+      ]
+    },
+    {
+      "es": "suave · áspero",
+      "pos": "adj.",
+      "en": "smooth, soft, gentle; rough",
+      "he": "חלק / מחוספס",
+      "ex": [
+        {
+          "tag": "smooth",
+          "es": "La tela es muy suave.",
+          "en": "The fabric is very soft."
+        },
+        {
+          "tag": "rough",
+          "es": "La piedra es áspera al tacto.",
+          "en": "The stone is rough to the touch."
+        }
+      ]
+    },
+    {
+      "es": "el silencio · el sonido",
+      "pos": "n.m.",
+      "en": "silence; sound",
+      "note": "sonar is to sound or to ring: suena el teléfono.",
+      "ex": [
+        {
+          "tag": "silence",
+          "es": "Se hizo un silencio total.",
+          "en": "A complete silence fell."
+        },
+        {
+          "tag": "sound",
+          "es": "Me despertó un sonido raro.",
+          "en": "A strange sound woke me."
+        }
+      ]
+    },
+    {
+      "es": "notar",
+      "pos": "v.",
+      "en": "to notice",
+      "note": "darse cuenta de is the commoner way to say it — see unit 24.",
+      "ex": [
+        {
+          "es": "¿Notaste algo diferente?",
+          "en": "Did you notice anything different?"
+        }
+      ]
+    },
+    {
+      "es": "el gesto",
+      "pos": "n.m.",
+      "en": "gesture, expression",
+      "note": "hacer un gesto is to make a gesture. la cara or la expresión for a facial one.",
+      "ex": [
+        {
+          "es": "Hizo un gesto de aprobación.",
+          "en": "He made a gesture of approval."
+        }
+      ]
+    },
+    {
+      "es": "señalar",
+      "pos": "v.",
+      "en": "to point at; to point out, to indicate",
+      "he": "להצביע / לציין",
+      "ex": [
+        {
+          "tag": "point at",
+          "es": "Señaló la puerta sin hablar.",
+          "en": "He pointed at the door without speaking."
+        },
+        {
+          "tag": "point out",
+          "es": "Señaló varios errores.",
+          "en": "She pointed out several mistakes."
+        }
+      ]
+    },
+    {
+      "es": "la señal",
+      "pos": "n.f.",
+      "en": "sign, signal",
+      "note": "la señal de tráfico is a road sign; no hay señal, there's no signal.",
+      "ex": [
+        {
+          "es": "No había señal en el celular.",
+          "en": "There was no signal on my phone."
+        }
+      ]
+    },
+    {
+      "es": "parecerse a",
+      "pos": "v. irr.",
+      "en": "to look like, to resemble",
+      "note": "From parecer — see unit 24. Reflexive and takes a.",
+      "ex": [
+        {
+          "es": "Se parece mucho a su madre.",
+          "en": "She looks a lot like her mother."
+        }
+      ]
+    },
+    {
+      "es": "la imagen",
+      "pos": "n.f.",
+      "en": "image, picture",
+      "note": "Plural imágenes, which gains an accent. la foto is a photo — see unit 27.",
+      "ex": [
+        {
+          "es": "La imagen no se ve bien.",
+          "en": "The image isn't showing properly."
+        }
+      ]
+    },
+    {
+      "es": "el color · la forma",
+      "pos": "n.",
+      "en": "colour; shape, form",
+      "note": "See unit 14. de esta forma means in this way.",
+      "ex": [
+        {
+          "tag": "colour",
+          "es": "Me gusta el color de la pared.",
+          "en": "I like the colour of the wall."
+        },
+        {
+          "tag": "shape",
+          "es": "Tiene forma de corazón.",
+          "en": "It's heart-shaped."
+        }
+      ]
+    },
+    {
+      "es": "el detalle",
+      "pos": "n.m.",
+      "en": "detail; a thoughtful gesture",
+      "he": "פרט / מחווה",
+      "note": "¡Qué detalle! means how thoughtful.",
+      "ex": [
+        {
+          "tag": "detail",
+          "es": "Cuéntame todos los detalles.",
+          "en": "Tell me all the details."
+        },
+        {
+          "tag": "kind gesture",
+          "es": "Las flores fueron un lindo detalle.",
+          "en": "The flowers were a lovely gesture."
+        }
+      ]
+    }
+  ]
+}

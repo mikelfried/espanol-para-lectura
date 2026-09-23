@@ -1,0 +1,157 @@
+{
+  "id": "u34",
+  "title": "Health, pharmacy and emergencies",
+  "intro": "Read plate 3 and unit 9 first for the body itself. This unit is what you say when something is wrong. The single most useful sentence here is me duele — see unit 9.",
+  "entries": [
+    {
+      "es": "la farmacia", "pos": "n.f.", "en": "pharmacy, chemist's",
+      "note": "la droguería in Colombia. In much of Latin America pharmacies sell far more without prescription than in Europe.",
+      "ex": [
+        {"es": "¿Hay una farmacia cerca?", "en": "Is there a pharmacy nearby?"}
+      ]
+    },
+    {
+      "es": "la receta", "pos": "n.f.", "en": "prescription; recipe",
+      "he": "מרשם / מתכון",
+      "note": "One word for both. Context does all the work.",
+      "ex": [
+        {"tag": "prescription", "es": "Necesito receta para esto.", "en": "I need a prescription for this."},
+        {"tag": "recipe", "es": "Me dio la receta de su abuela.", "en": "She gave me her grandmother's recipe."}
+      ]
+    },
+    {
+      "es": "la pastilla", "pos": "n.f.", "en": "pill, tablet",
+      "note": "el medicamento is the formal word for a drug; la inyección an injection.",
+      "ex": [
+        {"es": "Toma una pastilla cada ocho horas.", "en": "Take one tablet every eight hours."}
+      ]
+    },
+    {
+      "es": "la enfermedad", "pos": "n.f.", "en": "illness, disease",
+      "note": "enfermarse is to fall ill; el enfermero the nurse.",
+      "ex": [
+        {"es": "Es una enfermedad común aquí.", "en": "It's a common illness here."}
+      ]
+    },
+    {
+      "es": "la gripe", "pos": "n.f.", "en": "flu",
+      "note": "el resfriado is a cold. Latin America also says la gripa.",
+      "ex": [
+        {"es": "Estuvo en cama con gripe.", "en": "He was in bed with flu."}
+      ]
+    },
+    {
+      "es": "la tos", "pos": "n.f.", "en": "cough",
+      "note": "toser is to cough. estornudar is to sneeze.",
+      "ex": [
+        {"es": "Tiene tos desde el domingo.", "en": "She's had a cough since Sunday."}
+      ]
+    },
+    {
+      "es": "la herida", "pos": "n.f.", "en": "wound, injury",
+      "note": "herirse is to injure oneself; lastimarse the everyday version in Latin America.",
+      "ex": [
+        {"es": "Hay que limpiar la herida.", "en": "The wound needs cleaning."}
+      ]
+    },
+    {
+      "es": "la sangre", "pos": "n.f.", "en": "blood",
+      "note": "sangrar is to bleed. el análisis de sangre is a blood test.",
+      "ex": [
+        {"es": "Le tomaron una muestra de sangre.", "en": "They took a blood sample."}
+      ]
+    },
+    {
+      "es": "el hueso", "pos": "n.m.", "en": "bone",
+      "note": "romperse un hueso is to break a bone. Not to be confused with el oso, bear.",
+      "ex": [
+        {"es": "Se rompió un hueso del pie.", "en": "He broke a bone in his foot."}
+      ]
+    },
+    {
+      "es": "la piel", "pos": "n.f.", "en": "skin; leather",
+      "he": "עור",
+      "ex": [
+        {"tag": "skin", "es": "Tiene la piel muy sensible.", "en": "She has very sensitive skin."},
+        {"tag": "leather", "es": "Es una chaqueta de piel.", "en": "It's a leather jacket."}
+      ]
+    },
+    {
+      "es": "la garganta", "pos": "n.f.", "en": "throat",
+      "note": "dolor de garganta is a sore throat.",
+      "ex": [
+        {"es": "Me duele la garganta al tragar.", "en": "My throat hurts when I swallow."}
+      ]
+    },
+    {
+      "es": "el diente · la muela", "pos": "n.", "en": "tooth; back tooth, molar",
+      "note": "el dentista treats both. dolor de muelas is toothache.",
+      "ex": [
+        {"tag": "tooth", "es": "Al bebé le salió el primer diente.", "en": "The baby got his first tooth."},
+        {"tag": "molar", "es": "Me sacaron una muela.", "en": "They took out one of my back teeth."}
+      ]
+    },
+    {
+      "es": "la cita", "pos": "n.f.", "en": "appointment; date; quotation",
+      "he": "תור / פגישה",
+      "note": "Not la fecha, which is a calendar date — see unit 16.",
+      "ex": [
+        {"tag": "appointment", "es": "Tengo cita con el médico a las cuatro.", "en": "I have a doctor's appointment at four."},
+        {"tag": "date", "es": "Salieron en una primera cita.", "en": "They went on a first date."},
+        {"tag": "quotation", "es": "Empezó con una cita de Borges.", "en": "She began with a quotation from Borges."}
+      ]
+    },
+    {
+      "es": "la emergencia", "pos": "n.f.", "en": "emergency",
+      "note": "la sala de emergencias or urgencias is the A&E department.",
+      "ex": [
+        {"es": "Llama a emergencias.", "en": "Call the emergency services."}
+      ]
+    },
+    {
+      "es": "la ambulancia", "pos": "n.f.", "en": "ambulance",
+      "ex": [
+        {"es": "La ambulancia llegó en diez minutos.", "en": "The ambulance arrived in ten minutes."}
+      ]
+    },
+    {
+      "es": "el seguro", "pos": "n.m. / adj.", "en": "insurance; safe, sure",
+      "he": "ביטוח / בטוח",
+      "note": "estar seguro is to be sure; el seguro médico is health insurance.",
+      "ex": [
+        {"tag": "insurance", "es": "¿Tiene seguro médico?", "en": "Do you have health insurance?"},
+        {"tag": "sure", "es": "Estoy seguro de que lo vi.", "en": "I'm sure I saw it."}
+      ]
+    },
+    {
+      "es": "el peligro", "pos": "n.m.", "en": "danger",
+      "note": "peligroso is dangerous. ¡Peligro! on a sign.",
+      "ex": [
+        {"es": "Está fuera de peligro.", "en": "He's out of danger."}
+      ]
+    },
+    {
+      "es": "el cuidado", "pos": "n.m.", "en": "care; look out!",
+      "he": "טיפול / זהירות",
+      "note": "¡Cuidado! is the universal watch out. cuidar is to look after.",
+      "ex": [
+        {"tag": "care", "es": "Necesita cuidados especiales.", "en": "He needs special care."},
+        {"tag": "look out", "es": "¡Cuidado, viene un carro!", "en": "Watch out, there's a car coming!"}
+      ]
+    },
+    {
+      "es": "sano · saludable", "pos": "adj.", "en": "healthy",
+      "note": "sano of a person, saludable of food and habits.",
+      "ex": [
+        {"es": "Come sano y duerme bien.", "en": "He eats healthily and sleeps well."}
+      ]
+    },
+    {
+      "es": "mejorarse", "pos": "v.", "en": "to get better, to recover",
+      "note": "¡Que te mejores! is get well soon. empeorar is to get worse.",
+      "ex": [
+        {"es": "Espero que te mejores pronto.", "en": "I hope you get better soon."}
+      ]
+    }
+  ]
+}

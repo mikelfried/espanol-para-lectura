@@ -1,0 +1,315 @@
+{
+  "id": "u33",
+  "title": "Sport, music and free time",
+  "intro": "One thing to fix early: jugar takes a for a sport (jugar al fútbol), tocar is used for playing an instrument, and practicar covers taking part in a sport generally.",
+  "entries": [
+    {
+      "es": "jugar",
+      "pos": "v. irr.",
+      "en": "to play (a game or sport)",
+      "note": "jugar a with sports and games; never for instruments.",
+      "conj": {
+        "label": "pres.",
+        "forms": [
+          "juego",
+          "juegas",
+          "juega",
+          "jugamos",
+          "juegan"
+        ]
+      },
+      "ex": [
+        {
+          "es": "Jugamos al fútbol los sábados.",
+          "en": "We play football on Saturdays."
+        }
+      ]
+    },
+    {
+      "es": "tocar",
+      "pos": "v.",
+      "en": "to touch; to play (an instrument); to be someone's turn",
+      "he": "לגעת / לנגן",
+      "note": "me toca a mí means it's my turn.",
+      "ex": [
+        {
+          "tag": "touch",
+          "es": "No toques eso, está caliente.",
+          "en": "Don't touch that, it's hot."
+        },
+        {
+          "tag": "play music",
+          "es": "Toca la guitarra muy bien.",
+          "en": "She plays the guitar very well."
+        },
+        {
+          "tag": "one's turn",
+          "es": "Ahora te toca a ti.",
+          "en": "Now it's your turn."
+        }
+      ]
+    },
+    {
+      "es": "el juego",
+      "pos": "n.m.",
+      "en": "game; set (of things)",
+      "he": "משחק / מערכת",
+      "ex": [
+        {
+          "tag": "game",
+          "es": "Es un juego de cartas.",
+          "en": "It's a card game."
+        },
+        {
+          "tag": "set",
+          "es": "Compró un juego de platos.",
+          "en": "She bought a set of plates."
+        }
+      ]
+    },
+    {
+      "es": "el partido",
+      "pos": "n.m.",
+      "en": "match, game; political party",
+      "he": "משחק / מפלגה",
+      "ex": [
+        {
+          "tag": "match",
+          "es": "El partido empieza a las ocho.",
+          "en": "The match starts at eight."
+        },
+        {
+          "tag": "party",
+          "es": "Ganó el partido de la oposición.",
+          "en": "The opposition party won."
+        }
+      ]
+    },
+    {
+      "es": "el equipo",
+      "pos": "n.m.",
+      "en": "team; equipment",
+      "he": "קבוצה / ציוד",
+      "ex": [
+        {
+          "tag": "team",
+          "es": "Nuestro equipo va último.",
+          "en": "Our team is bottom."
+        },
+        {
+          "tag": "equipment",
+          "es": "Trajeron el equipo de sonido.",
+          "en": "They brought the sound equipment."
+        }
+      ]
+    },
+    {
+      "es": "la pelota · el balón",
+      "pos": "n.",
+      "en": "ball",
+      "note": "la pelota is any ball; el balón the large kind used in football.",
+      "ex": [
+        {
+          "es": "Pásame la pelota.",
+          "en": "Pass me the ball."
+        }
+      ]
+    },
+    {
+      "es": "nadar",
+      "pos": "v.",
+      "en": "to swim",
+      "note": "la piscina is the pool, la alberca in Mexico.",
+      "ex": [
+        {
+          "es": "Nada todas las mañanas.",
+          "en": "He swims every morning."
+        }
+      ]
+    },
+    {
+      "es": "el ejercicio",
+      "pos": "n.m.",
+      "en": "exercise",
+      "note": "hacer ejercicio is to exercise; el gimnasio the gym.",
+      "ex": [
+        {
+          "es": "Hago ejercicio tres veces por semana.",
+          "en": "I exercise three times a week."
+        }
+      ]
+    },
+    {
+      "es": "ganar · perder",
+      "pos": "v. irr.",
+      "en": "to win; to lose",
+      "note": "empatar is to draw. See unit 17 for ganar meaning to earn.",
+      "ex": [
+        {
+          "tag": "win",
+          "es": "Ganamos tres a uno.",
+          "en": "We won three to one."
+        },
+        {
+          "tag": "lose",
+          "es": "Perdieron en el último minuto.",
+          "en": "They lost in the last minute."
+        }
+      ]
+    },
+    {
+      "es": "la música",
+      "pos": "n.f.",
+      "en": "music",
+      "note": "el músico is a musician; la canción a song; el cantante a singer.",
+      "ex": [
+        {
+          "es": "Pon música mientras cocinamos.",
+          "en": "Put some music on while we cook."
+        }
+      ]
+    },
+    {
+      "es": "la canción",
+      "pos": "n.f.",
+      "en": "song",
+      "note": "Plural canciones. cantar is to sing.",
+      "ex": [
+        {
+          "es": "Esa canción me recuerda a mi madre.",
+          "en": "That song reminds me of my mother."
+        }
+      ]
+    },
+    {
+      "es": "bailar",
+      "pos": "v.",
+      "en": "to dance",
+      "note": "el baile is the dance; la danza the art form.",
+      "ex": [
+        {
+          "es": "No sé bailar salsa.",
+          "en": "I don't know how to dance salsa."
+        }
+      ]
+    },
+    {
+      "es": "la película",
+      "pos": "n.f.",
+      "en": "film, movie",
+      "note": "el cine is the cinema, and also cinema as an art. la serie is a TV series.",
+      "ex": [
+        {
+          "es": "La película dura tres horas.",
+          "en": "The film is three hours long."
+        }
+      ]
+    },
+    {
+      "es": "el cuento",
+      "pos": "n.m.",
+      "en": "short story, tale",
+      "note": "la novela is a novel. Don't confuse with la cuenta, the bill.",
+      "ex": [
+        {
+          "es": "Le leo un cuento cada noche.",
+          "en": "I read him a story every night."
+        }
+      ]
+    },
+    {
+      "es": "el dibujo",
+      "pos": "n.m.",
+      "en": "drawing",
+      "note": "dibujar is to draw; los dibujos animados are cartoons.",
+      "ex": [
+        {
+          "es": "Colgamos sus dibujos en la cocina.",
+          "en": "We put her drawings up in the kitchen."
+        }
+      ]
+    },
+    {
+      "es": "la fiesta",
+      "pos": "n.f.",
+      "en": "party; public holiday",
+      "he": "מסיבה / חג",
+      "ex": [
+        {
+          "tag": "party",
+          "es": "La fiesta acabó a las tres.",
+          "en": "The party ended at three."
+        },
+        {
+          "tag": "holiday",
+          "es": "El lunes es fiesta.",
+          "en": "Monday is a public holiday."
+        }
+      ]
+    },
+    {
+      "es": "divertirse",
+      "pos": "v. irr.",
+      "en": "to have fun, to enjoy oneself",
+      "note": "¡Diviértete! means have fun. divertido is fun as an adjective.",
+      "conj": {
+        "label": "pres.",
+        "forms": [
+          "me divierto",
+          "te diviertes",
+          "se divierte",
+          "nos divertimos",
+          "se divierten"
+        ]
+      },
+      "ex": [
+        {
+          "es": "Nos divertimos mucho en el viaje.",
+          "en": "We had a great time on the trip."
+        }
+      ]
+    },
+    {
+      "es": "el paseo",
+      "pos": "n.m.",
+      "en": "walk, stroll, outing",
+      "note": "dar un paseo is to go for a walk; pasear to stroll.",
+      "ex": [
+        {
+          "es": "Dimos un paseo por el centro.",
+          "en": "We went for a walk round the centre."
+        }
+      ]
+    },
+    {
+      "es": "el valor",
+      "pos": "n.m.",
+      "en": "value, worth; courage",
+      "he": "ערך / אומץ",
+      "ex": [
+        {
+          "tag": "value",
+          "es": "El cuadro tiene mucho valor.",
+          "en": "The painting is worth a lot."
+        },
+        {
+          "tag": "courage",
+          "es": "No tuvo el valor de decirlo.",
+          "en": "He didn't have the courage to say it."
+        }
+      ]
+    },
+    {
+      "es": "el premio",
+      "pos": "n.m.",
+      "en": "prize, award",
+      "note": "ganar un premio is to win a prize; el campeón the champion.",
+      "ex": [
+        {
+          "es": "Ganó el primer premio.",
+          "en": "She won first prize."
+        }
+      ]
+    }
+  ]
+}

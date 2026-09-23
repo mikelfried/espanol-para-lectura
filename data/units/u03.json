@@ -1,0 +1,146 @@
+{
+  "id": "u03",
+  "title": "People and family",
+  "intro": "Nouns appear with their article because the article is part of the word. Where a word has a matching feminine form it is shown after a slash.",
+  "entries": [
+    {
+      "es": "la gente", "pos": "n.f.", "en": "people",
+      "he": "אנשים",
+      "note": "Singular in Spanish, plural in English. La gente dice, never la gente dicen.",
+      "ex": [
+        {"es": "Hay poca gente en el museo.", "en": "There are few people in the museum."}
+      ]
+    },
+    {
+      "es": "la persona", "pos": "n.f.", "en": "person",
+      "note": "Always feminine, even for a man: Juan es una persona seria.",
+      "ex": [
+        {"es": "Es la única persona que me entiende.", "en": "She's the only person who understands me."}
+      ]
+    },
+    {
+      "es": "el hombre", "pos": "n.m.", "en": "man",
+      "ex": [
+        {"es": "Un hombre mayor abrió la puerta.", "en": "An older man opened the door."}
+      ]
+    },
+    {
+      "es": "la mujer", "pos": "n.f.", "en": "woman; wife",
+      "he": "אישה / רעיה",
+      "ex": [
+        {"tag": "woman", "es": "Esa mujer dirige la empresa.", "en": "That woman runs the company."},
+        {"tag": "wife", "es": "Vino con su mujer.", "en": "He came with his wife."}
+      ]
+    },
+    {
+      "es": "el niño / la niña", "pos": "n.", "en": "child, boy / girl",
+      "ex": [
+        {"es": "Los niños juegan en el patio.", "en": "The children are playing in the yard."}
+      ]
+    },
+    {
+      "es": "la familia", "pos": "n.f.", "en": "family",
+      "ex": [
+        {"es": "Toda la familia vino a la cena.", "en": "The whole family came to the dinner."}
+      ]
+    },
+    {
+      "es": "el padre", "pos": "n.m.", "en": "father; (pl.) parents",
+      "he": "אב / הורים",
+      "note": "los padres means parents, not fathers. The same trick applies to los hijos and los hermanos.",
+      "ex": [
+        {"tag": "father", "es": "Su padre nació en Córdoba.", "en": "His father was born in Córdoba."},
+        {"tag": "parents", "es": "Mis padres viven en Haifa.", "en": "My parents live in Haifa."}
+      ]
+    },
+    {
+      "es": "la madre", "pos": "n.f.", "en": "mother",
+      "ex": [
+        {"es": "Su madre es maestra.", "en": "His mother is a teacher."}
+      ]
+    },
+    {
+      "es": "el hijo / la hija", "pos": "n.", "en": "son, daughter; (pl.) children",
+      "ex": [
+        {"tag": "son", "es": "Su hijo mayor estudia en Chile.", "en": "Their eldest son studies in Chile."},
+        {"tag": "children", "es": "Tienen tres hijos.", "en": "They have three children."}
+      ]
+    },
+    {
+      "es": "el hermano / la hermana", "pos": "n.", "en": "brother / sister",
+      "ex": [
+        {"es": "Mi hermana menor estudia medicina.", "en": "My younger sister studies medicine."}
+      ]
+    },
+    {
+      "es": "el abuelo / la abuela", "pos": "n.", "en": "grandfather / grandmother",
+      "ex": [
+        {"es": "Mi abuela cocina mejor que nadie.", "en": "My grandmother cooks better than anyone."}
+      ]
+    },
+    {
+      "es": "el esposo / la esposa", "pos": "n.", "en": "husband / wife",
+      "ex": [
+        {"es": "Su esposo trabaja en el hospital.", "en": "Her husband works at the hospital."}
+      ]
+    },
+    {
+      "es": "la pareja", "pos": "n.f.", "en": "partner; couple",
+      "he": "בן/בת זוג / זוג",
+      "note": "Feminine regardless of the partner's gender: mi pareja es ingeniero.",
+      "ex": [
+        {"tag": "partner", "es": "Vino con su pareja a la fiesta.", "en": "She came to the party with her partner."},
+        {"tag": "couple", "es": "Es una pareja muy tranquila.", "en": "They're a very easy-going couple."}
+      ]
+    },
+    {
+      "es": "el amigo / la amiga", "pos": "n.", "en": "friend",
+      "ex": [
+        {"es": "Es un amigo de la universidad.", "en": "He's a friend from university."}
+      ]
+    },
+    {
+      "es": "el compañero / la compañera", "pos": "n.", "en": "colleague, classmate, companion",
+      "he": "עמית / חבר לעבודה או ללימודים",
+      "ex": [
+        {"es": "Mis compañeros de trabajo son amables.", "en": "My co-workers are kind."}
+      ]
+    },
+    {
+      "es": "el señor", "pos": "n.m.", "en": "gentleman, man; Mr, sir",
+      "note": "Before a name it takes the article: el señor García llamó. Speaking to him directly, it drops: buenos días, señor García.",
+      "ex": [
+        {"tag": "man", "es": "Un señor mayor preguntó por ti.", "en": "An older man asked for you."},
+        {"tag": "sir", "es": "Disculpe, señor, ¿tiene hora?", "en": "Excuse me, sir, do you have the time?"}
+      ]
+    },
+    {
+      "es": "la señora", "pos": "n.f.", "en": "lady, woman; Mrs, madam",
+      "ex": [
+        {"tag": "woman", "es": "La señora de la tienda me ayudó.", "en": "The woman from the shop helped me."},
+        {"tag": "madam", "es": "Pase usted, señora.", "en": "Do come in, madam."}
+      ]
+    },
+    {
+      "es": "el vecino / la vecina", "pos": "n.", "en": "neighbour",
+      "ex": [
+        {"es": "Los vecinos hacen mucho ruido.", "en": "The neighbours make a lot of noise."}
+      ]
+    },
+    {
+      "es": "el jefe / la jefa", "pos": "n.", "en": "boss, head, chief",
+      "ex": [
+        {"es": "Habla con tu jefa antes de decidir.", "en": "Talk to your boss before deciding."}
+      ]
+    },
+    {
+      "es": "el nombre", "pos": "n.m.", "en": "name, first name",
+      "he": "שם",
+      "note": "A family name is el apellido — a separate word, not a compound like English last name.",
+      "ex": [
+        {"es": "No recuerdo su nombre.", "en": "I don't remember his name."},
+        {"es": "Escribe tu nombre y apellido aquí.", "en": "Write your first and last name here."}
+      ]
+    }
+  ]
+}

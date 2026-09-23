@@ -1,0 +1,175 @@
+{
+  "id": "u02",
+  "title": "What people do all day",
+  "intro": "Ordinary actions. Most are regular; the ones whose stem changes under stress are marked irr. and given their forms.",
+  "entries": [
+    {
+      "es": "hablar", "pos": "v.", "en": "to speak, to talk",
+      "ex": [
+        {"es": "Hablo un poco de español.", "en": "I speak a little Spanish."},
+        {"es": "Habla más despacio, por favor.", "en": "Speak more slowly, please."}
+      ]
+    },
+    {
+      "es": "comer", "pos": "v.", "en": "to eat; to have lunch",
+      "note": "In much of Latin America comer on its own implies the midday meal.",
+      "ex": [
+        {"tag": "eat", "es": "¿Ya comiste?", "en": "Have you eaten yet?"},
+        {"tag": "lunch", "es": "Comemos a las dos los domingos.", "en": "We have lunch at two on Sundays."}
+      ]
+    },
+    {
+      "es": "tomar", "pos": "v.", "en": "to take; to drink",
+      "he": "לקחת / לשתות",
+      "note": "In Latin America tomar is the default verb for drinking, ahead of beber.",
+      "ex": [
+        {"tag": "take", "es": "Toma el primer autobús.", "en": "Take the first bus."},
+        {"tag": "drink", "es": "Tomo café por la mañana.", "en": "I drink coffee in the morning."}
+      ]
+    },
+    {
+      "es": "vivir", "pos": "v.", "en": "to live, to be alive; to reside",
+      "ex": [
+        {"tag": "be alive", "es": "Vivió noventa años.", "en": "She lived ninety years."},
+        {"tag": "reside", "es": "Vivimos cerca del río.", "en": "We live near the river."}
+      ]
+    },
+    {
+      "es": "trabajar", "pos": "v.", "en": "to work",
+      "ex": [
+        {"es": "Trabaja desde su casa.", "en": "He works from home."},
+        {"es": "¿En qué trabajas?", "en": "What do you do for a living?"}
+      ]
+    },
+    {
+      "es": "estudiar", "pos": "v.", "en": "to study",
+      "ex": [
+        {"es": "Estudio de noche porque hay silencio.", "en": "I study at night because it's quiet."}
+      ]
+    },
+    {
+      "es": "leer", "pos": "v.", "en": "to read",
+      "ex": [
+        {"es": "Leí el artículo dos veces.", "en": "I read the article twice."},
+        {"es": "Léelo en voz alta.", "en": "Read it out loud."}
+      ]
+    },
+    {
+      "es": "escribir", "pos": "v.", "en": "to write",
+      "note": "Irregular past participle: escrito.",
+      "ex": [
+        {"es": "Escríbeme cuando llegues.", "en": "Write to me when you arrive."}
+      ]
+    },
+    {
+      "es": "escuchar", "pos": "v.", "en": "to listen to",
+      "he": "להקשיב",
+      "note": "Deliberate listening. oír is the passive hearing that happens to you.",
+      "ex": [
+        {"es": "Escucha, esto es importante.", "en": "Listen, this is important."}
+      ]
+    },
+    {
+      "es": "mirar", "pos": "v.", "en": "to look at, to watch",
+      "he": "להביט",
+      "note": "Directed looking, where ver is undirected seeing.",
+      "ex": [
+        {"es": "Mira el cielo, está rojo.", "en": "Look at the sky, it's red."}
+      ]
+    },
+    {
+      "es": "buscar", "pos": "v.", "en": "to look for; to pick up (a person)",
+      "note": "Never followed by por. Busco las llaves, not busco por las llaves.",
+      "ex": [
+        {"tag": "look for", "es": "Estoy buscando trabajo.", "en": "I'm looking for work."},
+        {"tag": "pick up", "es": "Paso a buscarte a las siete.", "en": "I'll come pick you up at seven."}
+      ]
+    },
+    {
+      "es": "encontrar", "pos": "v. irr.", "en": "to find; (encontrarse) to run into; to feel",
+      "conj": {"label": "pres.", "forms": ["encuentro", "encuentras", "encuentra", "encontramos", "encuentran"]},
+      "ex": [
+        {"tag": "find", "es": "No encuentro mi celular.", "en": "I can't find my phone."},
+        {"tag": "run into", "es": "Me encontré con Pablo en el banco.", "en": "I ran into Pablo at the bank."},
+        {"tag": "feel", "es": "¿Cómo te encuentras hoy?", "en": "How are you feeling today?"}
+      ]
+    },
+    {
+      "es": "pensar", "pos": "v. irr.", "en": "to think, to ponder; to intend to",
+      "note": "pensar en = to think about something. pensar que = to hold an opinion.",
+      "conj": {"label": "pres.", "forms": ["pienso", "piensas", "piensa", "pensamos", "piensan"]},
+      "ex": [
+        {"tag": "ponder", "es": "¿En qué piensas?", "en": "What are you thinking about?"},
+        {"tag": "intend", "es": "Pensamos salir temprano.", "en": "We plan to leave early."}
+      ]
+    },
+    {
+      "es": "creer", "pos": "v.", "en": "to believe; to think (hold an opinion)",
+      "ex": [
+        {"tag": "believe", "es": "No lo creo.", "en": "I don't believe it."},
+        {"tag": "opinion", "es": "Creo que es una buena idea.", "en": "I think it's a good idea."}
+      ]
+    },
+    {
+      "es": "sentir", "pos": "v. irr.", "en": "to feel; to be sorry, to regret",
+      "he": "להרגיש / להצטער",
+      "note": "Lo siento literally means I feel it — the ordinary apology.",
+      "conj": {"label": "pres.", "forms": ["siento", "sientes", "siente", "sentimos", "sienten"]},
+      "ex": [
+        {"tag": "feel", "es": "Me siento mucho mejor hoy.", "en": "I feel much better today."},
+        {"tag": "regret", "es": "Siento llegar tarde.", "en": "I'm sorry for arriving late."}
+      ]
+    },
+    {
+      "es": "empezar", "pos": "v. irr.", "en": "to begin, to start",
+      "note": "empezar a + infinitive. The synonym comenzar behaves identically.",
+      "conj": {"label": "pres.", "forms": ["empiezo", "empiezas", "empieza", "empezamos", "empiezan"]},
+      "ex": [
+        {"es": "La película empieza a las nueve.", "en": "The film starts at nine."},
+        {"es": "Empezó a llover de repente.", "en": "It suddenly started to rain."}
+      ]
+    },
+    {
+      "es": "terminar", "pos": "v.", "en": "to finish, to end",
+      "ex": [
+        {"es": "Termina el informe y descansa.", "en": "Finish the report and rest."},
+        {"es": "La reunión terminó tarde.", "en": "The meeting ended late."}
+      ]
+    },
+    {
+      "es": "esperar", "pos": "v.", "en": "to wait; to hope; to expect",
+      "he": "לחכות / לקוות",
+      "note": "Three meanings English keeps apart and Spanish does not. Only context separates them.",
+      "ex": [
+        {"tag": "wait", "es": "Espérame afuera.", "en": "Wait for me outside."},
+        {"tag": "hope", "es": "Espero que estés bien.", "en": "I hope you're well."},
+        {"tag": "expect", "es": "Esperamos unos veinte invitados.", "en": "We're expecting about twenty guests."}
+      ]
+    },
+    {
+      "es": "pedir", "pos": "v. irr.", "en": "to ask for, to request; to order (food)",
+      "he": "לבקש",
+      "conj": {"label": "pres.", "forms": ["pido", "pides", "pide", "pedimos", "piden"]},
+      "ex": [
+        {"tag": "request", "es": "Pidió ayuda a su hermano.", "en": "She asked her brother for help."},
+        {"tag": "order", "es": "Pedimos dos tacos y una limonada.", "en": "We ordered two tacos and a lemonade."}
+      ]
+    },
+    {
+      "es": "coger", "pos": "v.", "en": "to take, to grab, to catch",
+      "he": "לתפוס / לקחת",
+      "warn": "In Mexico, Argentina, Uruguay and much of Latin America this is crude slang for having sex. Neutral in Spain, where it is the ordinary word for catching a bus. Use tomar or agarrar instead and you are safe everywhere.",
+      "ex": [
+        {"es": "En España cogen el metro; en México toman el metro.", "en": "In Spain they take the metro; in Mexico they take the metro."}
+      ]
+    },
+    {
+      "es": "preguntar", "pos": "v.", "en": "to ask (a question)",
+      "he": "לשאול",
+      "note": "You preguntas a question and pides a thing — the same split Hebrew makes between לשאול and לבקש.",
+      "ex": [
+        {"es": "Me preguntó dónde vivías.", "en": "He asked me where you lived."}
+      ]
+    }
+  ]
+}

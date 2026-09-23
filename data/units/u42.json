@@ -1,0 +1,301 @@
+{
+  "id": "u42",
+  "title": "Friends and social life",
+  "intro": "How Spanish handles invitations, arrangements and company. Note quedar for making plans (unit 1) and invitar, which in Latin America usually means to pay as well as to invite.",
+  "entries": [
+    {
+      "es": "el amigo / la amiga",
+      "pos": "n.",
+      "en": "friend",
+      "note": "See unit 3. el conocido is an acquaintance; el compañero a colleague or classmate.",
+      "ex": [
+        {
+          "es": "Salí con unos amigos del trabajo.",
+          "en": "I went out with some friends from work."
+        }
+      ]
+    },
+    {
+      "es": "invitar",
+      "pos": "v.",
+      "en": "to invite; to treat, to pay for",
+      "he": "להזמין / לשלם עבור",
+      "note": "Yo invito means my treat. Saying te invito un café offers to buy it.",
+      "ex": [
+        {
+          "tag": "invite",
+          "es": "Nos invitaron a su boda.",
+          "en": "They invited us to their wedding."
+        },
+        {
+          "tag": "treat",
+          "es": "Hoy invito yo.",
+          "en": "It's my treat today."
+        }
+      ]
+    },
+    {
+      "es": "la invitación",
+      "pos": "n.f.",
+      "en": "invitation",
+      "ex": [
+        {
+          "es": "Gracias por la invitación.",
+          "en": "Thank you for the invitation."
+        }
+      ]
+    },
+    {
+      "es": "el plan",
+      "pos": "n.m.",
+      "en": "plan",
+      "note": "¿Tienes planes? asks about your plans. hacer planes is to make plans.",
+      "ex": [
+        {
+          "es": "¿Qué planes tienes para el sábado?",
+          "en": "What are your plans for Saturday?"
+        }
+      ]
+    },
+    {
+      "es": "acompañar",
+      "pos": "v.",
+      "en": "to go with, to accompany",
+      "note": "¿Te acompaño? offers to come with you.",
+      "ex": [
+        {
+          "es": "Te acompaño a la estación.",
+          "en": "I'll walk you to the station."
+        }
+      ]
+    },
+    {
+      "es": "conocer a alguien",
+      "pos": "phrase",
+      "en": "to meet someone, to get to know someone",
+      "note": "See unit 1. The past conocí means I met, for the first time.",
+      "ex": [
+        {
+          "es": "La conocí en una fiesta.",
+          "en": "I met her at a party."
+        }
+      ]
+    },
+    {
+      "es": "presentar",
+      "pos": "v.",
+      "en": "to introduce; to present",
+      "he": "להציג",
+      "note": "te presento a Ana is how you introduce someone.",
+      "ex": [
+        {
+          "tag": "introduce",
+          "es": "Te presento a mi hermana.",
+          "en": "Let me introduce you to my sister."
+        },
+        {
+          "tag": "present",
+          "es": "Presentó su trabajo en la reunión.",
+          "en": "She presented her work at the meeting."
+        }
+      ]
+    },
+    {
+      "es": "saludar · despedirse",
+      "pos": "v. irr.",
+      "en": "to greet, to say hello; to say goodbye",
+      "note": "el saludo is a greeting; la despedida a farewell or leaving party.",
+      "ex": [
+        {
+          "tag": "greet",
+          "es": "Pasó sin saludar.",
+          "en": "He walked past without saying hello."
+        },
+        {
+          "tag": "say goodbye",
+          "es": "Se despidió de todos.",
+          "en": "She said goodbye to everyone."
+        }
+      ]
+    },
+    {
+      "es": "el novio / la novia",
+      "pos": "n.",
+      "en": "boyfriend, girlfriend; groom, bride",
+      "he": "חבר / חברה / חתן / כלה",
+      "note": "los novios are the couple at a wedding. See unit 10 for la pareja.",
+      "ex": [
+        {
+          "tag": "partner",
+          "es": "Vino con su novia.",
+          "en": "He came with his girlfriend."
+        },
+        {
+          "tag": "bride and groom",
+          "es": "Los novios llegaron tarde.",
+          "en": "The bride and groom arrived late."
+        }
+      ]
+    },
+    {
+      "es": "salir con",
+      "pos": "phrase",
+      "en": "to go out with, to date",
+      "note": "salir alone is simply to go out — see unit 22.",
+      "ex": [
+        {
+          "es": "Salen juntos desde marzo.",
+          "en": "They've been going out since March."
+        }
+      ]
+    },
+    {
+      "es": "discutir · pelear",
+      "pos": "v.",
+      "en": "to argue, to discuss; to fight, to quarrel",
+      "he": "להתווכח / לריב",
+      "note": "discutir leans towards arguing, not calm discussion. For that use hablar de or tratar.",
+      "ex": [
+        {
+          "tag": "argue",
+          "es": "Discutimos por una tontería.",
+          "en": "We argued over something silly."
+        },
+        {
+          "tag": "quarrel",
+          "es": "Los niños pelean todo el día.",
+          "en": "The children fight all day."
+        }
+      ]
+    },
+    {
+      "es": "perdonar",
+      "pos": "v.",
+      "en": "to forgive, to excuse",
+      "note": "perdón is the noun and the apology — see unit 5.",
+      "ex": [
+        {
+          "es": "Nunca lo perdonó.",
+          "en": "She never forgave him."
+        }
+      ]
+    },
+    {
+      "es": "prometer",
+      "pos": "v.",
+      "en": "to promise",
+      "note": "la promesa is the promise.",
+      "ex": [
+        {
+          "es": "Me prometió que vendría.",
+          "en": "He promised me he'd come."
+        }
+      ]
+    },
+    {
+      "es": "avisar",
+      "pos": "v.",
+      "en": "to let know, to warn, to notify",
+      "he": "להודיע / להזהיר",
+      "note": "avísame means let me know. Extremely common and has no neat English single word.",
+      "ex": [
+        {
+          "es": "Avísame cuando llegues.",
+          "en": "Let me know when you arrive."
+        }
+      ]
+    },
+    {
+      "es": "la cena · la comida",
+      "pos": "n.f.",
+      "en": "dinner; lunch, meal",
+      "note": "See unit 7. Social life in the Spanish-speaking world is organised around both.",
+      "ex": [
+        {
+          "tag": "dinner",
+          "es": "Nos vemos en la cena.",
+          "en": "See you at dinner."
+        },
+        {
+          "tag": "meal",
+          "es": "Fue una comida larguísima.",
+          "en": "It was a very long meal."
+        }
+      ]
+    },
+    {
+      "es": "brindar",
+      "pos": "v.",
+      "en": "to toast, to drink a toast",
+      "note": "brindar por is to drink to something. See salud in unit 5.",
+      "ex": [
+        {
+          "es": "Brindemos por los novios.",
+          "en": "Let's drink to the bride and groom."
+        }
+      ]
+    },
+    {
+      "es": "el vecino / la vecina",
+      "pos": "n.",
+      "en": "neighbour",
+      "note": "See unit 3. In small towns the vecinos are effectively an institution.",
+      "ex": [
+        {
+          "es": "Mis vecinos son muy amables.",
+          "en": "My neighbours are very kind."
+        }
+      ]
+    },
+    {
+      "es": "juntos · solo",
+      "pos": "adj.",
+      "en": "together; alone",
+      "he": "ביחד / לבד",
+      "note": "sólo with an accent used to mean only; the accent is now optional and usually dropped.",
+      "ex": [
+        {
+          "tag": "together",
+          "es": "Estudiamos juntos en la universidad.",
+          "en": "We studied together at university."
+        },
+        {
+          "tag": "alone",
+          "es": "Prefiere trabajar solo.",
+          "en": "He prefers to work alone."
+        }
+      ]
+    },
+    {
+      "es": "el favor",
+      "pos": "n.m.",
+      "en": "favour",
+      "note": "hacer un favor is to do a favour; por favor is please — see unit 5.",
+      "ex": [
+        {
+          "es": "¿Me haces un favor?",
+          "en": "Would you do me a favour?"
+        }
+      ]
+    },
+    {
+      "es": "la confianza",
+      "pos": "n.f.",
+      "en": "trust, confidence; closeness",
+      "he": "אמון / קרבה",
+      "note": "tener confianza con alguien is to be close enough to speak freely.",
+      "ex": [
+        {
+          "tag": "trust",
+          "es": "Perdió la confianza en ellos.",
+          "en": "He lost his trust in them."
+        },
+        {
+          "tag": "closeness",
+          "es": "Tenemos mucha confianza.",
+          "en": "We're very close."
+        }
+      ]
+    }
+  ]
+}

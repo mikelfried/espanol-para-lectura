@@ -1,0 +1,156 @@
+{
+  "id": "u26",
+  "title": "Everyday routine",
+  "intro": "Most of this unit is reflexive, because Spanish marks actions you do to yourself: despertarse, levantarse, bañarse, acostarse. The reflexive pronoun is not optional — levantar without it means to lift something else.",
+  "entries": [
+    {
+      "es": "despertarse", "pos": "v. irr.", "en": "to wake up",
+      "note": "despertar without se means to wake someone else: despierta a tu hermano.",
+      "conj": {"label": "pres.", "forms": ["me despierto", "te despiertas", "se despierta", "nos despertamos", "se despiertan"]},
+      "ex": [
+        {"es": "Me despierto a las seis sin despertador.", "en": "I wake up at six without an alarm."}
+      ]
+    },
+    {
+      "es": "levantarse", "pos": "v.", "en": "to get up, to stand up",
+      "note": "levantar alone is to lift or raise something.",
+      "ex": [
+        {"es": "Se levanta tardísimo los domingos.", "en": "He gets up very late on Sundays."}
+      ]
+    },
+    {
+      "es": "dormir", "pos": "v. irr.", "en": "to sleep; (dormirse) to fall asleep",
+      "he": "לישון / להירדם",
+      "conj": {"label": "pres.", "forms": ["duermo", "duermes", "duerme", "dormimos", "duermen"]},
+      "ex": [
+        {"tag": "sleep", "es": "Dormí ocho horas seguidas.", "en": "I slept eight hours straight."},
+        {"tag": "fall asleep", "es": "Se durmió en el sofá.", "en": "He fell asleep on the sofa."}
+      ]
+    },
+    {
+      "es": "acostarse", "pos": "v. irr.", "en": "to go to bed, to lie down",
+      "conj": {"label": "pres.", "forms": ["me acuesto", "te acuestas", "se acuesta", "nos acostamos", "se acuestan"]},
+      "ex": [
+        {"es": "Me acuesto antes de medianoche.", "en": "I go to bed before midnight."}
+      ]
+    },
+    {
+      "es": "bañarse · ducharse", "pos": "v.", "en": "to have a bath; to have a shower",
+      "note": "In much of Latin America bañarse covers showering too.",
+      "ex": [
+        {"tag": "bath", "es": "El niño se baña antes de cenar.", "en": "The boy has a bath before dinner."},
+        {"tag": "shower", "es": "Me ducho en cinco minutos.", "en": "I shower in five minutes."}
+      ]
+    },
+    {
+      "es": "el baño", "pos": "n.m.", "en": "bathroom; bath",
+      "note": "Asking ¿dónde está el baño? is the polite way to ask for the toilet.",
+      "ex": [
+        {"tag": "bathroom", "es": "¿Dónde está el baño?", "en": "Where is the bathroom?"},
+        {"tag": "bath", "es": "Se dio un baño largo.", "en": "She had a long bath."}
+      ]
+    },
+    {
+      "es": "peinarse", "pos": "v.", "en": "to comb one's hair",
+      "note": "el peine is the comb; el cepillo the brush.",
+      "ex": [
+        {"es": "Péinate antes de salir.", "en": "Comb your hair before you go out."}
+      ]
+    },
+    {
+      "es": "afeitarse", "pos": "v.", "en": "to shave",
+      "note": "la barba is a beard; el bigote a moustache.",
+      "ex": [
+        {"es": "Se afeita cada dos días.", "en": "He shaves every other day."}
+      ]
+    },
+    {
+      "es": "el despertador", "pos": "n.m.", "en": "alarm clock",
+      "note": "poner el despertador is to set the alarm.",
+      "ex": [
+        {"es": "No oí el despertador.", "en": "I didn't hear the alarm."}
+      ]
+    },
+    {
+      "es": "desayunar", "pos": "v.", "en": "to have breakfast",
+      "note": "One verb where English needs three words. Same with almorzar and cenar.",
+      "ex": [
+        {"es": "Desayunamos juntos todos los días.", "en": "We have breakfast together every day."}
+      ]
+    },
+    {
+      "es": "descansar", "pos": "v.", "en": "to rest",
+      "note": "el descanso is a rest or a break.",
+      "ex": [
+        {"es": "Descansa un rato, llevas horas trabajando.", "en": "Rest for a while, you've been working for hours."}
+      ]
+    },
+    {
+      "es": "esperar el turno", "pos": "phrase", "en": "to wait one's turn",
+      "note": "el turno is your turn or a shift at work. me toca a mí means it's my turn.",
+      "ex": [
+        {"es": "Espera tu turno, por favor.", "en": "Wait your turn, please."}
+      ]
+    },
+    {
+      "es": "olvidarse", "pos": "v.", "en": "to forget",
+      "note": "See unit 24. In routine contexts se me olvidó is the everyday form.",
+      "ex": [
+        {"es": "Se me olvidó el almuerzo en casa.", "en": "I left my lunch at home."}
+      ]
+    },
+    {
+      "es": "apagar · encender", "pos": "v. irr.", "en": "to turn off; to turn on, to light",
+      "he": "לכבות / להדליק",
+      "warn": "Frequently swapped in word lists. apagar is off, encender is on. prender is the everyday word for on in Latin America.",
+      "ex": [
+        {"tag": "turn off", "es": "Apaga la luz al salir.", "en": "Turn the light off when you leave."},
+        {"tag": "turn on", "es": "Enciende la televisión.", "en": "Turn the television on."}
+      ]
+    },
+    {
+      "es": "abrir · cerrar", "pos": "v. irr.", "en": "to open; to close",
+      "note": "Past participles: abierto, cerrado — the words on every shop door.",
+      "ex": [
+        {"tag": "open", "es": "Abre la ventana, hace calor.", "en": "Open the window, it's hot."},
+        {"tag": "close", "es": "Cierra la puerta con llave.", "en": "Lock the door."}
+      ]
+    },
+    {
+      "es": "buscar · encontrar", "pos": "v.", "en": "to look for; to find",
+      "note": "See unit 2. Together they cover most of what you do with lost keys.",
+      "ex": [
+        {"tag": "look for", "es": "Busco mis lentes.", "en": "I'm looking for my glasses."},
+        {"tag": "find", "es": "Los encontré en el carro.", "en": "I found them in the car."}
+      ]
+    },
+    {
+      "es": "el cepillo de dientes", "pos": "n.m.", "en": "toothbrush",
+      "note": "la pasta de dientes is toothpaste; lavarse los dientes to brush your teeth.",
+      "ex": [
+        {"es": "Olvidé el cepillo de dientes.", "en": "I forgot my toothbrush."}
+      ]
+    },
+    {
+      "es": "la toalla", "pos": "n.f.", "en": "towel",
+      "ex": [
+        {"es": "Hay toallas limpias en el baño.", "en": "There are clean towels in the bathroom."}
+      ]
+    },
+    {
+      "es": "el rato libre", "pos": "n.m.", "en": "free time, spare moment",
+      "note": "el tiempo libre is free time in general; los ratos libres odd moments.",
+      "ex": [
+        {"es": "Leo en mis ratos libres.", "en": "I read in my spare time."}
+      ]
+    },
+    {
+      "es": "tarde · temprano", "pos": "adv.", "en": "late; early",
+      "note": "For late as an adjective use atrasado or con retraso: el tren viene atrasado.",
+      "ex": [
+        {"tag": "late", "es": "Llegamos tarde otra vez.", "en": "We arrived late again."},
+        {"tag": "early", "es": "Salimos temprano para evitar el tráfico.", "en": "We left early to avoid the traffic."}
+      ]
+    }
+  ]
+}

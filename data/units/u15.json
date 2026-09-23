@@ -1,0 +1,261 @@
+{
+  "id": "u15",
+  "title": "Weather and seasons",
+  "intro": "Weather is built with three different verbs and you have to pick the right one. hacer for most conditions (hace frío), estar for the sky's state (está nublado), and haber for what is present (hay niebla).",
+  "entries": [
+    {
+      "es": "el clima",
+      "pos": "n.m.",
+      "en": "climate, weather",
+      "note": "el tiempo also means weather — see unit 4. el clima is commoner in Latin America.",
+      "ex": [
+        {
+          "es": "El clima aquí es seco todo el año.",
+          "en": "The climate here is dry all year."
+        }
+      ]
+    },
+    {
+      "es": "el sol",
+      "pos": "n.m.",
+      "en": "sun, sunshine",
+      "note": "hace sol is it's sunny. tomar el sol is to sunbathe.",
+      "ex": [
+        {
+          "es": "Hoy hace mucho sol.",
+          "en": "It's very sunny today."
+        }
+      ]
+    },
+    {
+      "es": "la lluvia",
+      "pos": "n.f.",
+      "en": "rain",
+      "note": "The verb is llover, and it only ever takes the él form: llueve.",
+      "ex": [
+        {
+          "es": "La lluvia no paró en tres días.",
+          "en": "The rain didn't stop for three days."
+        }
+      ]
+    },
+    {
+      "es": "llover",
+      "pos": "v. irr.",
+      "en": "to rain",
+      "note": "Impersonal: no subject, one form. llueve, llovía, llovió.",
+      "ex": [
+        {
+          "es": "Parece que va a llover.",
+          "en": "It looks like it's going to rain."
+        }
+      ]
+    },
+    {
+      "es": "la nieve",
+      "pos": "n.f.",
+      "en": "snow",
+      "note": "The verb is nevar: nieva.",
+      "ex": [
+        {
+          "es": "La nieve cubrió el camino.",
+          "en": "The snow covered the road."
+        }
+      ]
+    },
+    {
+      "es": "el viento",
+      "pos": "n.m.",
+      "en": "wind",
+      "note": "hace viento is it's windy.",
+      "ex": [
+        {
+          "es": "El viento se llevó el sombrero.",
+          "en": "The wind took his hat."
+        }
+      ]
+    },
+    {
+      "es": "la nube",
+      "pos": "n.f.",
+      "en": "cloud",
+      "note": "nublado means cloudy: está nublado.",
+      "ex": [
+        {
+          "es": "No hay ni una nube en el cielo.",
+          "en": "There isn't a single cloud in the sky."
+        }
+      ]
+    },
+    {
+      "es": "el cielo",
+      "pos": "n.m.",
+      "en": "sky; heaven",
+      "he": "שמיים",
+      "ex": [
+        {
+          "tag": "sky",
+          "es": "El cielo se puso gris.",
+          "en": "The sky turned grey."
+        },
+        {
+          "tag": "heaven",
+          "es": "Creen que su abuela está en el cielo.",
+          "en": "They believe their grandmother is in heaven."
+        }
+      ]
+    },
+    {
+      "es": "la tormenta",
+      "pos": "n.f.",
+      "en": "storm",
+      "note": "el trueno is thunder; el relámpago lightning.",
+      "ex": [
+        {
+          "es": "Se acerca una tormenta.",
+          "en": "A storm is coming."
+        }
+      ]
+    },
+    {
+      "es": "el calor",
+      "pos": "n.m.",
+      "en": "heat",
+      "note": "hace calor for the weather, tengo calor for yourself. Never estoy caliente, which means something else.",
+      "ex": [
+        {
+          "es": "No aguanto este calor.",
+          "en": "I can't stand this heat."
+        }
+      ]
+    },
+    {
+      "es": "el frío",
+      "pos": "n.m.",
+      "en": "the cold",
+      "note": "Same three-verb pattern: hace frío, tengo frío, está frío.",
+      "ex": [
+        {
+          "es": "En enero hace mucho frío.",
+          "en": "It's very cold in January."
+        }
+      ]
+    },
+    {
+      "es": "húmedo · seco",
+      "pos": "adj.",
+      "en": "damp, humid; dry",
+      "ex": [
+        {
+          "tag": "humid",
+          "es": "El aire está muy húmedo en la costa.",
+          "en": "The air is very humid on the coast."
+        },
+        {
+          "tag": "dry",
+          "es": "La tierra está seca desde mayo.",
+          "en": "The soil has been dry since May."
+        }
+      ]
+    },
+    {
+      "es": "la primavera",
+      "pos": "n.f.",
+      "en": "spring",
+      "note": "Seasons take the article: en la primavera. Not capitalised.",
+      "ex": [
+        {
+          "es": "En primavera florece todo.",
+          "en": "Everything blooms in spring."
+        }
+      ]
+    },
+    {
+      "es": "el verano",
+      "pos": "n.m.",
+      "en": "summer",
+      "ex": [
+        {
+          "es": "Pasamos el verano en la playa.",
+          "en": "We spent the summer at the beach."
+        }
+      ]
+    },
+    {
+      "es": "el otoño",
+      "pos": "n.m.",
+      "en": "autumn, fall",
+      "ex": [
+        {
+          "es": "El otoño es mi estación favorita.",
+          "en": "Autumn is my favourite season."
+        }
+      ]
+    },
+    {
+      "es": "el invierno",
+      "pos": "n.m.",
+      "en": "winter",
+      "ex": [
+        {
+          "es": "El invierno pasado nevó dos veces.",
+          "en": "Last winter it snowed twice."
+        }
+      ]
+    },
+    {
+      "es": "el grado",
+      "pos": "n.m.",
+      "en": "degree",
+      "note": "Temperatures are in Celsius: estamos a treinta grados.",
+      "ex": [
+        {
+          "es": "Hay veinte grados afuera.",
+          "en": "It's twenty degrees outside."
+        }
+      ]
+    },
+    {
+      "es": "el paraguas",
+      "pos": "n.m.",
+      "en": "umbrella",
+      "note": "Already plural in form and never changes: un paraguas, dos paraguas.",
+      "ex": [
+        {
+          "es": "Lleva paraguas, va a llover.",
+          "en": "Take an umbrella, it's going to rain."
+        }
+      ]
+    },
+    {
+      "es": "la sombra",
+      "pos": "n.f.",
+      "en": "shade; shadow",
+      "he": "צל",
+      "ex": [
+        {
+          "tag": "shade",
+          "es": "Vamos a sentarnos en la sombra.",
+          "en": "Let's sit in the shade."
+        },
+        {
+          "tag": "shadow",
+          "es": "Su sombra era larguísima.",
+          "en": "His shadow was very long."
+        }
+      ]
+    },
+    {
+      "es": "mojado",
+      "pos": "adj.",
+      "en": "wet",
+      "note": "mojarse is to get wet; secarse to dry off.",
+      "ex": [
+        {
+          "es": "Llegué completamente mojado.",
+          "en": "I arrived completely soaked."
+        }
+      ]
+    }
+  ]
+}

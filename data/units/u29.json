@@ -1,0 +1,318 @@
+{
+  "id": "u29",
+  "title": "Making, breaking and fixing",
+  "intro": "Spanish is fond of the accidental construction: se rompió el vaso, the glass broke, with no one to blame. Add me and the blame lands gently on you — se me rompió el vaso.",
+  "entries": [
+    {
+      "es": "hacer",
+      "pos": "v. irr.",
+      "en": "to make, to do",
+      "note": "See unit 1. Also hacerse, to become: se hizo médico.",
+      "ex": [
+        {
+          "es": "Hizo una mesa de madera.",
+          "en": "He made a wooden table."
+        }
+      ]
+    },
+    {
+      "es": "construir",
+      "pos": "v. irr.",
+      "en": "to build",
+      "conj": {
+        "label": "pres.",
+        "forms": [
+          "construyo",
+          "construyes",
+          "construye",
+          "construimos",
+          "construyen"
+        ]
+      },
+      "ex": [
+        {
+          "es": "Están construyendo un puente nuevo.",
+          "en": "They're building a new bridge."
+        }
+      ]
+    },
+    {
+      "es": "romper",
+      "pos": "v.",
+      "en": "to break, to tear",
+      "note": "Irregular past participle: roto. se rompió is it broke, with no blame attached.",
+      "ex": [
+        {
+          "es": "Se me rompió el plato.",
+          "en": "I broke the plate."
+        }
+      ]
+    },
+    {
+      "es": "arreglar",
+      "pos": "v.",
+      "en": "to fix, to repair; to tidy up; to sort out",
+      "he": "לתקן / לסדר",
+      "ex": [
+        {
+          "tag": "repair",
+          "es": "¿Puedes arreglar la bicicleta?",
+          "en": "Can you fix the bicycle?"
+        },
+        {
+          "tag": "tidy",
+          "es": "Arregla tu cuarto antes de salir.",
+          "en": "Tidy your room before you go out."
+        },
+        {
+          "tag": "sort out",
+          "es": "Ya arreglamos el problema.",
+          "en": "We've sorted the problem out."
+        }
+      ]
+    },
+    {
+      "es": "cortar",
+      "pos": "v.",
+      "en": "to cut; to cut off",
+      "ex": [
+        {
+          "tag": "cut",
+          "es": "Corta el pan en rebanadas.",
+          "en": "Cut the bread into slices."
+        },
+        {
+          "tag": "cut off",
+          "es": "Cortaron la luz sin avisar.",
+          "en": "They cut the power off without warning."
+        }
+      ]
+    },
+    {
+      "es": "pintar",
+      "pos": "v.",
+      "en": "to paint",
+      "note": "la pintura is both paint and a painting; el cuadro a framed picture.",
+      "ex": [
+        {
+          "es": "Pintamos la sala de blanco.",
+          "en": "We painted the living room white."
+        }
+      ]
+    },
+    {
+      "es": "la madera",
+      "pos": "n.f.",
+      "en": "wood (material)",
+      "note": "el árbol is the tree; la leña firewood; el bosque the forest.",
+      "ex": [
+        {
+          "es": "Es una silla de madera.",
+          "en": "It's a wooden chair."
+        }
+      ]
+    },
+    {
+      "es": "el metal · el hierro",
+      "pos": "n.m.",
+      "en": "metal; iron",
+      "note": "el acero is steel, el oro gold, la plata silver, el cobre copper.",
+      "ex": [
+        {
+          "tag": "metal",
+          "es": "La caja es de metal.",
+          "en": "The box is made of metal."
+        },
+        {
+          "tag": "iron",
+          "es": "La puerta es de hierro.",
+          "en": "The door is made of iron."
+        }
+      ]
+    },
+    {
+      "es": "el vidrio",
+      "pos": "n.m.",
+      "en": "glass (material)",
+      "note": "el cristal is used in Spain and for fine glass. el vaso is a drinking glass.",
+      "ex": [
+        {
+          "es": "Cuidado, hay vidrio en el piso.",
+          "en": "Careful, there's glass on the floor."
+        }
+      ]
+    },
+    {
+      "es": "el plástico",
+      "pos": "n.m.",
+      "en": "plastic",
+      "ex": [
+        {
+          "es": "Prefiero evitar el plástico.",
+          "en": "I prefer to avoid plastic."
+        }
+      ]
+    },
+    {
+      "es": "la piedra",
+      "pos": "n.f.",
+      "en": "stone, rock",
+      "note": "la roca is a large rock; la arena sand.",
+      "ex": [
+        {
+          "es": "El muro es de piedra.",
+          "en": "The wall is made of stone."
+        }
+      ]
+    },
+    {
+      "es": "la herramienta",
+      "pos": "n.f.",
+      "en": "tool",
+      "note": "el martillo is a hammer; el clavo a nail; el destornillador a screwdriver.",
+      "ex": [
+        {
+          "es": "Trae las herramientas del garaje.",
+          "en": "Bring the tools from the garage."
+        }
+      ]
+    },
+    {
+      "es": "la máquina",
+      "pos": "n.f.",
+      "en": "machine",
+      "note": "el motor is the engine; la pieza a part.",
+      "ex": [
+        {
+          "es": "La máquina se paró sola.",
+          "en": "The machine stopped by itself."
+        }
+      ]
+    },
+    {
+      "es": "el trabajo manual",
+      "pos": "n.m.",
+      "en": "manual work, handiwork",
+      "note": "hecho a mano means handmade.",
+      "ex": [
+        {
+          "es": "Es un trabajo manual muy fino.",
+          "en": "It's very fine handiwork."
+        }
+      ]
+    },
+    {
+      "es": "intentar · tratar de",
+      "pos": "v.",
+      "en": "to try, to attempt",
+      "note": "tratar de + infinitive. tratar alone means to treat. probar is to try by tasting or testing.",
+      "ex": [
+        {
+          "es": "Intenté abrirlo pero no pude.",
+          "en": "I tried to open it but couldn't."
+        }
+      ]
+    },
+    {
+      "es": "lograr · conseguir",
+      "pos": "v. irr.",
+      "en": "to manage to, to achieve; to get hold of",
+      "he": "להצליח / להשיג",
+      "conj": {
+        "label": "conseguir, pres.",
+        "forms": [
+          "consigo",
+          "consigues",
+          "consigue",
+          "conseguimos",
+          "consiguen"
+        ]
+      },
+      "ex": [
+        {
+          "tag": "manage to",
+          "es": "Logré terminar a tiempo.",
+          "en": "I managed to finish on time."
+        },
+        {
+          "tag": "get hold of",
+          "es": "Conseguí boletos para el sábado.",
+          "en": "I got hold of tickets for Saturday."
+        }
+      ]
+    },
+    {
+      "es": "listo",
+      "pos": "adj.",
+      "en": "ready; clever",
+      "he": "מוכן / חכם",
+      "note": "estar listo is ready, ser listo is clever. The verb decides the meaning.",
+      "ex": [
+        {
+          "tag": "ready",
+          "es": "¿Ya estás listo?",
+          "en": "Are you ready?"
+        },
+        {
+          "tag": "clever",
+          "es": "Es muy lista para su edad.",
+          "en": "She's very clever for her age."
+        }
+      ]
+    },
+    {
+      "es": "roto · nuevo",
+      "pos": "adj.",
+      "en": "broken; new",
+      "ex": [
+        {
+          "tag": "broken",
+          "es": "La ventana está rota.",
+          "en": "The window is broken."
+        },
+        {
+          "tag": "new",
+          "es": "Compró un carro nuevo.",
+          "en": "He bought a new car."
+        }
+      ]
+    },
+    {
+      "es": "fuerte · débil",
+      "pos": "adj.",
+      "en": "strong, loud; weak",
+      "he": "חזק / חלש",
+      "note": "fuerte also means loud: habla más fuerte, speak up.",
+      "ex": [
+        {
+          "tag": "strong",
+          "es": "El café está muy fuerte.",
+          "en": "The coffee is very strong."
+        },
+        {
+          "tag": "weak",
+          "es": "Se siente débil desde la gripe.",
+          "en": "He's felt weak since the flu."
+        }
+      ]
+    },
+    {
+      "es": "duro · blando",
+      "pos": "adj.",
+      "en": "hard, tough; soft",
+      "note": "For difficult use difícil; duro is physically hard or harsh.",
+      "ex": [
+        {
+          "tag": "hard",
+          "es": "El pan está duro.",
+          "en": "The bread is stale."
+        },
+        {
+          "tag": "soft",
+          "es": "La almohada es muy blanda.",
+          "en": "The pillow is very soft."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "id": "u07",
+  "title": "Food and eating",
+  "intro": "The most useful concrete nouns in the language, because you will use them every day and can point at them while you learn. Watch the genders: most are predictable from the ending, and the two that are not are flagged.",
+  "entries": [
+    {
+      "es": "la comida", "pos": "n.f.", "en": "food; meal; lunch",
+      "he": "אוכל / ארוחה",
+      "note": "In Mexico la comida on its own usually means the main midday meal.",
+      "ex": [
+        {"tag": "food", "es": "La comida de este país me encanta.", "en": "I love this country's food."},
+        {"tag": "meal", "es": "Es la mejor comida que he probado.", "en": "It's the best meal I've ever tasted."},
+        {"tag": "lunch", "es": "La comida es a las dos.", "en": "Lunch is at two."}
+      ]
+    },
+    {
+      "es": "el desayuno", "pos": "n.m.", "en": "breakfast",
+      "note": "The verb is desayunar — one word where English needs three.",
+      "ex": [
+        {"es": "Desayuno pan con queso.", "en": "I have bread and cheese for breakfast."}
+      ]
+    },
+    {
+      "es": "el almuerzo", "pos": "n.m.", "en": "lunch",
+      "note": "Verb: almorzar (yo almuerzo). Competes regionally with la comida.",
+      "ex": [
+        {"es": "¿Almorzamos juntos el viernes?", "en": "Shall we have lunch together on Friday?"}
+      ]
+    },
+    {
+      "es": "la cena", "pos": "n.f.", "en": "dinner, supper",
+      "note": "Verb: cenar. Eaten late — nine or ten at night is normal.",
+      "ex": [
+        {"es": "Cenamos tarde los sábados.", "en": "We eat dinner late on Saturdays."}
+      ]
+    },
+    {
+      "es": "el agua", "pos": "n.f.", "en": "water",
+      "he": "מים",
+      "note": "Feminine, but takes el in the singular because agua starts with a stressed a. So el agua fría, and las aguas in the plural.",
+      "ex": [
+        {"es": "¿Me trae un vaso de agua, por favor?", "en": "Could you bring me a glass of water, please?"}
+      ]
+    },
+    {
+      "es": "el pan", "pos": "n.m.", "en": "bread",
+      "ex": [
+        {"es": "Compro pan fresco cada mañana.", "en": "I buy fresh bread every morning."}
+      ]
+    },
+    {
+      "es": "la carne", "pos": "n.f.", "en": "meat; beef",
+      "he": "בשר",
+      "note": "On a menu carne usually means beef specifically; carne de cerdo is pork.",
+      "ex": [
+        {"tag": "meat", "es": "No come carne desde hace años.", "en": "She hasn't eaten meat for years."},
+        {"tag": "beef", "es": "Pedí carne con papas.", "en": "I ordered beef with potatoes."}
+      ]
+    },
+    {
+      "es": "el pollo", "pos": "n.m.", "en": "chicken",
+      "ex": [
+        {"es": "El pollo asado está riquísimo.", "en": "The roast chicken is delicious."}
+      ]
+    },
+    {
+      "es": "el pescado", "pos": "n.m.", "en": "fish (as food)",
+      "he": "דג (למאכל)",
+      "note": "A fish still swimming is el pez. Once it is caught it becomes el pescado — literally the fished.",
+      "ex": [
+        {"es": "En la costa el pescado es más barato.", "en": "On the coast fish is cheaper."}
+      ]
+    },
+    {
+      "es": "el huevo", "pos": "n.m.", "en": "egg",
+      "ex": [
+        {"es": "¿Cómo quiere los huevos?", "en": "How would you like your eggs?"}
+      ]
+    },
+    {
+      "es": "la leche", "pos": "n.f.", "en": "milk",
+      "ex": [
+        {"es": "Se acabó la leche.", "en": "We're out of milk."}
+      ]
+    },
+    {
+      "es": "el queso", "pos": "n.m.", "en": "cheese",
+      "ex": [
+        {"es": "Ponle más queso, por favor.", "en": "Put more cheese on it, please."}
+      ]
+    },
+    {
+      "es": "la fruta", "pos": "n.f.", "en": "fruit",
+      "note": "Uncountable like the English, so la fruta covers the whole category.",
+      "ex": [
+        {"es": "Come fruta en vez de dulces.", "en": "Eat fruit instead of sweets."}
+      ]
+    },
+    {
+      "es": "la verdura", "pos": "n.f.", "en": "vegetable",
+      "note": "Usually plural: las verduras. la legumbre is a pulse, not a vegetable.",
+      "ex": [
+        {"es": "Las verduras están en la bolsa verde.", "en": "The vegetables are in the green bag."}
+      ]
+    },
+    {
+      "es": "el arroz", "pos": "n.m.", "en": "rice",
+      "ex": [
+        {"es": "Sirven arroz con casi todo.", "en": "They serve rice with almost everything."}
+      ]
+    },
+    {
+      "es": "los frijoles", "pos": "n.m.pl.", "en": "beans",
+      "note": "Mexico and Central America say frijoles; the Caribbean habichuelas; Spain and the Southern Cone judías or porotos.",
+      "ex": [
+        {"es": "Los frijoles negros son mis favoritos.", "en": "Black beans are my favourite."}
+      ]
+    },
+    {
+      "es": "la sal", "pos": "n.f.", "en": "salt",
+      "note": "Feminine despite ending in a consonant. salado means salty.",
+      "ex": [
+        {"es": "Le falta sal.", "en": "It needs salt."}
+      ]
+    },
+    {
+      "es": "el azúcar", "pos": "n.m.", "en": "sugar",
+      "note": "Takes either gender in practice — el azúcar and la azúcar are both heard — but el is safer.",
+      "ex": [
+        {"es": "Tomo el café sin azúcar.", "en": "I drink my coffee without sugar."}
+      ]
+    },
+    {
+      "es": "rico", "pos": "adj.", "en": "delicious; rich, wealthy",
+      "he": "טעים / עשיר",
+      "note": "About food it means tasty, and it is the everyday compliment to a cook — far commoner than delicioso.",
+      "ex": [
+        {"tag": "delicious", "es": "¡Qué rico está el pastel!", "en": "The cake is so good!"},
+        {"tag": "wealthy", "es": "Es de una familia rica.", "en": "He's from a wealthy family."}
+      ]
+    },
+    {
+      "es": "la cuenta", "pos": "n.f.", "en": "bill, check; account",
+      "he": "חשבון",
+      "note": "La cuenta, por favor is how you end a meal. Waving for the bill is normal.",
+      "ex": [
+        {"tag": "bill", "es": "¿Nos trae la cuenta?", "en": "Could you bring us the bill?"},
+        {"tag": "account", "es": "Abrí una cuenta en ese banco.", "en": "I opened an account at that bank."}
+      ]
+    },
+    {
+      "es": "la concha", "pos": "n.f.", "en": "shell; a sweet bread roll (Mexico)",
+      "warn": "In Argentina, Uruguay, Chile and Paraguay this is a coarse word for the female genitals, and one of the strongest insults in the language. Perfectly ordinary in Mexico, where it names a pastry. Say caracol or caparazón for a shell if you are anywhere near the Southern Cone.",
+      "ex": [
+        {"tag": "shell", "es": "Encontramos una concha en la playa.", "en": "We found a shell on the beach."},
+        {"tag": "pastry", "es": "Dos conchas y un café con leche.", "en": "Two conchas and a latte."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": "u01",
+  "title": "The engine verbs",
+  "intro": "Twenty verbs that carry most Spanish sentences. Nearly all are irregular, which is exactly why they are worth memorising as forms rather than as rules. Where a verb has several meanings, each one gets its own sentence, labelled.",
+  "entries": [
+    {
+      "es": "ser", "pos": "v. irr.", "en": "to be — identity, origin, essence, time",
+      "he": "להיות (מהות קבועה)",
+      "note": "What something fundamentally is. Pairs with nouns, professions, nationalities and the clock.",
+      "conj": {"label": "pres.", "forms": ["soy", "eres", "es", "somos", "son"]},
+      "ex": [
+        {"tag": "identity", "es": "Mi hermana es médica.", "en": "My sister is a doctor."},
+        {"tag": "origin", "es": "Soy de Israel.", "en": "I'm from Israel."},
+        {"tag": "clock", "es": "Ya son las diez.", "en": "It's ten o'clock already."}
+      ]
+    },
+    {
+      "es": "estar", "pos": "v. irr.", "en": "to be — location, condition, mood",
+      "he": "להיות (מצב או מיקום)",
+      "note": "Where something is and how it is right now. A condition that could change tomorrow takes estar.",
+      "conj": {"label": "pres.", "forms": ["estoy", "estás", "está", "estamos", "están"]},
+      "ex": [
+        {"tag": "location", "es": "¿Dónde estás?", "en": "Where are you?"},
+        {"tag": "condition", "es": "El café está frío.", "en": "The coffee is cold."}
+      ]
+    },
+    {
+      "es": "haber", "pos": "v. irr.", "en": "there is, there are; to have (helper verb)",
+      "he": "יש / קיים",
+      "note": "As hay it never changes for plural. As he/has/ha it builds the perfect tense.",
+      "conj": {"label": "pres.", "forms": ["he", "has", "ha · hay", "hemos", "han"]},
+      "ex": [
+        {"tag": "there is", "es": "Hay mucha gente en la calle.", "en": "There are a lot of people in the street."},
+        {"tag": "helper", "es": "No he comido todavía.", "en": "I haven't eaten yet."}
+      ]
+    },
+    {
+      "es": "tener", "pos": "v. irr.", "en": "to have, to own; to be (age, hunger, cold)",
+      "note": "Spanish uses tener where English uses be for bodily states.",
+      "conj": {"label": "pres.", "forms": ["tengo", "tienes", "tiene", "tenemos", "tienen"]},
+      "ex": [
+        {"tag": "own", "es": "Tengo dos hermanos.", "en": "I have two brothers."},
+        {"tag": "state", "es": "¿Cuántos años tienes?", "en": "How old are you?"},
+        {"tag": "state", "es": "Tenemos hambre.", "en": "We're hungry."}
+      ]
+    },
+    {
+      "es": "hacer", "pos": "v. irr.", "en": "to do; to make; (weather) to be",
+      "he": "לעשות / לייצר",
+      "conj": {"label": "pres.", "forms": ["hago", "haces", "hace", "hacemos", "hacen"]},
+      "ex": [
+        {"tag": "do", "es": "¿Qué haces el domingo?", "en": "What are you doing on Sunday?"},
+        {"tag": "make", "es": "Mi abuela hace un pan excelente.", "en": "My grandmother makes excellent bread."},
+        {"tag": "weather", "es": "Hace mucho calor hoy.", "en": "It's very hot today."}
+      ]
+    },
+    {
+      "es": "ir", "pos": "v. irr.", "en": "to go",
+      "note": "ir a + infinitive is the everyday future: voy a llamar = I'm going to call.",
+      "conj": {"label": "pres.", "forms": ["voy", "vas", "va", "vamos", "van"]},
+      "ex": [
+        {"es": "Vamos al mercado temprano.", "en": "We go to the market early."},
+        {"es": "Voy a llamarte esta noche.", "en": "I'm going to call you tonight."}
+      ]
+    },
+    {
+      "es": "venir", "pos": "v. irr.", "en": "to come",
+      "conj": {"label": "pres.", "forms": ["vengo", "vienes", "viene", "venimos", "vienen"]},
+      "ex": [
+        {"es": "¿Vienes con nosotros?", "en": "Are you coming with us?"},
+        {"es": "El tren viene lleno.", "en": "The train is coming in full."}
+      ]
+    },
+    {
+      "es": "poder", "pos": "v. irr.", "en": "to be able to, can; may, to be allowed",
+      "he": "יכול",
+      "conj": {"label": "pres.", "forms": ["puedo", "puedes", "puede", "podemos", "pueden"]},
+      "ex": [
+        {"tag": "ability", "es": "No puedo ir mañana.", "en": "I can't go tomorrow."},
+        {"tag": "permission", "es": "¿Puedo pasar?", "en": "May I come in?"}
+      ]
+    },
+    {
+      "es": "querer", "pos": "v. irr.", "en": "to want; to love (a person)",
+      "he": "לרצות / לאהוב",
+      "note": "Te quiero is what you say to family, friends and partners. Te amo is heavier and rarer.",
+      "conj": {"label": "pres.", "forms": ["quiero", "quieres", "quiere", "queremos", "quieren"]},
+      "ex": [
+        {"tag": "want", "es": "Quiero un café sin azúcar.", "en": "I want a coffee without sugar."},
+        {"tag": "love", "es": "Te quiero mucho.", "en": "I love you very much."}
+      ]
+    },
+    {
+      "es": "saber", "pos": "v. irr.", "en": "to know (a fact); to know how to; to taste (of)",
+      "he": "לדעת / לטעום כמו",
+      "note": "Facts and skills. Compare conocer, which is knowing by acquaintance.",
+      "conj": {"label": "pres.", "forms": ["sé", "sabes", "sabe", "sabemos", "saben"]},
+      "ex": [
+        {"tag": "fact", "es": "No sé su apellido.", "en": "I don't know his last name."},
+        {"tag": "skill", "es": "Ella sabe manejar.", "en": "She knows how to drive."},
+        {"tag": "taste", "es": "Esta sopa sabe a limón.", "en": "This soup tastes of lemon."}
+      ]
+    },
+    {
+      "es": "conocer", "pos": "v. irr.", "en": "to know (a person, a place); to meet for the first time",
+      "he": "להכיר",
+      "note": "You conoces a city; you sabes its population.",
+      "conj": {"label": "pres.", "forms": ["conozco", "conoces", "conoce", "conocemos", "conocen"]},
+      "ex": [
+        {"tag": "be familiar", "es": "¿Conoces a mi vecina?", "en": "Do you know my neighbour?"},
+        {"tag": "meet", "es": "Nos conocimos en Lima.", "en": "We met in Lima."}
+      ]
+    },
+    {
+      "es": "decir", "pos": "v. irr.", "en": "to say, to tell",
+      "conj": {"label": "pres.", "forms": ["digo", "dices", "dice", "decimos", "dicen"]},
+      "ex": [
+        {"es": "Dime la verdad.", "en": "Tell me the truth."},
+        {"es": "Dicen que va a llover.", "en": "They say it's going to rain."}
+      ]
+    },
+    {
+      "es": "ver", "pos": "v. irr.", "en": "to see; to watch",
+      "note": "Nos vemos — literally we see each other — is the standard see you later.",
+      "conj": {"label": "pres.", "forms": ["veo", "ves", "ve", "vemos", "ven"]},
+      "ex": [
+        {"tag": "see", "es": "Desde aquí se ve el mar.", "en": "You can see the sea from here."},
+        {"tag": "watch", "es": "Vemos una película los viernes.", "en": "We watch a film on Fridays."}
+      ]
+    },
+    {
+      "es": "dar", "pos": "v. irr.", "en": "to give; to face, to look onto",
+      "conj": {"label": "pres.", "forms": ["doy", "das", "da", "damos", "dan"]},
+      "ex": [
+        {"tag": "give", "es": "Dame un minuto.", "en": "Give me a minute."},
+        {"tag": "face", "es": "La ventana da al patio.", "en": "The window looks onto the courtyard."}
+      ]
+    },
+    {
+      "es": "poner", "pos": "v. irr.", "en": "to put, to place; to turn on; (ponerse) to put on, to become",
+      "conj": {"label": "pres.", "forms": ["pongo", "pones", "pone", "ponemos", "ponen"]},
+      "ex": [
+        {"tag": "place", "es": "Pon el plato en la mesa.", "en": "Put the plate on the table."},
+        {"tag": "turn on", "es": "Pon música, por favor.", "en": "Put some music on, please."},
+        {"tag": "ponerse", "es": "Se puso el abrigo y salió.", "en": "He put on his coat and left."},
+        {"tag": "ponerse", "es": "Se puso nervioso antes del examen.", "en": "He got nervous before the exam."}
+      ]
+    },
+    {
+      "es": "deber", "pos": "v.", "en": "must, ought to; to owe",
+      "he": "חייב / חב",
+      "note": "debe = must. debe de = probably. One preposition separates obligation from guesswork.",
+      "ex": [
+        {"tag": "must", "es": "Debes descansar.", "en": "You must rest."},
+        {"tag": "owe", "es": "Me debe cincuenta pesos.", "en": "He owes me fifty pesos."}
+      ]
+    },
+    {
+      "es": "llevar", "pos": "v.", "en": "to carry, to take along; to wear; to have spent (time)",
+      "he": "לשאת / ללבוש / להיות כבר (זמן)",
+      "ex": [
+        {"tag": "carry", "es": "Lleva los libros a la oficina.", "en": "Take the books to the office."},
+        {"tag": "wear", "es": "Lleva una camisa azul.", "en": "He's wearing a blue shirt."},
+        {"tag": "duration", "es": "Llevo tres años aquí.", "en": "I've been here three years."}
+      ]
+    },
+    {
+      "es": "llegar", "pos": "v.", "en": "to arrive; to reach; to manage to",
+      "ex": [
+        {"tag": "arrive", "es": "El vuelo llega a las seis.", "en": "The flight arrives at six."},
+        {"tag": "reach", "es": "El agua llegó hasta la puerta.", "en": "The water reached the door."},
+        {"tag": "manage to", "es": "Nunca llegué a conocerlo.", "en": "I never got to know him."}
+      ]
+    },
+    {
+      "es": "volver", "pos": "v. irr.", "en": "to return, to go back; volver a + inf., to do again",
+      "conj": {"label": "pres.", "forms": ["vuelvo", "vuelves", "vuelve", "volvemos", "vuelven"]},
+      "ex": [
+        {"tag": "return", "es": "Vuelvo en cinco minutos.", "en": "I'll be back in five minutes."},
+        {"tag": "again", "es": "No vuelvas a hacer eso.", "en": "Don't do that again."}
+      ]
+    },
+    {
+      "es": "quedar", "pos": "v.", "en": "to remain, to be left; to arrange to meet; (quedarse) to stay",
+      "he": "להישאר / לקבוע פגישה",
+      "ex": [
+        {"tag": "be left", "es": "Sólo queda un boleto.", "en": "There's only one ticket left."},
+        {"tag": "arrange", "es": "Quedamos en vernos el jueves.", "en": "We agreed to meet on Thursday."},
+        {"tag": "quedarse", "es": "Me quedé en casa todo el día.", "en": "I stayed home all day."}
+      ]
+    }
+  ]
+}

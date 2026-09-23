@@ -1,0 +1,159 @@
+{
+  "id": "u37",
+  "title": "Documents, rules and officialdom",
+  "intro": "The vocabulary of forms, offices and queues. Two false friends worth noting: la carpeta is a folder, not a carpet, and asistir means to attend, not to assist.",
+  "entries": [
+    {
+      "es": "el documento", "pos": "n.m.", "en": "document",
+      "note": "los documentos loosely means your papers or ID.",
+      "ex": [
+        {"es": "Traiga todos los documentos originales.", "en": "Bring all the original documents."}
+      ]
+    },
+    {
+      "es": "el pasaporte", "pos": "n.m.", "en": "passport",
+      "note": "la visa or el visado is the visa; la credencial or el carnet an ID card.",
+      "ex": [
+        {"es": "Mi pasaporte vence en marzo.", "en": "My passport expires in March."}
+      ]
+    },
+    {
+      "es": "la firma", "pos": "n.f.", "en": "signature; firm, company",
+      "he": "חתימה / חברה",
+      "note": "firmar is to sign. The company sense is formal and less common than la empresa.",
+      "ex": [
+        {"tag": "signature", "es": "Falta su firma aquí.", "en": "Your signature is missing here."},
+        {"tag": "firm", "es": "Trabaja en una firma de abogados.", "en": "She works at a law firm."}
+      ]
+    },
+    {
+      "es": "el formulario", "pos": "n.m.", "en": "form",
+      "note": "llenar un formulario is to fill in a form; rellenar in Spain.",
+      "ex": [
+        {"es": "Llene el formulario con letra clara.", "en": "Fill in the form in clear writing."}
+      ]
+    },
+    {
+      "es": "la carpeta", "pos": "n.f.", "en": "folder, file",
+      "warn": "Not a carpet. A carpet is la alfombra. Also the computer folder.",
+      "ex": [
+        {"es": "Los papeles están en la carpeta azul.", "en": "The papers are in the blue folder."}
+      ]
+    },
+    {
+      "es": "la ley", "pos": "n.f.", "en": "law",
+      "note": "Plural leyes. legal and ilegal as expected; la regla is a rule.",
+      "ex": [
+        {"es": "La ley cambió el año pasado.", "en": "The law changed last year."}
+      ]
+    },
+    {
+      "es": "la regla", "pos": "n.f.", "en": "rule; ruler",
+      "he": "כלל / סרגל",
+      "ex": [
+        {"tag": "rule", "es": "Hay que respetar las reglas.", "en": "The rules have to be respected."},
+        {"tag": "ruler", "es": "Necesito una regla para la línea.", "en": "I need a ruler for the line."}
+      ]
+    },
+    {
+      "es": "el permiso", "pos": "n.m.", "en": "permission; permit, licence",
+      "he": "רשות / אישור",
+      "note": "con permiso is the everyday excuse me — see unit 5.",
+      "ex": [
+        {"tag": "permission", "es": "Pidió permiso para salir temprano.", "en": "He asked permission to leave early."},
+        {"tag": "permit", "es": "Necesitas permiso de conducir.", "en": "You need a driving licence."}
+      ]
+    },
+    {
+      "es": "prohibido", "pos": "adj.", "en": "forbidden, prohibited",
+      "note": "The word on every sign: prohibido fumar, prohibido el paso.",
+      "ex": [
+        {"es": "Está prohibido estacionar aquí.", "en": "Parking is forbidden here."}
+      ]
+    },
+    {
+      "es": "permitir", "pos": "v.", "en": "to allow, to permit",
+      "note": "dejar is the everyday alternative — see unit 28.",
+      "ex": [
+        {"es": "No permiten mascotas en el edificio.", "en": "They don't allow pets in the building."}
+      ]
+    },
+    {
+      "es": "asistir", "pos": "v.", "en": "to attend, to be present",
+      "warn": "A false friend. To assist someone is ayudar or atender. asistir a una reunión is to attend a meeting.",
+      "ex": [
+        {"es": "Asistieron más de cien personas.", "en": "More than a hundred people attended."}
+      ]
+    },
+    {
+      "es": "la oficina de correos", "pos": "n.f.", "en": "post office",
+      "note": "el sello or la estampilla is a stamp; el sobre an envelope.",
+      "ex": [
+        {"es": "La oficina de correos cierra a la una.", "en": "The post office closes at one."}
+      ]
+    },
+    {
+      "es": "la dirección", "pos": "n.f.", "en": "address; direction; management",
+      "he": "כתובת / כיוון / הנהלה",
+      "ex": [
+        {"tag": "address", "es": "Escríbeme la dirección.", "en": "Write the address down for me."},
+        {"tag": "direction", "es": "Vamos en dirección contraria.", "en": "We're going in the wrong direction."},
+        {"tag": "management", "es": "La dirección tomó la decisión.", "en": "Management took the decision."}
+      ]
+    },
+    {
+      "es": "el trámite", "pos": "n.m.", "en": "formality, piece of paperwork",
+      "he": "הליך בירוקרטי",
+      "note": "hacer un trámite is to deal with a piece of bureaucracy. A word you will need constantly.",
+      "ex": [
+        {"es": "El trámite tarda tres semanas.", "en": "The paperwork takes three weeks."}
+      ]
+    },
+    {
+      "es": "la fila", "pos": "n.f.", "en": "queue, line; row",
+      "he": "תור / שורה",
+      "note": "hacer fila is to queue, alongside hacer cola — see unit 21.",
+      "ex": [
+        {"tag": "queue", "es": "Había una fila larguísima.", "en": "There was a very long queue."},
+        {"tag": "row", "es": "Nos sentamos en la primera fila.", "en": "We sat in the front row."}
+      ]
+    },
+    {
+      "es": "el gobierno", "pos": "n.m.", "en": "government",
+      "note": "gobernar is to govern; el presidente the president.",
+      "ex": [
+        {"es": "El gobierno anunció el cambio.", "en": "The government announced the change."}
+      ]
+    },
+    {
+      "es": "el impuesto", "pos": "n.m.", "en": "tax",
+      "note": "el IVA is VAT; pagar impuestos to pay tax.",
+      "ex": [
+        {"es": "El precio ya incluye impuestos.", "en": "The price already includes tax."}
+      ]
+    },
+    {
+      "es": "la multa", "pos": "n.f.", "en": "fine, penalty",
+      "note": "poner una multa is to issue a fine.",
+      "ex": [
+        {"es": "Me pusieron una multa por estacionar.", "en": "I got a parking fine."}
+      ]
+    },
+    {
+      "es": "el juez · el tribunal", "pos": "n.m.", "en": "judge; court",
+      "note": "Plural jueces. el abogado is the lawyer — see unit 17.",
+      "ex": [
+        {"tag": "judge", "es": "El juez dictó la sentencia.", "en": "The judge delivered the verdict."},
+        {"tag": "court", "es": "El caso llegó al tribunal.", "en": "The case reached the court."}
+      ]
+    },
+    {
+      "es": "el derecho · el deber", "pos": "n.m.", "en": "a right; a duty",
+      "note": "See unit 36 for derecho meaning straight ahead, and unit 1 for deber as a verb.",
+      "ex": [
+        {"tag": "right", "es": "Es tu derecho negarte.", "en": "It's your right to refuse."},
+        {"tag": "duty", "es": "Cumplió con su deber.", "en": "He did his duty."}
+      ]
+    }
+  ]
+}

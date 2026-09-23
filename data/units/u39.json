@@ -1,0 +1,282 @@
+{
+  "id": "u39",
+  "title": "Abstract nouns you will meet everywhere",
+  "intro": "These are the words that fill newspapers and conversations about anything serious. Several are masculine despite ending in -a, because they come from Greek: el tema, el sistema, el programa, el problema.",
+  "entries": [
+    {
+      "es": "el tema",
+      "pos": "n.m.",
+      "en": "subject, topic, theme",
+      "note": "Masculine. cambiar de tema is to change the subject.",
+      "ex": [
+        {
+          "es": "Volvamos al tema principal.",
+          "en": "Let's get back to the main point."
+        }
+      ]
+    },
+    {
+      "es": "el sistema",
+      "pos": "n.m.",
+      "en": "system",
+      "note": "Masculine, like all the Greek -ma nouns.",
+      "ex": [
+        {
+          "es": "El sistema no funciona bien.",
+          "en": "The system doesn't work properly."
+        }
+      ]
+    },
+    {
+      "es": "el caso",
+      "pos": "n.m.",
+      "en": "case, instance",
+      "note": "en todo caso means in any case; hacer caso a means to pay attention to.",
+      "ex": [
+        {
+          "es": "En ese caso, mejor esperamos.",
+          "en": "In that case, we'd better wait."
+        }
+      ]
+    },
+    {
+      "es": "el hecho",
+      "pos": "n.m.",
+      "en": "fact; deed",
+      "he": "עובדה / מעשה",
+      "note": "de hecho means in fact. Also the past participle of hacer, done or made.",
+      "ex": [
+        {
+          "tag": "fact",
+          "es": "El hecho es que no llamó.",
+          "en": "The fact is he didn't call."
+        },
+        {
+          "tag": "deed",
+          "es": "Lo juzgan por sus hechos.",
+          "en": "They judge him by his deeds."
+        }
+      ]
+    },
+    {
+      "es": "el estado",
+      "pos": "n.m.",
+      "en": "state, condition; the State",
+      "he": "מצב / מדינה",
+      "ex": [
+        {
+          "tag": "condition",
+          "es": "El carro está en buen estado.",
+          "en": "The car is in good condition."
+        },
+        {
+          "tag": "the State",
+          "es": "Es una escuela del estado.",
+          "en": "It's a state school."
+        }
+      ]
+    },
+    {
+      "es": "la situación",
+      "pos": "n.f.",
+      "en": "situation",
+      "ex": [
+        {
+          "es": "La situación cambió por completo.",
+          "en": "The situation changed completely."
+        }
+      ]
+    },
+    {
+      "es": "la vida",
+      "pos": "n.f.",
+      "en": "life",
+      "note": "en mi vida means never in my life; toda la vida always, forever.",
+      "ex": [
+        {
+          "es": "Nunca en mi vida había visto eso.",
+          "en": "I'd never seen that in my life."
+        }
+      ]
+    },
+    {
+      "es": "la muerte",
+      "pos": "n.f.",
+      "en": "death",
+      "note": "muerto is dead, and also the past participle of morir.",
+      "ex": [
+        {
+          "es": "Su muerte nos sorprendió a todos.",
+          "en": "His death surprised us all."
+        }
+      ]
+    },
+    {
+      "es": "la fuerza",
+      "pos": "n.f.",
+      "en": "strength, force",
+      "note": "a la fuerza means by force or of necessity.",
+      "ex": [
+        {
+          "es": "No tengo fuerza para levantarlo.",
+          "en": "I haven't the strength to lift it."
+        }
+      ]
+    },
+    {
+      "es": "el poder",
+      "pos": "n.m.",
+      "en": "power",
+      "note": "Same word as the verb poder, to be able — see unit 1.",
+      "ex": [
+        {
+          "es": "El poder corrompe.",
+          "en": "Power corrupts."
+        }
+      ]
+    },
+    {
+      "es": "la libertad",
+      "pos": "n.f.",
+      "en": "freedom, liberty",
+      "note": "libre is free in the sense of unconstrained; gratis is free of charge.",
+      "ex": [
+        {
+          "es": "Luchaban por su libertad.",
+          "en": "They were fighting for their freedom."
+        }
+      ]
+    },
+    {
+      "es": "la paz · la guerra",
+      "pos": "n.f.",
+      "en": "peace; war",
+      "note": "Plural paces. hacer las paces is to make up after a quarrel.",
+      "ex": [
+        {
+          "tag": "peace",
+          "es": "Firmaron la paz en 1996.",
+          "en": "They signed the peace in 1996."
+        },
+        {
+          "tag": "war",
+          "es": "La guerra duró diez años.",
+          "en": "The war lasted ten years."
+        }
+      ]
+    },
+    {
+      "es": "la sociedad",
+      "pos": "n.f.",
+      "en": "society; company (business)",
+      "ex": [
+        {
+          "tag": "society",
+          "es": "La sociedad ha cambiado mucho.",
+          "en": "Society has changed a lot."
+        },
+        {
+          "tag": "company",
+          "es": "Fundaron una sociedad en 1990.",
+          "en": "They founded a company in 1990."
+        }
+      ]
+    },
+    {
+      "es": "el pueblo",
+      "pos": "n.m.",
+      "en": "the people; village",
+      "note": "See unit 8. In political contexts the first sense dominates.",
+      "ex": [
+        {
+          "tag": "the people",
+          "es": "El pueblo decidió en las urnas.",
+          "en": "The people decided at the ballot box."
+        },
+        {
+          "tag": "village",
+          "es": "Nació en un pueblo del sur.",
+          "en": "He was born in a village in the south."
+        }
+      ]
+    },
+    {
+      "es": "el resultado",
+      "pos": "n.m.",
+      "en": "result, outcome",
+      "note": "como resultado de means as a result of.",
+      "ex": [
+        {
+          "es": "El resultado fue mejor de lo esperado.",
+          "en": "The result was better than expected."
+        }
+      ]
+    },
+    {
+      "es": "la causa",
+      "pos": "n.f.",
+      "en": "cause, reason",
+      "note": "a causa de means because of — a tidier alternative to porque before a noun.",
+      "ex": [
+        {
+          "es": "Se canceló a causa de la lluvia.",
+          "en": "It was cancelled because of the rain."
+        }
+      ]
+    },
+    {
+      "es": "el efecto",
+      "pos": "n.m.",
+      "en": "effect",
+      "note": "en efecto means indeed; el efecto secundario a side effect.",
+      "ex": [
+        {
+          "es": "La medicina tuvo efecto enseguida.",
+          "en": "The medicine took effect straight away."
+        }
+      ]
+    },
+    {
+      "es": "la oportunidad",
+      "pos": "n.f.",
+      "en": "opportunity, chance",
+      "note": "la ocasión is an occasion, and in shops a bargain.",
+      "ex": [
+        {
+          "es": "Es una oportunidad que no se repite.",
+          "en": "It's a chance that won't come again."
+        }
+      ]
+    },
+    {
+      "es": "la diferencia",
+      "pos": "n.f.",
+      "en": "difference",
+      "note": "a diferencia de means unlike; dar igual means to make no difference.",
+      "ex": [
+        {
+          "es": "No veo la diferencia.",
+          "en": "I can't see the difference."
+        }
+      ]
+    },
+    {
+      "es": "la relación",
+      "pos": "n.f.",
+      "en": "relationship; connection",
+      "note": "con relación a means with regard to.",
+      "ex": [
+        {
+          "tag": "relationship",
+          "es": "Tienen una buena relación.",
+          "en": "They have a good relationship."
+        },
+        {
+          "tag": "connection",
+          "es": "No hay relación entre los dos casos.",
+          "en": "There's no connection between the two cases."
+        }
+      ]
+    }
+  ]
+}

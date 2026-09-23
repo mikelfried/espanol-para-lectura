@@ -1,0 +1,150 @@
+{
+  "id": "u21",
+  "title": "Animals",
+  "intro": "Many animal names have one form for both sexes, with el or la doing the work: el elefante, la araña. Where a feminine form exists it is given after the slash.",
+  "entries": [
+    {
+      "es": "el animal", "pos": "n.m.", "en": "animal",
+      "note": "Plural animales. Also used of a person, rudely.",
+      "ex": [
+        {"es": "No se permiten animales en el hotel.", "en": "Animals aren't allowed in the hotel."}
+      ]
+    },
+    {
+      "es": "el perro / la perra", "pos": "n.", "en": "dog",
+      "note": "The feminine is also a strong insult, so most people say la perrita of a female dog.",
+      "ex": [
+        {"es": "El perro ladra a los extraños.", "en": "The dog barks at strangers."}
+      ]
+    },
+    {
+      "es": "el gato / la gata", "pos": "n.", "en": "cat",
+      "note": "See plate 2, where the cat does all the work.",
+      "ex": [
+        {"es": "El gato duerme en la ventana.", "en": "The cat sleeps in the window."}
+      ]
+    },
+    {
+      "es": "el caballo", "pos": "n.m.", "en": "horse",
+      "note": "la yegua is a mare. montar a caballo is to ride.",
+      "ex": [
+        {"es": "Aprendió a montar a caballo de niño.", "en": "He learned to ride as a boy."}
+      ]
+    },
+    {
+      "es": "la vaca", "pos": "n.f.", "en": "cow",
+      "note": "el toro is a bull; el ternero a calf; la carne de vaca or de res is beef.",
+      "ex": [
+        {"es": "Las vacas están en el campo.", "en": "The cows are in the field."}
+      ]
+    },
+    {
+      "es": "el cerdo", "pos": "n.m.", "en": "pig; pork",
+      "he": "חזיר",
+      "note": "el puerco and el chancho are regional alternatives.",
+      "ex": [
+        {"tag": "animal", "es": "Crían cerdos y gallinas.", "en": "They raise pigs and hens."},
+        {"tag": "meat", "es": "Pedí carne de cerdo.", "en": "I ordered pork."}
+      ]
+    },
+    {
+      "es": "la oveja", "pos": "n.f.", "en": "sheep",
+      "note": "Same word for one and many: una oveja, dos ovejas. el cordero is lamb.",
+      "ex": [
+        {"es": "El perro cuida las ovejas.", "en": "The dog looks after the sheep."}
+      ]
+    },
+    {
+      "es": "la gallina", "pos": "n.f.", "en": "hen",
+      "note": "el gallo is the rooster; el pollo the chicken you eat; el pollito a chick.",
+      "ex": [
+        {"es": "Las gallinas ponen huevos cada día.", "en": "The hens lay eggs every day."}
+      ]
+    },
+    {
+      "es": "el pájaro", "pos": "n.m.", "en": "bird",
+      "note": "el ave is the formal or scientific word, feminine but taking el in the singular.",
+      "ex": [
+        {"es": "Los pájaros cantan al amanecer.", "en": "The birds sing at dawn."}
+      ]
+    },
+    {
+      "es": "el pez", "pos": "n.m.", "en": "fish (alive)",
+      "note": "Plural peces. Once caught it becomes el pescado — see unit 7.",
+      "ex": [
+        {"es": "Hay peces de colores en el estanque.", "en": "There are goldfish in the pond."}
+      ]
+    },
+    {
+      "es": "el ratón", "pos": "n.m.", "en": "mouse (animal and computer)",
+      "note": "Plural ratones. la rata is a rat.",
+      "ex": [
+        {"tag": "animal", "es": "Hay un ratón en la cocina.", "en": "There's a mouse in the kitchen."},
+        {"tag": "computer", "es": "Se me rompió el ratón.", "en": "My mouse broke."}
+      ]
+    },
+    {
+      "es": "el conejo", "pos": "n.m.", "en": "rabbit",
+      "ex": [
+        {"es": "El conejo se escapó del jardín.", "en": "The rabbit escaped from the garden."}
+      ]
+    },
+    {
+      "es": "el oso", "pos": "n.m.", "en": "bear",
+      "note": "Not to be confused with el hueso, bone.",
+      "ex": [
+        {"es": "Vimos un oso desde el carro.", "en": "We saw a bear from the car."}
+      ]
+    },
+    {
+      "es": "el lobo", "pos": "n.m.", "en": "wolf",
+      "ex": [
+        {"es": "Los lobos cazan en grupo.", "en": "Wolves hunt in packs."}
+      ]
+    },
+    {
+      "es": "la mosca", "pos": "n.f.", "en": "fly",
+      "note": "el mosquito is the mosquito; la araña the spider; la hormiga the ant.",
+      "ex": [
+        {"es": "Hay moscas por toda la cocina.", "en": "There are flies all over the kitchen."}
+      ]
+    },
+    {
+      "es": "la abeja", "pos": "n.f.", "en": "bee",
+      "note": "la miel is honey; picar is to sting.",
+      "ex": [
+        {"es": "Una abeja me picó en el brazo.", "en": "A bee stung me on the arm."}
+      ]
+    },
+    {
+      "es": "la serpiente", "pos": "n.f.", "en": "snake",
+      "note": "la culebra is the everyday word in much of Latin America.",
+      "ex": [
+        {"es": "Cuidado, hay serpientes en el monte.", "en": "Careful, there are snakes in the hills."}
+      ]
+    },
+    {
+      "es": "la cola", "pos": "n.f.", "en": "tail; queue, line",
+      "he": "זנב / תור",
+      "note": "hacer cola is to queue. In Mexico it also means glue, and in the Southern Cone it is slang for backside.",
+      "ex": [
+        {"tag": "tail", "es": "El perro movía la cola.", "en": "The dog was wagging its tail."},
+        {"tag": "queue", "es": "Había una cola enorme en el banco.", "en": "There was a huge queue at the bank."}
+      ]
+    },
+    {
+      "es": "el ala", "pos": "n.f.", "en": "wing",
+      "note": "Feminine but takes el in the singular, like el agua: el ala derecha, las alas.",
+      "ex": [
+        {"es": "El pájaro tenía un ala rota.", "en": "The bird had a broken wing."}
+      ]
+    },
+    {
+      "es": "morder", "pos": "v. irr.", "en": "to bite",
+      "conj": {"label": "pres.", "forms": ["muerdo", "muerdes", "muerde", "mordemos", "muerden"]},
+      "ex": [
+        {"es": "El perro no muerde, tranquilo.", "en": "The dog doesn't bite, don't worry."}
+      ]
+    }
+  ]
+}

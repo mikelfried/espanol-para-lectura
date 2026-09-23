@@ -1,0 +1,310 @@
+{
+  "id": "u18",
+  "title": "Money and shopping",
+  "intro": "Prices use costar and valer, both irregular. The currency changes by country — el peso in Mexico, Argentina, Colombia and Chile, el sol in Peru, el euro in Spain — but the words for buying and paying do not.",
+  "entries": [
+    {
+      "es": "el dinero",
+      "pos": "n.m.",
+      "en": "money",
+      "he": "כסף",
+      "note": "Uncountable: no dineros. la plata is everyday slang for money across much of Latin America.",
+      "ex": [
+        {
+          "es": "No traigo dinero en efectivo.",
+          "en": "I haven't got any cash on me."
+        }
+      ]
+    },
+    {
+      "es": "el precio",
+      "pos": "n.m.",
+      "en": "price",
+      "ex": [
+        {
+          "es": "Los precios subieron otra vez.",
+          "en": "Prices went up again."
+        }
+      ]
+    },
+    {
+      "es": "costar",
+      "pos": "v. irr.",
+      "en": "to cost; to be hard, to take effort",
+      "he": "לעלות (מחיר) / להיות קשה",
+      "conj": {
+        "label": "pres.",
+        "forms": [
+          "cuesto",
+          "cuestas",
+          "cuesta",
+          "costamos",
+          "cuestan"
+        ]
+      },
+      "ex": [
+        {
+          "tag": "cost",
+          "es": "¿Cuánto cuesta el boleto?",
+          "en": "How much does the ticket cost?"
+        },
+        {
+          "tag": "be hard",
+          "es": "Me cuesta levantarme temprano.",
+          "en": "I find it hard to get up early."
+        }
+      ]
+    },
+    {
+      "es": "comprar",
+      "pos": "v.",
+      "en": "to buy",
+      "note": "ir de compras is to go shopping; las compras the shopping.",
+      "ex": [
+        {
+          "es": "Compré pan y leche.",
+          "en": "I bought bread and milk."
+        }
+      ]
+    },
+    {
+      "es": "vender",
+      "pos": "v.",
+      "en": "to sell",
+      "note": "se vende on a sign means for sale.",
+      "ex": [
+        {
+          "es": "Venden fruta en la esquina.",
+          "en": "They sell fruit on the corner."
+        }
+      ]
+    },
+    {
+      "es": "pagar",
+      "pos": "v.",
+      "en": "to pay, to pay for",
+      "note": "Takes no preposition for the thing: pagar la cuenta. Use por only for an amount: pagué mil por el boleto.",
+      "ex": [
+        {
+          "es": "¿Puedo pagar con tarjeta?",
+          "en": "Can I pay by card?"
+        }
+      ]
+    },
+    {
+      "es": "gastar",
+      "pos": "v.",
+      "en": "to spend (money); to wear out",
+      "he": "להוציא כסף / לשחוק",
+      "note": "For spending time use pasar, not gastar.",
+      "ex": [
+        {
+          "tag": "spend",
+          "es": "Gastamos demasiado en el viaje.",
+          "en": "We spent too much on the trip."
+        },
+        {
+          "tag": "wear out",
+          "es": "Gastó los zapatos en un mes.",
+          "en": "He wore the shoes out in a month."
+        }
+      ]
+    },
+    {
+      "es": "barato · caro",
+      "pos": "adj.",
+      "en": "cheap; expensive",
+      "ex": [
+        {
+          "tag": "cheap",
+          "es": "Es más barato en el mercado.",
+          "en": "It's cheaper at the market."
+        },
+        {
+          "tag": "expensive",
+          "es": "Ese hotel es carísimo.",
+          "en": "That hotel is extremely expensive."
+        }
+      ]
+    },
+    {
+      "es": "la tarjeta",
+      "pos": "n.f.",
+      "en": "card (bank, greetings)",
+      "note": "tarjeta de crédito, tarjeta de débito. A playing card is una carta.",
+      "ex": [
+        {
+          "es": "Se me perdió la tarjeta.",
+          "en": "I lost my card."
+        }
+      ]
+    },
+    {
+      "es": "el efectivo",
+      "pos": "n.m.",
+      "en": "cash",
+      "note": "en efectivo is in cash. el cambio is change, both the coins and the act.",
+      "ex": [
+        {
+          "es": "Sólo aceptan efectivo.",
+          "en": "They only take cash."
+        }
+      ]
+    },
+    {
+      "es": "el cambio",
+      "pos": "n.m.",
+      "en": "change (money); change (alteration); exchange rate",
+      "he": "עודף / שינוי / שער חליפין",
+      "ex": [
+        {
+          "tag": "money",
+          "es": "Quédese con el cambio.",
+          "en": "Keep the change."
+        },
+        {
+          "tag": "alteration",
+          "es": "Hubo un cambio de planes.",
+          "en": "There was a change of plan."
+        },
+        {
+          "tag": "rate",
+          "es": "El cambio está muy malo hoy.",
+          "en": "The exchange rate is very bad today."
+        }
+      ]
+    },
+    {
+      "es": "la cuenta",
+      "pos": "n.f.",
+      "en": "bill; bank account",
+      "note": "Also darse cuenta, to realise — a completely separate use of the same word.",
+      "ex": [
+        {
+          "tag": "bill",
+          "es": "Pedimos la cuenta.",
+          "en": "We asked for the bill."
+        },
+        {
+          "tag": "account",
+          "es": "Transfirió el dinero a otra cuenta.",
+          "en": "He transferred the money to another account."
+        }
+      ]
+    },
+    {
+      "es": "el descuento",
+      "pos": "n.m.",
+      "en": "discount",
+      "note": "Sales are las rebajas in Spain, las ofertas or la barata in Latin America.",
+      "ex": [
+        {
+          "es": "Nos dieron un descuento del diez por ciento.",
+          "en": "They gave us a ten per cent discount."
+        }
+      ]
+    },
+    {
+      "es": "la bolsa",
+      "pos": "n.f.",
+      "en": "bag; stock exchange",
+      "he": "שקית / בורסה",
+      "ex": [
+        {
+          "tag": "bag",
+          "es": "¿Quiere una bolsa?",
+          "en": "Would you like a bag?"
+        },
+        {
+          "tag": "exchange",
+          "es": "La bolsa cayó ayer.",
+          "en": "The stock market fell yesterday."
+        }
+      ]
+    },
+    {
+      "es": "el recibo",
+      "pos": "n.m.",
+      "en": "receipt",
+      "note": "la factura is an invoice, and the word you need to claim expenses.",
+      "ex": [
+        {
+          "es": "Guarda el recibo por si acaso.",
+          "en": "Keep the receipt just in case."
+        }
+      ]
+    },
+    {
+      "es": "el banco",
+      "pos": "n.m.",
+      "en": "bank",
+      "note": "See also unit 8, where the same word means bench.",
+      "ex": [
+        {
+          "es": "Tengo que ir al banco antes de que cierre.",
+          "en": "I have to go to the bank before it closes."
+        }
+      ]
+    },
+    {
+      "es": "prestar",
+      "pos": "v.",
+      "en": "to lend",
+      "he": "להשאיל",
+      "note": "pedir prestado is to borrow. Spanish has no single verb for borrowing.",
+      "ex": [
+        {
+          "es": "¿Me prestas tu carro?",
+          "en": "Will you lend me your car?"
+        }
+      ]
+    },
+    {
+      "es": "deber",
+      "pos": "v.",
+      "en": "to owe",
+      "note": "Same verb as must — see unit 1.",
+      "ex": [
+        {
+          "es": "Todavía le debo el dinero.",
+          "en": "I still owe him the money."
+        }
+      ]
+    },
+    {
+      "es": "rico · pobre",
+      "pos": "adj.",
+      "en": "rich; poor",
+      "note": "rico also means delicious of food — see unit 7.",
+      "ex": [
+        {
+          "tag": "rich",
+          "es": "Es de una familia rica.",
+          "en": "He's from a wealthy family."
+        },
+        {
+          "tag": "poor",
+          "es": "Creció en un barrio pobre.",
+          "en": "He grew up in a poor neighbourhood."
+        }
+      ]
+    },
+    {
+      "es": "el mercado",
+      "pos": "n.m.",
+      "en": "market (place); market (economy)",
+      "ex": [
+        {
+          "tag": "place",
+          "es": "El mercado abre los domingos.",
+          "en": "The market is open on Sundays."
+        },
+        {
+          "tag": "economy",
+          "es": "El mercado está en crisis.",
+          "en": "The market is in crisis."
+        }
+      ]
+    }
+  ]
+}

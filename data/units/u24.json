@@ -1,0 +1,165 @@
+{
+  "id": "u24",
+  "title": "The mind: thinking and remembering",
+  "intro": "Two pairs here trip English speakers constantly. saber and conocer both mean know (see unit 1), and recordar and acordarse both mean remember — but acordarse needs de, and recordar refuses it.",
+  "entries": [
+    {
+      "es": "la idea", "pos": "n.f.", "en": "idea",
+      "note": "No tengo idea is the everyday I have no idea.",
+      "ex": [
+        {"es": "Se me ocurrió una idea.", "en": "An idea came to me."}
+      ]
+    },
+    {
+      "es": "la razón", "pos": "n.f.", "en": "reason; rightness",
+      "he": "סיבה / צדק",
+      "note": "tener razón is to be right. Not to have reason.",
+      "ex": [
+        {"tag": "reason", "es": "No me dio ninguna razón.", "en": "He gave me no reason."},
+        {"tag": "rightness", "es": "Tienes razón, me equivoqué.", "en": "You're right, I was wrong."}
+      ]
+    },
+    {
+      "es": "recordar", "pos": "v. irr.", "en": "to remember; to remind",
+      "he": "לזכור / להזכיר",
+      "warn": "Not to record — that is grabar. And it takes a direct object with no preposition: recuerdo su nombre, never recuerdo de su nombre.",
+      "conj": {"label": "pres.", "forms": ["recuerdo", "recuerdas", "recuerda", "recordamos", "recuerdan"]},
+      "ex": [
+        {"tag": "remember", "es": "No recuerdo dónde lo dejé.", "en": "I don't remember where I left it."},
+        {"tag": "remind", "es": "Recuérdame llamar al médico.", "en": "Remind me to call the doctor."}
+      ]
+    },
+    {
+      "es": "acordarse", "pos": "v. irr.", "en": "to remember",
+      "note": "Always with de: me acuerdo de ti. Same meaning as recordar, opposite grammar.",
+      "conj": {"label": "pres.", "forms": ["me acuerdo", "te acuerdas", "se acuerda", "nos acordamos", "se acuerdan"]},
+      "ex": [
+        {"es": "¿Te acuerdas de aquella noche?", "en": "Do you remember that night?"}
+      ]
+    },
+    {
+      "es": "olvidar", "pos": "v.", "en": "to forget",
+      "note": "Three grammars, all correct: olvidé las llaves, me olvidé de las llaves, se me olvidaron las llaves. The last shifts the blame off you.",
+      "ex": [
+        {"es": "Se me olvidó tu cumpleaños.", "en": "I forgot your birthday."}
+      ]
+    },
+    {
+      "es": "entender", "pos": "v. irr.", "en": "to understand",
+      "note": "comprender is the slightly more formal twin.",
+      "conj": {"label": "pres.", "forms": ["entiendo", "entiendes", "entiende", "entendemos", "entienden"]},
+      "ex": [
+        {"es": "No entiendo nada de lo que dice.", "en": "I don't understand a thing he says."}
+      ]
+    },
+    {
+      "es": "aprender", "pos": "v.", "en": "to learn",
+      "note": "aprender a + infinitive: aprender a manejar.",
+      "ex": [
+        {"es": "Estoy aprendiendo español.", "en": "I'm learning Spanish."}
+      ]
+    },
+    {
+      "es": "enseñar", "pos": "v.", "en": "to teach; to show",
+      "he": "ללמד / להראות",
+      "ex": [
+        {"tag": "teach", "es": "Enseña matemáticas en la secundaria.", "en": "She teaches maths at secondary school."},
+        {"tag": "show", "es": "Enséñame las fotos.", "en": "Show me the photos."}
+      ]
+    },
+    {
+      "es": "darse cuenta", "pos": "v.", "en": "to realise, to notice",
+      "he": "לשים לב / להבין",
+      "note": "Takes de before a clause: me di cuenta de que no estaba. Nothing to do with realizar, which means to carry out.",
+      "ex": [
+        {"es": "No me di cuenta de la hora.", "en": "I didn't realise the time."}
+      ]
+    },
+    {
+      "es": "parecer", "pos": "v. irr.", "en": "to seem; to think (an opinion)",
+      "he": "להיראות / לחשוב",
+      "note": "¿Qué te parece? asks what do you think. me parece que is I think that.",
+      "conj": {"label": "pres.", "forms": ["parezco", "pareces", "parece", "parecemos", "parecen"]},
+      "ex": [
+        {"tag": "seem", "es": "Parece más joven de lo que es.", "en": "She seems younger than she is."},
+        {"tag": "opinion", "es": "Me parece una buena idea.", "en": "It seems like a good idea to me."}
+      ]
+    },
+    {
+      "es": "decidir", "pos": "v.", "en": "to decide",
+      "note": "la decisión is the decision; tomar una decisión to make one.",
+      "ex": [
+        {"es": "Decidimos quedarnos un día más.", "en": "We decided to stay one more day."}
+      ]
+    },
+    {
+      "es": "dudar", "pos": "v.", "en": "to doubt; to hesitate",
+      "he": "לפקפק / להתלבט",
+      "ex": [
+        {"tag": "doubt", "es": "Dudo que venga.", "en": "I doubt he'll come."},
+        {"tag": "hesitate", "es": "Dudó antes de contestar.", "en": "He hesitated before answering."}
+      ]
+    },
+    {
+      "es": "la duda", "pos": "n.f.", "en": "doubt; question, query",
+      "note": "In class ¿alguna duda? means any questions.",
+      "ex": [
+        {"tag": "doubt", "es": "No hay duda de que funciona.", "en": "There's no doubt it works."},
+        {"tag": "query", "es": "Tengo una duda sobre el ejercicio.", "en": "I have a question about the exercise."}
+      ]
+    },
+    {
+      "es": "el problema", "pos": "n.m.", "en": "problem",
+      "note": "Masculine despite the -a, like el tema, el sistema, el programa — all from Greek.",
+      "ex": [
+        {"es": "Ningún problema, yo lo hago.", "en": "No problem, I'll do it."}
+      ]
+    },
+    {
+      "es": "la manera · el modo", "pos": "n.", "en": "way, manner",
+      "note": "de todos modos and de todas maneras both mean anyway.",
+      "ex": [
+        {"es": "No me gusta su manera de hablar.", "en": "I don't like the way he talks."}
+      ]
+    },
+    {
+      "es": "la verdad", "pos": "n.f.", "en": "truth",
+      "note": "¿verdad? at the end of a sentence is the universal tag question: isn't it, don't you, right?",
+      "ex": [
+        {"es": "Hace calor, ¿verdad?", "en": "It's hot, isn't it?"}
+      ]
+    },
+    {
+      "es": "el error", "pos": "n.m.", "en": "mistake, error",
+      "note": "equivocarse is to make a mistake; la falta is a fault or a lack.",
+      "ex": [
+        {"es": "Fue un error mío.", "en": "It was my mistake."}
+      ]
+    },
+    {
+      "es": "el ejemplo", "pos": "n.m.", "en": "example",
+      "note": "por ejemplo is for example, abbreviated p. ej.",
+      "ex": [
+        {"es": "Dame un ejemplo concreto.", "en": "Give me a specific example."}
+      ]
+    },
+    {
+      "es": "importar", "pos": "v.", "en": "to matter, to be important; to import",
+      "he": "להיות חשוב / לייבא",
+      "note": "Built like gustar: no me importa means it doesn't matter to me.",
+      "ex": [
+        {"tag": "matter", "es": "No importa, lo hacemos mañana.", "en": "It doesn't matter, we'll do it tomorrow."},
+        {"tag": "import", "es": "Importan el café de Colombia.", "en": "They import the coffee from Colombia."}
+      ]
+    },
+    {
+      "es": "el sentido", "pos": "n.m.", "en": "meaning, sense; direction",
+      "he": "משמעות / כיוון",
+      "note": "no tiene sentido is it makes no sense. calle de un sentido is a one-way street.",
+      "ex": [
+        {"tag": "meaning", "es": "Eso no tiene sentido.", "en": "That doesn't make sense."},
+        {"tag": "direction", "es": "Vas en sentido contrario.", "en": "You're going the wrong way."}
+      ]
+    }
+  ]
+}

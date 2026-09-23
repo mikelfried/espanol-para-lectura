@@ -1,0 +1,158 @@
+{
+  "id": "u09",
+  "title": "The body, and saying what hurts",
+  "intro": "Read plate 3 alongside this unit. Spanish uses the article where English uses a possessive — me lavo las manos, not mis manos — because the reflexive already tells you whose they are.",
+  "entries": [
+    {
+      "es": "el cuerpo", "pos": "n.m.", "en": "body",
+      "ex": [
+        {"es": "Después de la carrera me dolía todo el cuerpo.", "en": "After the race my whole body ached."}
+      ]
+    },
+    {
+      "es": "la cabeza", "pos": "n.f.", "en": "head",
+      "note": "de cabeza means upside down or headfirst.",
+      "ex": [
+        {"es": "Cuidado, no te golpees la cabeza.", "en": "Careful, don't bang your head."}
+      ]
+    },
+    {
+      "es": "la cara", "pos": "n.f.", "en": "face; cheek, nerve",
+      "he": "פנים / חוצפה",
+      "note": "¡Qué cara! means what a nerve — the same jump English makes with cheek.",
+      "ex": [
+        {"tag": "face", "es": "Se lavó la cara con agua fría.", "en": "He washed his face with cold water."},
+        {"tag": "nerve", "es": "Tiene mucha cara para pedir eso.", "en": "He's got some nerve asking for that."}
+      ]
+    },
+    {
+      "es": "el ojo", "pos": "n.m.", "en": "eye",
+      "note": "¡Ojo! on its own is a warning: watch out.",
+      "ex": [
+        {"es": "Cierra los ojos un momento.", "en": "Close your eyes for a moment."}
+      ]
+    },
+    {
+      "es": "la boca", "pos": "n.f.", "en": "mouth",
+      "ex": [
+        {"es": "Habló con la boca llena.", "en": "He spoke with his mouth full."}
+      ]
+    },
+    {
+      "es": "la mano", "pos": "n.f.", "en": "hand",
+      "he": "יד",
+      "note": "Ends in -o and is feminine anyway: la mano derecha, las manos limpias. One of the few genuine exceptions.",
+      "ex": [
+        {"es": "Dame la mano para cruzar.", "en": "Give me your hand to cross."}
+      ]
+    },
+    {
+      "es": "el brazo", "pos": "n.m.", "en": "arm",
+      "ex": [
+        {"es": "Se rompió el brazo jugando fútbol.", "en": "He broke his arm playing football."}
+      ]
+    },
+    {
+      "es": "la pierna", "pos": "n.f.", "en": "leg",
+      "ex": [
+        {"es": "Tengo las piernas cansadas de tanto caminar.", "en": "My legs are tired from so much walking."}
+      ]
+    },
+    {
+      "es": "el pie", "pos": "n.m.", "en": "foot; bottom, base",
+      "he": "רגל (כף) / תחתית",
+      "note": "a pie means on foot. Plural is pies, not pieses.",
+      "ex": [
+        {"tag": "foot", "es": "Vamos a pie, está cerca.", "en": "Let's walk, it's close."},
+        {"tag": "base", "es": "Nos vemos al pie de la escalera.", "en": "Meet me at the bottom of the stairs."}
+      ]
+    },
+    {
+      "es": "el pelo", "pos": "n.m.", "en": "hair",
+      "note": "Singular for the whole head of hair. el cabello is the more formal word.",
+      "ex": [
+        {"es": "Se cortó el pelo muy corto.", "en": "She cut her hair very short."}
+      ]
+    },
+    {
+      "es": "la espalda", "pos": "n.f.", "en": "back (of the body)",
+      "he": "גב",
+      "note": "The back of an object is la parte de atrás. de espaldas means with one's back turned.",
+      "ex": [
+        {"es": "Me duele la espalda de estar sentado.", "en": "My back hurts from sitting."}
+      ]
+    },
+    {
+      "es": "el corazón", "pos": "n.m.", "en": "heart",
+      "note": "Also the affectionate address, like English love or sweetheart.",
+      "ex": [
+        {"es": "El corazón le latía muy rápido.", "en": "His heart was beating very fast."}
+      ]
+    },
+    {
+      "es": "doler", "pos": "v. irr.", "en": "to hurt, to ache",
+      "he": "לכאוב",
+      "note": "Built backwards from English: the body part is the subject. Me duele la cabeza is literally the head hurts to me. Plural parts take duelen.",
+      "conj": {"label": "pres.", "forms": ["me duele", "te duele", "le duele", "nos duele", "les duele"]},
+      "ex": [
+        {"es": "Me duele la garganta.", "en": "My throat hurts."},
+        {"es": "¿Te duelen los pies?", "en": "Do your feet hurt?"}
+      ]
+    },
+    {
+      "es": "el dolor", "pos": "n.m.", "en": "pain, ache; grief",
+      "he": "כאב",
+      "note": "Name the part with de: dolor de cabeza, dolor de estómago, dolor de muelas.",
+      "ex": [
+        {"tag": "pain", "es": "Tengo un dolor de cabeza terrible.", "en": "I have a terrible headache."},
+        {"tag": "grief", "es": "Habló de su dolor con calma.", "en": "She spoke about her grief calmly."}
+      ]
+    },
+    {
+      "es": "enfermo", "pos": "adj.", "en": "ill, sick",
+      "note": "Takes estar, because it is a state: está enfermo. With ser it would mean a permanent condition.",
+      "ex": [
+        {"es": "Mi hija está enferma y no fue a la escuela.", "en": "My daughter is ill and didn't go to school."}
+      ]
+    },
+    {
+      "es": "la fiebre", "pos": "n.f.", "en": "fever, temperature",
+      "note": "You have fever rather than a fever: tener fiebre.",
+      "ex": [
+        {"es": "Tiene fiebre desde anoche.", "en": "He's had a fever since last night."}
+      ]
+    },
+    {
+      "es": "la salud", "pos": "n.f.", "en": "health",
+      "note": "The same word you raise a glass with — see salud in unit 5.",
+      "ex": [
+        {"es": "Su salud ha mejorado mucho.", "en": "His health has improved a lot."}
+      ]
+    },
+    {
+      "es": "el médico / la médica", "pos": "n.", "en": "doctor, physician",
+      "note": "el doctor is also used, especially as a title of address.",
+      "ex": [
+        {"es": "Deberías ver a un médico.", "en": "You should see a doctor."}
+      ]
+    },
+    {
+      "es": "la medicina", "pos": "n.f.", "en": "medicine (the substance); medicine (the field)",
+      "he": "תרופה / רפואה",
+      "note": "For a specific drug, el medicamento or la pastilla is more precise.",
+      "ex": [
+        {"tag": "substance", "es": "Tómate la medicina después de comer.", "en": "Take your medicine after eating."},
+        {"tag": "field", "es": "Estudia medicina en la capital.", "en": "She studies medicine in the capital."}
+      ]
+    },
+    {
+      "es": "cansado", "pos": "adj.", "en": "tired; tiring",
+      "he": "עייף / מעייף",
+      "note": "estar cansado is to feel tired; ser cansado describes something that tires you out.",
+      "ex": [
+        {"tag": "tired", "es": "Estoy muy cansado, me voy a dormir.", "en": "I'm very tired, I'm going to sleep."},
+        {"tag": "tiring", "es": "El viaje es largo y cansado.", "en": "The journey is long and tiring."}
+      ]
+    }
+  ]
+}

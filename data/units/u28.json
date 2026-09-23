@@ -1,0 +1,165 @@
+{
+  "id": "u28",
+  "title": "Giving, taking and holding",
+  "intro": "A cluster of high-frequency verbs that English keeps apart but Spanish distributes differently. Note especially poner versus meter, and dejar, which covers leaving, letting and stopping.",
+  "entries": [
+    {
+      "es": "dejar", "pos": "v.", "en": "to leave (behind); to let, to allow; to stop doing",
+      "he": "להשאיר / לתת / להפסיק",
+      "note": "dejar de + infinitive is to stop doing something: dejé de fumar.",
+      "ex": [
+        {"tag": "leave behind", "es": "Dejé las llaves en la mesa.", "en": "I left the keys on the table."},
+        {"tag": "allow", "es": "No me dejan entrar.", "en": "They won't let me in."},
+        {"tag": "stop doing", "es": "Dejó de llover a las cinco.", "en": "It stopped raining at five."}
+      ]
+    },
+    {
+      "es": "meter", "pos": "v.", "en": "to put in, to insert",
+      "note": "poner is to place on a surface; meter is to put inside something.",
+      "ex": [
+        {"es": "Metió la ropa en la maleta.", "en": "He put the clothes in the suitcase."}
+      ]
+    },
+    {
+      "es": "sacar", "pos": "v.", "en": "to take out; to get, to obtain",
+      "he": "להוציא / להשיג",
+      "note": "sacar una foto is to take a photo; sacar buena nota to get a good mark.",
+      "ex": [
+        {"tag": "take out", "es": "Saca la basura, por favor.", "en": "Take the rubbish out, please."},
+        {"tag": "obtain", "es": "Sacó el pasaporte en una semana.", "en": "He got his passport in a week."}
+      ]
+    },
+    {
+      "es": "tomar", "pos": "v.", "en": "to take; to drink",
+      "note": "See unit 2. In Latin America it is the default for both.",
+      "ex": [
+        {"tag": "take", "es": "Toma asiento, por favor.", "en": "Take a seat, please."},
+        {"tag": "drink", "es": "Tomamos algo después del trabajo.", "en": "We had a drink after work."}
+      ]
+    },
+    {
+      "es": "agarrar", "pos": "v.", "en": "to grab, to take hold of; to catch",
+      "he": "לתפוס",
+      "note": "The safe Latin American alternative to coger — see the warning in unit 2.",
+      "ex": [
+        {"tag": "grab", "es": "Agarra bien la bolsa.", "en": "Hold the bag tightly."},
+        {"tag": "catch", "es": "Agarré el último autobús.", "en": "I caught the last bus."}
+      ]
+    },
+    {
+      "es": "soltar", "pos": "v. irr.", "en": "to let go of, to release",
+      "conj": {"label": "pres.", "forms": ["suelto", "sueltas", "suelta", "soltamos", "sueltan"]},
+      "ex": [
+        {"es": "Suelta mi brazo.", "en": "Let go of my arm."}
+      ]
+    },
+    {
+      "es": "regalar", "pos": "v.", "en": "to give as a present",
+      "note": "el regalo is the present. Spanish has a separate verb where English says give a present.",
+      "ex": [
+        {"es": "Me regalaron un libro.", "en": "They gave me a book as a present."}
+      ]
+    },
+    {
+      "es": "mandar · enviar", "pos": "v.", "en": "to send; (mandar) to order, to be in charge",
+      "he": "לשלוח / לצוות",
+      "ex": [
+        {"tag": "send", "es": "Te mando la dirección por mensaje.", "en": "I'll send you the address by message."},
+        {"tag": "be in charge", "es": "Aquí manda ella.", "en": "She's the one in charge here."}
+      ]
+    },
+    {
+      "es": "recibir", "pos": "v.", "en": "to receive; to welcome, to see (a visitor)",
+      "ex": [
+        {"tag": "receive", "es": "Recibí tu carta ayer.", "en": "I received your letter yesterday."},
+        {"tag": "welcome", "es": "El doctor recibe de nueve a una.", "en": "The doctor sees patients from nine to one."}
+      ]
+    },
+    {
+      "es": "devolver", "pos": "v. irr.", "en": "to give back, to return (something)",
+      "note": "volver is to come back yourself; devolver is to give a thing back.",
+      "conj": {"label": "pres.", "forms": ["devuelvo", "devuelves", "devuelve", "devolvemos", "devuelven"]},
+      "ex": [
+        {"es": "Devuélveme el libro cuando puedas.", "en": "Give me the book back when you can."}
+      ]
+    },
+    {
+      "es": "perder", "pos": "v. irr.", "en": "to lose; to miss (a train, a chance)",
+      "he": "לאבד / לפספס",
+      "conj": {"label": "pres.", "forms": ["pierdo", "pierdes", "pierde", "perdemos", "pierden"]},
+      "ex": [
+        {"tag": "lose", "es": "Perdí el paraguas en el taxi.", "en": "I lost my umbrella in the taxi."},
+        {"tag": "miss", "es": "Perdimos el vuelo por el tráfico.", "en": "We missed the flight because of the traffic."}
+      ]
+    },
+    {
+      "es": "guardar", "pos": "v.", "en": "to keep, to put away",
+      "note": "See unit 27 for the computing sense.",
+      "ex": [
+        {"es": "Guarda esto en un lugar seguro.", "en": "Keep this somewhere safe."}
+      ]
+    },
+    {
+      "es": "usar", "pos": "v.", "en": "to use; to wear",
+      "he": "להשתמש / ללבוש",
+      "note": "usar lentes is to wear glasses — usar covers habitual wearing, llevar what you have on today.",
+      "ex": [
+        {"tag": "use", "es": "Usa este cuchillo, corta mejor.", "en": "Use this knife, it cuts better."},
+        {"tag": "wear", "es": "Usa lentes desde niña.", "en": "She's worn glasses since she was a girl."}
+      ]
+    },
+    {
+      "es": "servir", "pos": "v. irr.", "en": "to serve; to be useful, to work",
+      "he": "להגיש / להיות שימושי",
+      "note": "no sirve means it's no good, it doesn't work. ¿para qué sirve? is what's it for?",
+      "conj": {"label": "pres.", "forms": ["sirvo", "sirves", "sirve", "servimos", "sirven"]},
+      "ex": [
+        {"tag": "serve", "es": "Sirvieron la cena a las nueve.", "en": "They served dinner at nine."},
+        {"tag": "be useful", "es": "Esta llave no sirve.", "en": "This key is no good."}
+      ]
+    },
+    {
+      "es": "ayudar", "pos": "v.", "en": "to help",
+      "note": "ayudar a + infinitive: me ayudó a cargar las bolsas. la ayuda is help.",
+      "ex": [
+        {"es": "¿Te ayudo con eso?", "en": "Shall I help you with that?"}
+      ]
+    },
+    {
+      "es": "el regalo", "pos": "n.m.", "en": "present, gift",
+      "ex": [
+        {"es": "Todavía no compré los regalos.", "en": "I haven't bought the presents yet."}
+      ]
+    },
+    {
+      "es": "la cosa", "pos": "n.f.", "en": "thing",
+      "note": "The most useful noun in the language when you don't know the word. otra cosa is something else.",
+      "ex": [
+        {"es": "Deja tus cosas en el cuarto.", "en": "Leave your things in the room."}
+      ]
+    },
+    {
+      "es": "el objeto", "pos": "n.m.", "en": "object; purpose",
+      "ex": [
+        {"tag": "object", "es": "Encontraron varios objetos antiguos.", "en": "They found several old objects."},
+        {"tag": "purpose", "es": "¿Cuál es el objeto de la reunión?", "en": "What is the purpose of the meeting?"}
+      ]
+    },
+    {
+      "es": "el pedazo", "pos": "n.m.", "en": "piece, bit",
+      "note": "la pieza is a component or a room; el trozo a chunk.",
+      "ex": [
+        {"es": "¿Quieres un pedazo de pastel?", "en": "Would you like a piece of cake?"}
+      ]
+    },
+    {
+      "es": "la parte", "pos": "n.f.", "en": "part; place, side",
+      "he": "חלק / מקום",
+      "note": "en alguna parte means somewhere; por otra parte means on the other hand.",
+      "ex": [
+        {"tag": "part", "es": "La primera parte es la más difícil.", "en": "The first part is the hardest."},
+        {"tag": "place", "es": "Lo vi en alguna parte.", "en": "I saw it somewhere."}
+      ]
+    }
+  ]
+}

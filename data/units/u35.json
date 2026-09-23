@@ -1,0 +1,302 @@
+{
+  "id": "u35",
+  "title": "Quantity, containers and measures",
+  "intro": "Almost everything here joins to its noun with de: un vaso de agua, un poco de sal, la mayoría de la gente. That de is not optional.",
+  "entries": [
+    {
+      "es": "un poco",
+      "pos": "phrase",
+      "en": "a little, a bit",
+      "note": "un poco de before a noun. poco alone means little in the sense of not much.",
+      "ex": [
+        {
+          "es": "Ponle un poco de sal.",
+          "en": "Put a little salt on it."
+        }
+      ]
+    },
+    {
+      "es": "demasiado",
+      "pos": "adj. / adv.",
+      "en": "too much, too many; too",
+      "he": "יותר מדי",
+      "note": "As an adjective it agrees: demasiada gente. As an adverb it never changes: habla demasiado rápido.",
+      "ex": [
+        {
+          "tag": "too much",
+          "es": "Hay demasiada gente aquí.",
+          "en": "There are too many people here."
+        },
+        {
+          "tag": "too",
+          "es": "Es demasiado caro.",
+          "en": "It's too expensive."
+        }
+      ]
+    },
+    {
+      "es": "bastante",
+      "pos": "adj. / adv.",
+      "en": "quite a lot, enough; quite, fairly",
+      "he": "מספיק / די",
+      "ex": [
+        {
+          "tag": "enough",
+          "es": "Tenemos bastante comida.",
+          "en": "We have enough food."
+        },
+        {
+          "tag": "fairly",
+          "es": "Está bastante lejos.",
+          "en": "It's quite far."
+        }
+      ]
+    },
+    {
+      "es": "la mayoría",
+      "pos": "n.f.",
+      "en": "the majority, most",
+      "note": "la mayoría de la gente. Takes a singular verb even about many people.",
+      "ex": [
+        {
+          "es": "La mayoría de los alumnos aprobó.",
+          "en": "Most of the pupils passed."
+        }
+      ]
+    },
+    {
+      "es": "la mitad",
+      "pos": "n.f.",
+      "en": "half",
+      "note": "See unit 11. la mitad de takes de; medio is the adjective.",
+      "ex": [
+        {
+          "es": "Nos comimos la mitad del pan.",
+          "en": "We ate half the bread."
+        }
+      ]
+    },
+    {
+      "es": "el resto",
+      "pos": "n.m.",
+      "en": "the rest, the remainder",
+      "note": "los restos are leftovers or remains.",
+      "ex": [
+        {
+          "es": "El resto lo hacemos mañana.",
+          "en": "We'll do the rest tomorrow."
+        }
+      ]
+    },
+    {
+      "es": "el montón",
+      "pos": "n.m.",
+      "en": "pile, heap; loads (informal)",
+      "he": "ערימה / המון",
+      "note": "un montón de is the everyday loads of.",
+      "ex": [
+        {
+          "tag": "pile",
+          "es": "Hay un montón de ropa en la cama.",
+          "en": "There's a pile of clothes on the bed."
+        },
+        {
+          "tag": "loads",
+          "es": "Tengo un montón de trabajo.",
+          "en": "I have loads of work."
+        }
+      ]
+    },
+    {
+      "es": "el par",
+      "pos": "n.m.",
+      "en": "pair, a couple of",
+      "note": "un par de zapatos, and un par de días for a couple of days.",
+      "ex": [
+        {
+          "es": "Compré un par de calcetines.",
+          "en": "I bought a pair of socks."
+        }
+      ]
+    },
+    {
+      "es": "la docena",
+      "pos": "n.f.",
+      "en": "dozen",
+      "ex": [
+        {
+          "es": "Deme una docena de huevos.",
+          "en": "Give me a dozen eggs."
+        }
+      ]
+    },
+    {
+      "es": "el kilo · el gramo",
+      "pos": "n.m.",
+      "en": "kilo; gram",
+      "note": "Markets sell by the kilo, and prices are given as por kilo.",
+      "ex": [
+        {
+          "tag": "kilo",
+          "es": "Un kilo de tomates, por favor.",
+          "en": "A kilo of tomatoes, please."
+        },
+        {
+          "tag": "gram",
+          "es": "Añade cien gramos de azúcar.",
+          "en": "Add a hundred grams of sugar."
+        }
+      ]
+    },
+    {
+      "es": "el litro",
+      "pos": "n.m.",
+      "en": "litre",
+      "ex": [
+        {
+          "es": "Compra dos litros de leche.",
+          "en": "Buy two litres of milk."
+        }
+      ]
+    },
+    {
+      "es": "el metro",
+      "pos": "n.m.",
+      "en": "metre; underground, metro",
+      "he": "מטר / רכבת תחתית",
+      "ex": [
+        {
+          "tag": "metre",
+          "es": "La cuerda mide tres metros.",
+          "en": "The rope is three metres long."
+        },
+        {
+          "tag": "underground",
+          "es": "Tomamos el metro hasta el centro.",
+          "en": "We took the metro to the centre."
+        }
+      ]
+    },
+    {
+      "es": "el kilómetro",
+      "pos": "n.m.",
+      "en": "kilometre",
+      "note": "Distances are always metric. la milla exists but is rare.",
+      "ex": [
+        {
+          "es": "Está a veinte kilómetros de aquí.",
+          "en": "It's twenty kilometres from here."
+        }
+      ]
+    },
+    {
+      "es": "la caja",
+      "pos": "n.f.",
+      "en": "box; till, checkout",
+      "he": "קופסה / קופה",
+      "note": "el cajero is the cashier, and also the cash machine.",
+      "ex": [
+        {
+          "tag": "box",
+          "es": "Guarda los papeles en la caja.",
+          "en": "Keep the papers in the box."
+        },
+        {
+          "tag": "till",
+          "es": "Pague en la caja, por favor.",
+          "en": "Pay at the till, please."
+        }
+      ]
+    },
+    {
+      "es": "la lata",
+      "pos": "n.f.",
+      "en": "tin, can; a nuisance",
+      "he": "פחית / נודניק",
+      "warn": "Not can in the sense of able to — that is poder. ¡Qué lata! means what a pain.",
+      "ex": [
+        {
+          "tag": "tin",
+          "es": "Abre una lata de atún.",
+          "en": "Open a tin of tuna."
+        },
+        {
+          "tag": "nuisance",
+          "es": "Qué lata tener que volver.",
+          "en": "What a pain having to come back."
+        }
+      ]
+    },
+    {
+      "es": "el paquete",
+      "pos": "n.m.",
+      "en": "packet, parcel, package",
+      "ex": [
+        {
+          "es": "Llegó un paquete para ti.",
+          "en": "A parcel came for you."
+        }
+      ]
+    },
+    {
+      "es": "el tamaño",
+      "pos": "n.m.",
+      "en": "size",
+      "note": "For clothing say la talla, for shoes el número — see unit 13.",
+      "ex": [
+        {
+          "es": "¿De qué tamaño lo quiere?",
+          "en": "What size would you like it?"
+        }
+      ]
+    },
+    {
+      "es": "el peso",
+      "pos": "n.m.",
+      "en": "weight; peso (currency)",
+      "he": "משקל",
+      "note": "pesar is to weigh.",
+      "ex": [
+        {
+          "tag": "weight",
+          "es": "El peso del equipaje es de veinte kilos.",
+          "en": "The luggage weight is twenty kilos."
+        },
+        {
+          "tag": "currency",
+          "es": "Cuesta cincuenta pesos.",
+          "en": "It costs fifty pesos."
+        }
+      ]
+    },
+    {
+      "es": "vacío · lleno",
+      "pos": "adj.",
+      "en": "empty; full",
+      "ex": [
+        {
+          "tag": "empty",
+          "es": "La botella está vacía.",
+          "en": "The bottle is empty."
+        },
+        {
+          "tag": "full",
+          "es": "El autobús venía lleno.",
+          "en": "The bus was full."
+        }
+      ]
+    },
+    {
+      "es": "casi",
+      "pos": "adv.",
+      "en": "almost, nearly",
+      "note": "casi nunca means hardly ever; casi nada hardly anything.",
+      "ex": [
+        {
+          "es": "Ya casi terminamos.",
+          "en": "We're almost finished."
+        }
+      ]
+    }
+  ]
+}

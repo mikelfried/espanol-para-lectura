@@ -1,0 +1,154 @@
+{
+  "id": "u30",
+  "title": "Nature and landscape",
+  "intro": "Geography words, and a few that English collapses: Spanish separates el mar from el océano loosely, but keeps la sierra, la montaña and el cerro genuinely apart by size.",
+  "entries": [
+    {
+      "es": "la naturaleza", "pos": "n.f.", "en": "nature",
+      "ex": [
+        {"es": "Le gusta estar en la naturaleza.", "en": "She likes being out in nature."}
+      ]
+    },
+    {
+      "es": "el árbol", "pos": "n.m.", "en": "tree",
+      "note": "Plural árboles. la rama is a branch; la hoja a leaf; la raíz a root.",
+      "ex": [
+        {"es": "Nos sentamos bajo un árbol.", "en": "We sat under a tree."}
+      ]
+    },
+    {
+      "es": "la flor", "pos": "n.f.", "en": "flower",
+      "note": "Plural flores. florecer is to bloom.",
+      "ex": [
+        {"es": "Le llevó flores al hospital.", "en": "He took her flowers at the hospital."}
+      ]
+    },
+    {
+      "es": "la planta", "pos": "n.f.", "en": "plant; floor, storey",
+      "he": "צמח / קומה",
+      "note": "la planta baja is the ground floor — the sign in every lift in Spain.",
+      "ex": [
+        {"tag": "plant", "es": "Riega las plantas, por favor.", "en": "Water the plants, please."},
+        {"tag": "floor", "es": "La oficina está en la planta baja.", "en": "The office is on the ground floor."}
+      ]
+    },
+    {
+      "es": "la hoja", "pos": "n.f.", "en": "leaf; sheet of paper",
+      "he": "עלה / דף",
+      "ex": [
+        {"tag": "leaf", "es": "Las hojas cambian de color en otoño.", "en": "The leaves change colour in autumn."},
+        {"tag": "sheet", "es": "Dame una hoja en blanco.", "en": "Give me a blank sheet."}
+      ]
+    },
+    {
+      "es": "el pasto · la hierba", "pos": "n.", "en": "grass",
+      "note": "el pasto in Latin America, la hierba or el césped for a lawn.",
+      "ex": [
+        {"es": "No pises el pasto.", "en": "Don't walk on the grass."}
+      ]
+    },
+    {
+      "es": "la tierra", "pos": "n.f.", "en": "earth, soil; land; the Earth",
+      "he": "אדמה / ארץ",
+      "note": "Capitalised as la Tierra for the planet.",
+      "ex": [
+        {"tag": "soil", "es": "La tierra está muy seca.", "en": "The soil is very dry."},
+        {"tag": "land", "es": "Compraron una tierra en el sur.", "en": "They bought land in the south."},
+        {"tag": "the Earth", "es": "La Tierra gira alrededor del Sol.", "en": "The Earth goes round the Sun."}
+      ]
+    },
+    {
+      "es": "el campo", "pos": "n.m.", "en": "countryside; field; field (of study)",
+      "he": "כפר / שדה / תחום",
+      "ex": [
+        {"tag": "countryside", "es": "Pasamos el fin de semana en el campo.", "en": "We spent the weekend in the countryside."},
+        {"tag": "field", "es": "El campo está lleno de flores.", "en": "The field is full of flowers."},
+        {"tag": "discipline", "es": "Es experta en el campo de la genética.", "en": "She's an expert in the field of genetics."}
+      ]
+    },
+    {
+      "es": "la montaña", "pos": "n.f.", "en": "mountain",
+      "note": "el cerro is a hill; la sierra a mountain range; la colina a low hill.",
+      "ex": [
+        {"es": "Las montañas tienen nieve todo el año.", "en": "The mountains have snow all year."}
+      ]
+    },
+    {
+      "es": "el río", "pos": "n.m.", "en": "river",
+      "note": "la orilla is the bank; el arroyo a stream.",
+      "ex": [
+        {"es": "El río creció con la lluvia.", "en": "The river rose with the rain."}
+      ]
+    },
+    {
+      "es": "el mar", "pos": "n.m.", "en": "sea",
+      "note": "Usually masculine, but sailors and poets say la mar. el océano for the ocean.",
+      "ex": [
+        {"es": "Vivimos cerca del mar.", "en": "We live near the sea."}
+      ]
+    },
+    {
+      "es": "la playa", "pos": "n.f.", "en": "beach",
+      "note": "la costa is the coast; la arena sand; la ola a wave.",
+      "ex": [
+        {"es": "La playa está vacía en invierno.", "en": "The beach is empty in winter."}
+      ]
+    },
+    {
+      "es": "el lago", "pos": "n.m.", "en": "lake",
+      "note": "la laguna is a lagoon or a smaller lake.",
+      "ex": [
+        {"es": "Nadamos en el lago al amanecer.", "en": "We swam in the lake at dawn."}
+      ]
+    },
+    {
+      "es": "la isla", "pos": "n.f.", "en": "island",
+      "ex": [
+        {"es": "La isla sólo se llega en barco.", "en": "The island can only be reached by boat."}
+      ]
+    },
+    {
+      "es": "el desierto", "pos": "n.m.", "en": "desert",
+      "note": "desierto as an adjective means deserted: una calle desierta.",
+      "ex": [
+        {"es": "Cruzamos el desierto de noche.", "en": "We crossed the desert at night."}
+      ]
+    },
+    {
+      "es": "el bosque", "pos": "n.m.", "en": "wood, forest",
+      "note": "la selva is jungle or rainforest.",
+      "ex": [
+        {"es": "Nos perdimos en el bosque.", "en": "We got lost in the wood."}
+      ]
+    },
+    {
+      "es": "el fuego", "pos": "n.m.", "en": "fire",
+      "note": "el incendio is a destructive blaze; quemar is to burn; el humo smoke.",
+      "ex": [
+        {"es": "Encendieron un fuego en la playa.", "en": "They lit a fire on the beach."}
+      ]
+    },
+    {
+      "es": "el aire", "pos": "n.m.", "en": "air",
+      "note": "al aire libre means outdoors, in the open air.",
+      "ex": [
+        {"es": "Salgamos a tomar aire.", "en": "Let's go out for some air."}
+      ]
+    },
+    {
+      "es": "la estrella", "pos": "n.f.", "en": "star",
+      "note": "la luna is the moon; el sol the sun; el cielo the sky.",
+      "ex": [
+        {"es": "Se veían todas las estrellas.", "en": "You could see every star."}
+      ]
+    },
+    {
+      "es": "el mundo", "pos": "n.m.", "en": "world",
+      "note": "todo el mundo means everybody, not the whole world.",
+      "ex": [
+        {"tag": "world", "es": "Quiere ver el mundo.", "en": "She wants to see the world."},
+        {"tag": "everybody", "es": "Todo el mundo lo sabe.", "en": "Everybody knows."}
+      ]
+    }
+  ]
+}

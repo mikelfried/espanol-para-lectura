@@ -1,0 +1,153 @@
+{
+  "id": "u31",
+  "title": "Character and personality",
+  "intro": "These take ser, not estar, because they describe what someone is rather than how they are today. The contrast is sharp: es aburrido means he is boring, está aburrido means he is bored.",
+  "entries": [
+    {
+      "es": "simpático", "pos": "adj.", "en": "nice, likeable, friendly",
+      "warn": "Not sympathetic. To be sympathetic is comprensivo or solidario. simpático is the commonest compliment about a person's manner.",
+      "ex": [
+        {"es": "Su hermana es muy simpática.", "en": "His sister is very nice."}
+      ]
+    },
+    {
+      "es": "amable", "pos": "adj.", "en": "kind, polite",
+      "note": "Muy amable is the standard thank you for a courtesy.",
+      "ex": [
+        {"es": "Fue muy amable con nosotros.", "en": "He was very kind to us."}
+      ]
+    },
+    {
+      "es": "serio", "pos": "adj.", "en": "serious; reliable",
+      "he": "רציני",
+      "ex": [
+        {"tag": "serious", "es": "Puso cara seria.", "en": "He put on a serious face."},
+        {"tag": "reliable", "es": "Es una empresa seria.", "en": "It's a reputable company."}
+      ]
+    },
+    {
+      "es": "gracioso", "pos": "adj.", "en": "funny, amusing",
+      "note": "chistoso in Mexico. divertido means fun or enjoyable.",
+      "ex": [
+        {"es": "Tu amigo es muy gracioso.", "en": "Your friend is very funny."}
+      ]
+    },
+    {
+      "es": "tímido", "pos": "adj.", "en": "shy",
+      "ex": [
+        {"es": "De niño era muy tímido.", "en": "As a boy he was very shy."}
+      ]
+    },
+    {
+      "es": "valiente", "pos": "adj.", "en": "brave",
+      "note": "el valor is courage, and also value — see unit 33.",
+      "ex": [
+        {"es": "Fue muy valiente al decirlo.", "en": "It was brave of her to say it."}
+      ]
+    },
+    {
+      "es": "inteligente", "pos": "adj.", "en": "intelligent, clever",
+      "note": "listo is the everyday alternative — see unit 29.",
+      "ex": [
+        {"es": "Es inteligente pero perezoso.", "en": "He's clever but lazy."}
+      ]
+    },
+    {
+      "es": "perezoso · flojo", "pos": "adj.", "en": "lazy",
+      "note": "flojo is the common word in Latin America, and also means loose or slack.",
+      "ex": [
+        {"es": "No seas flojo, levántate.", "en": "Don't be lazy, get up."}
+      ]
+    },
+    {
+      "es": "trabajador", "pos": "adj. / n.m.", "en": "hard-working; worker",
+      "ex": [
+        {"tag": "hard-working", "es": "Es muy trabajadora.", "en": "She's very hard-working."},
+        {"tag": "worker", "es": "Los trabajadores piden aumento.", "en": "The workers are asking for a rise."}
+      ]
+    },
+    {
+      "es": "honesto · sincero", "pos": "adj.", "en": "honest; sincere",
+      "ex": [
+        {"tag": "honest", "es": "Fue honesto sobre el precio.", "en": "He was honest about the price."},
+        {"tag": "sincere", "es": "Te lo digo sincero.", "en": "I'm telling you sincerely."}
+      ]
+    },
+    {
+      "es": "orgulloso", "pos": "adj.", "en": "proud; arrogant",
+      "he": "גאה / יהיר",
+      "note": "estar orgulloso de is proud of; ser orgulloso leans towards arrogant.",
+      "ex": [
+        {"tag": "proud", "es": "Estoy orgulloso de ti.", "en": "I'm proud of you."},
+        {"tag": "arrogant", "es": "Es demasiado orgulloso para pedir ayuda.", "en": "He's too proud to ask for help."}
+      ]
+    },
+    {
+      "es": "celoso", "pos": "adj.", "en": "jealous",
+      "note": "los celos are jealousy, always plural.",
+      "ex": [
+        {"es": "Se puso celoso sin razón.", "en": "He got jealous for no reason."}
+      ]
+    },
+    {
+      "es": "generoso · tacaño", "pos": "adj.", "en": "generous; stingy",
+      "ex": [
+        {"tag": "generous", "es": "Es generosa con su tiempo.", "en": "She's generous with her time."},
+        {"tag": "stingy", "es": "No seas tacaño, deja propina.", "en": "Don't be stingy, leave a tip."}
+      ]
+    },
+    {
+      "es": "educado · grosero", "pos": "adj.", "en": "polite, well-mannered; rude",
+      "warn": "educado means well-mannered, not educated. For educated say culto or con estudios.",
+      "ex": [
+        {"tag": "polite", "es": "Es un niño muy educado.", "en": "He's a very well-mannered boy."},
+        {"tag": "rude", "es": "Fue grosero con la mesera.", "en": "He was rude to the waitress."}
+      ]
+    },
+    {
+      "es": "el carácter", "pos": "n.m.", "en": "character, temperament",
+      "note": "Plural caracteres shifts its stress. tener mal carácter is to be bad-tempered.",
+      "ex": [
+        {"es": "Tiene buen carácter.", "en": "He has a good temperament."}
+      ]
+    },
+    {
+      "es": "la costumbre", "pos": "n.f.", "en": "custom, habit",
+      "note": "tener la costumbre de is to be in the habit of; como de costumbre means as usual.",
+      "ex": [
+        {"es": "Es la costumbre del pueblo.", "en": "It's the village's custom."}
+      ]
+    },
+    {
+      "es": "confiar", "pos": "v.", "en": "to trust",
+      "note": "confiar en. la confianza is trust, and also familiarity.",
+      "ex": [
+        {"es": "Confío en ella completamente.", "en": "I trust her completely."}
+      ]
+    },
+    {
+      "es": "el comportamiento", "pos": "n.m.", "en": "behaviour",
+      "note": "portarse bien is to behave well — what parents say to children.",
+      "ex": [
+        {"es": "Su comportamiento mejoró mucho.", "en": "His behaviour improved a lot."}
+      ]
+    },
+    {
+      "es": "raro · extraño", "pos": "adj.", "en": "strange, odd; rare",
+      "he": "מוזר / נדיר",
+      "ex": [
+        {"tag": "strange", "es": "Qué raro que no haya llamado.", "en": "How strange that he hasn't called."},
+        {"tag": "rare", "es": "Es una planta muy rara.", "en": "It's a very rare plant."}
+      ]
+    },
+    {
+      "es": "aburrido", "pos": "adj.", "en": "boring; bored",
+      "he": "משעמם / משועמם",
+      "note": "The clearest ser and estar pair in the language: es aburrido, he is boring; está aburrido, he is bored.",
+      "ex": [
+        {"tag": "boring", "es": "La película es aburrida.", "en": "The film is boring."},
+        {"tag": "bored", "es": "Los niños están aburridos.", "en": "The children are bored."}
+      ]
+    }
+  ]
+}

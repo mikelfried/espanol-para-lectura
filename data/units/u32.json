@@ -1,0 +1,157 @@
+{
+  "id": "u32",
+  "title": "Connecting sentences",
+  "intro": "The words that turn a list of sentences into prose. Most are invariable and cost nothing to learn, and they do more for how fluent you sound than any amount of vocabulary.",
+  "entries": [
+    {
+      "es": "también · tampoco", "pos": "adv.", "en": "also, too; neither, not either",
+      "he": "גם / גם לא",
+      "note": "tampoco is the negative twin. Yo tampoco means me neither.",
+      "ex": [
+        {"tag": "also", "es": "Yo también quiero ir.", "en": "I want to go too."},
+        {"tag": "neither", "es": "Tampoco me gustó el final.", "en": "I didn't like the ending either."}
+      ]
+    },
+    {
+      "es": "además", "pos": "adv.", "en": "besides, moreover, what's more",
+      "note": "además de means as well as, in addition to.",
+      "ex": [
+        {"es": "Es caro y además está lejos.", "en": "It's expensive, and what's more it's far away."}
+      ]
+    },
+    {
+      "es": "sin embargo", "pos": "adv.", "en": "however, nevertheless",
+      "note": "The formal but. no obstante is a heavier version.",
+      "ex": [
+        {"es": "Es difícil; sin embargo, vale la pena.", "en": "It's hard; however, it's worth it."}
+      ]
+    },
+    {
+      "es": "aunque", "pos": "conj.", "en": "although, even though; even if",
+      "he": "אף על פי ש- / גם אם",
+      "note": "With the indicative it means although; with the subjunctive, even if.",
+      "ex": [
+        {"tag": "although", "es": "Aunque llueve, vamos a salir.", "en": "Although it's raining, we're going out."},
+        {"tag": "even if", "es": "Aunque llueva, saldremos.", "en": "Even if it rains, we'll go out."}
+      ]
+    },
+    {
+      "es": "entonces", "pos": "adv.", "en": "then, so; at that time",
+      "he": "אז",
+      "ex": [
+        {"tag": "so", "es": "¿Entonces vienes o no?", "en": "So are you coming or not?"},
+        {"tag": "at that time", "es": "Entonces vivíamos en Lima.", "en": "At that time we lived in Lima."}
+      ]
+    },
+    {
+      "es": "por eso", "pos": "phrase", "en": "that's why, therefore",
+      "note": "por lo tanto is the formal version.",
+      "ex": [
+        {"es": "Llovía, por eso no salimos.", "en": "It was raining, that's why we didn't go out."}
+      ]
+    },
+    {
+      "es": "es decir", "pos": "phrase", "en": "that is to say, in other words",
+      "note": "o sea does the same job and is far commoner in speech.",
+      "ex": [
+        {"es": "Llegó tarde, es decir, perdimos el tren.", "en": "He arrived late — in other words, we missed the train."}
+      ]
+    },
+    {
+      "es": "o sea", "pos": "phrase", "en": "I mean, that is",
+      "note": "The great filler of spoken Spanish, roughly English like or I mean.",
+      "ex": [
+        {"es": "Está cerca, o sea, unos diez minutos.", "en": "It's close — I mean, about ten minutes."}
+      ]
+    },
+    {
+      "es": "por ejemplo", "pos": "phrase", "en": "for example",
+      "ex": [
+        {"es": "Trae algo dulce, por ejemplo fruta.", "en": "Bring something sweet, for example fruit."}
+      ]
+    },
+    {
+      "es": "en cambio", "pos": "phrase", "en": "on the other hand, whereas",
+      "note": "Marks a contrast between two subjects. Different from el cambio, change — see unit 18.",
+      "ex": [
+        {"es": "Él es callado; ella, en cambio, habla muchísimo.", "en": "He's quiet; she, on the other hand, talks a lot."}
+      ]
+    },
+    {
+      "es": "mientras · mientras que", "pos": "conj.", "en": "while; whereas",
+      "note": "mientras for simultaneous time, mientras que for contrast.",
+      "ex": [
+        {"tag": "while", "es": "Cocino mientras escucho la radio.", "en": "I cook while I listen to the radio."},
+        {"tag": "whereas", "es": "Yo pago, mientras que ella no paga nada.", "en": "I pay, whereas she pays nothing."}
+      ]
+    },
+    {
+      "es": "por fin · al fin", "pos": "adv.", "en": "at last, finally",
+      "note": "finalmente is the neutral word; por fin carries relief.",
+      "ex": [
+        {"es": "¡Por fin llegaste!", "en": "You're here at last!"}
+      ]
+    },
+    {
+      "es": "sobre todo", "pos": "phrase", "en": "above all, especially",
+      "note": "Two words. One word, el sobretodo, is an overcoat.",
+      "ex": [
+        {"es": "Me gusta la fruta, sobre todo el mango.", "en": "I like fruit, especially mango."}
+      ]
+    },
+    {
+      "es": "de todos modos", "pos": "phrase", "en": "anyway, in any case",
+      "note": "de todas maneras and de todas formas mean the same.",
+      "ex": [
+        {"es": "De todos modos, gracias por avisar.", "en": "Anyway, thanks for letting me know."}
+      ]
+    },
+    {
+      "es": "a pesar de", "pos": "prep.", "en": "in spite of, despite",
+      "note": "a pesar de que + clause: a pesar de que llovía.",
+      "ex": [
+        {"es": "Salimos a pesar del frío.", "en": "We went out in spite of the cold."}
+      ]
+    },
+    {
+      "es": "según", "pos": "prep.", "en": "according to; depending on",
+      "he": "לפי / תלוי ב-",
+      "ex": [
+        {"tag": "according to", "es": "Según el periódico, ganó el otro equipo.", "en": "According to the paper, the other team won."},
+        {"tag": "depending on", "es": "Salimos según el clima.", "en": "We'll leave depending on the weather."}
+      ]
+    },
+    {
+      "es": "en cuanto a", "pos": "phrase", "en": "as for, regarding",
+      "note": "Not to be confused with en cuanto, which means as soon as.",
+      "ex": [
+        {"es": "En cuanto al dinero, ya lo resolvimos.", "en": "As for the money, we've sorted it out."}
+      ]
+    },
+    {
+      "es": "ni · ni siquiera", "pos": "conj. / adv.", "en": "nor, not even; not even",
+      "he": "אף לא / אפילו לא",
+      "note": "ni ... ni is neither ... nor. ni siquiera intensifies it.",
+      "ex": [
+        {"tag": "neither/nor", "es": "No come ni carne ni pescado.", "en": "He eats neither meat nor fish."},
+        {"tag": "not even", "es": "Ni siquiera me saludó.", "en": "He didn't even say hello."}
+      ]
+    },
+    {
+      "es": "o · u", "pos": "conj.", "en": "or",
+      "note": "Becomes u before a word starting with o: siete u ocho. The same rule turns y into e before i: padre e hijo.",
+      "ex": [
+        {"es": "Tráeme siete u ocho, no importa.", "en": "Bring me seven or eight, it doesn't matter."}
+      ]
+    },
+    {
+      "es": "así", "pos": "adv.", "en": "like this, like that, so",
+      "he": "כך",
+      "note": "así es means that's right; así que means so, therefore.",
+      "ex": [
+        {"tag": "like this", "es": "Hazlo así.", "en": "Do it like this."},
+        {"tag": "so", "es": "Estaba cerrado, así que volvimos.", "en": "It was closed, so we came back."}
+      ]
+    }
+  ]
+}

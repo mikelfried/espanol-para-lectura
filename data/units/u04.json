@@ -1,0 +1,154 @@
+{
+  "id": "u04",
+  "title": "Time",
+  "intro": "This unit contains the book's worst traps for an English speaker: tiempo, vez, mañana and tarde each carry two meanings that English splits into different words.",
+  "entries": [
+    {
+      "es": "el tiempo", "pos": "n.m.", "en": "time (in general); weather",
+      "he": "זמן / מזג אוויר",
+      "note": "Uncountable time, and the weather. For a countable occasion use vez.",
+      "ex": [
+        {"tag": "time", "es": "No tengo tiempo esta semana.", "en": "I don't have time this week."},
+        {"tag": "weather", "es": "¿Cómo está el tiempo en Bogotá?", "en": "What's the weather like in Bogotá?"}
+      ]
+    },
+    {
+      "es": "la vez", "pos": "n.f.", "en": "time, occasion, instance",
+      "he": "פעם",
+      "note": "Countable times. Plural veces. A veces = sometimes, otra vez = again, tal vez = maybe.",
+      "ex": [
+        {"es": "Te lo dije tres veces.", "en": "I told you three times."},
+        {"es": "Tal vez venga más tarde.", "en": "Maybe he'll come later."}
+      ]
+    },
+    {
+      "es": "el año", "pos": "n.m.", "en": "year",
+      "note": "The tilde matters: ano without it is a part of the body.",
+      "ex": [
+        {"es": "El año pasado viajamos a Perú.", "en": "Last year we travelled to Peru."}
+      ]
+    },
+    {
+      "es": "el día", "pos": "n.m.", "en": "day",
+      "note": "Ends in -a but is masculine: el día, un buen día. Words from Greek often behave this way.",
+      "ex": [
+        {"es": "Trabajo todos los días menos el domingo.", "en": "I work every day except Sunday."}
+      ]
+    },
+    {
+      "es": "la semana", "pos": "n.f.", "en": "week",
+      "ex": [
+        {"es": "Nos vemos la semana que viene.", "en": "We'll see each other next week."}
+      ]
+    },
+    {
+      "es": "el mes", "pos": "n.m.", "en": "month",
+      "ex": [
+        {"es": "Pago la renta a fin de mes.", "en": "I pay the rent at the end of the month."}
+      ]
+    },
+    {
+      "es": "la hora", "pos": "n.f.", "en": "hour; time of day",
+      "he": "שעה",
+      "ex": [
+        {"tag": "hour", "es": "Esperamos media hora.", "en": "We waited half an hour."},
+        {"tag": "time of day", "es": "¿A qué hora sale el tren?", "en": "What time does the train leave?"}
+      ]
+    },
+    {
+      "es": "el momento", "pos": "n.m.", "en": "moment, instant; right time",
+      "ex": [
+        {"tag": "instant", "es": "En ese momento sonó el teléfono.", "en": "At that moment the phone rang."},
+        {"tag": "right time", "es": "No es el momento de hablar de eso.", "en": "This isn't the time to talk about that."}
+      ]
+    },
+    {
+      "es": "la mañana", "pos": "n.f. / adv.", "en": "morning; (bare mañana) tomorrow",
+      "he": "בוקר / מחר",
+      "note": "With the article it is the morning; bare, it is tomorrow. Both at once: mañana por la mañana.",
+      "ex": [
+        {"tag": "morning", "es": "Corro todas las mañanas.", "en": "I run every morning."},
+        {"tag": "tomorrow", "es": "Mañana tengo una cita con el médico.", "en": "Tomorrow I have a doctor's appointment."},
+        {"tag": "both", "es": "Salgo mañana por la mañana.", "en": "I'm leaving tomorrow morning."}
+      ]
+    },
+    {
+      "es": "la tarde", "pos": "n.f. / adv.", "en": "afternoon, early evening; (bare tarde) late",
+      "he": "אחר הצהריים / מאוחר",
+      "note": "La tarde stretches until dark, so it covers both English afternoon and evening.",
+      "ex": [
+        {"tag": "afternoon", "es": "Nos vemos en la tarde.", "en": "We'll see each other in the afternoon."},
+        {"tag": "late", "es": "Se acostó muy tarde.", "en": "He went to bed very late."},
+        {"tag": "both", "es": "Llegó tarde por la tarde.", "en": "He arrived late in the afternoon."}
+      ]
+    },
+    {
+      "es": "la noche", "pos": "n.f.", "en": "night, evening",
+      "ex": [
+        {"es": "Anoche dormí muy mal.", "en": "Last night I slept badly."}
+      ]
+    },
+    {
+      "es": "hoy", "pos": "adv.", "en": "today",
+      "ex": [
+        {"es": "Hoy no trabajo.", "en": "I'm not working today."}
+      ]
+    },
+    {
+      "es": "ayer", "pos": "adv.", "en": "yesterday",
+      "ex": [
+        {"es": "Ayer hizo mucho viento.", "en": "It was very windy yesterday."}
+      ]
+    },
+    {
+      "es": "ahora", "pos": "adv.", "en": "now",
+      "note": "ahora mismo = right now. por ahora = for the time being.",
+      "ex": [
+        {"es": "Ahora mismo estoy ocupado.", "en": "I'm busy right now."}
+      ]
+    },
+    {
+      "es": "luego", "pos": "adv.", "en": "later, afterwards; then, next",
+      "he": "אחר כך",
+      "note": "Hasta luego is the everyday goodbye.",
+      "ex": [
+        {"tag": "later", "es": "Te llamo luego.", "en": "I'll call you later."},
+        {"tag": "next", "es": "Primero comemos y luego salimos.", "en": "First we eat and then we go out."}
+      ]
+    },
+    {
+      "es": "siempre", "pos": "adv.", "en": "always",
+      "ex": [
+        {"es": "Siempre olvida las llaves.", "en": "He always forgets his keys."}
+      ]
+    },
+    {
+      "es": "nunca", "pos": "adv.", "en": "never",
+      "note": "After the verb it needs a no in front of it: no voy nunca. Before the verb it stands alone: nunca voy.",
+      "ex": [
+        {"es": "Nunca he estado en México.", "en": "I've never been to Mexico."}
+      ]
+    },
+    {
+      "es": "temprano", "pos": "adv.", "en": "early",
+      "ex": [
+        {"es": "Me levanto temprano entre semana.", "en": "I get up early on weekdays."}
+      ]
+    },
+    {
+      "es": "todavía", "pos": "adv.", "en": "still; (with no) yet",
+      "he": "עדיין",
+      "note": "Interchangeable with aún in most sentences.",
+      "ex": [
+        {"tag": "still", "es": "Todavía vive con sus padres.", "en": "He still lives with his parents."},
+        {"tag": "yet", "es": "Todavía no está listo.", "en": "It isn't ready yet."}
+      ]
+    },
+    {
+      "es": "mientras", "pos": "conj.", "en": "while, meanwhile",
+      "ex": [
+        {"es": "Lee el periódico mientras desayuna.", "en": "He reads the paper while he has breakfast."}
+      ]
+    }
+  ]
+}

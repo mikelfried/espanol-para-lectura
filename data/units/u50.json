@@ -1,0 +1,359 @@
+{
+  "id": "u50",
+  "title": "Last words: the useful remainder",
+  "intro": "The final twenty: words too frequent to leave out that belong to no theme. The first entry is the best illustration in the book of gender carrying meaning — el orden and la orden are different words.",
+  "entries": [
+    {
+      "es": "el orden · la orden",
+      "pos": "n.",
+      "en": "order, sequence; order, command",
+      "he": "סדר / פקודה",
+      "warn": "The gender changes the meaning outright. el orden is arrangement; la orden is an instruction, and also a religious order. Getting it wrong turns tidiness into a command.",
+      "ex": [
+        {
+          "tag": "sequence",
+          "es": "Los nombres están en orden alfabético.",
+          "en": "The names are in alphabetical order."
+        },
+        {
+          "tag": "command",
+          "es": "Cumplió la orden sin preguntar.",
+          "en": "He carried out the order without asking."
+        }
+      ]
+    },
+    {
+      "es": "el tipo",
+      "pos": "n.m.",
+      "en": "type, kind; guy, bloke",
+      "he": "סוג / בחור",
+      "note": "The second sense is informal and can be slightly dismissive.",
+      "ex": [
+        {
+          "tag": "type",
+          "es": "¿Qué tipo de música te gusta?",
+          "en": "What kind of music do you like?"
+        },
+        {
+          "tag": "guy",
+          "es": "Un tipo raro preguntó por ti.",
+          "en": "Some odd bloke asked after you."
+        }
+      ]
+    },
+    {
+      "es": "el punto",
+      "pos": "n.m.",
+      "en": "point; dot, full stop",
+      "note": "en punto means on the dot: a las tres en punto. estar a punto de is to be about to — see unit 49.",
+      "ex": [
+        {
+          "tag": "point",
+          "es": "Ése es el punto importante.",
+          "en": "That's the important point."
+        },
+        {
+          "tag": "full stop",
+          "es": "Falta un punto al final.",
+          "en": "There's a full stop missing at the end."
+        }
+      ]
+    },
+    {
+      "es": "la línea",
+      "pos": "n.f.",
+      "en": "line",
+      "note": "en línea means online; la línea aérea an airline.",
+      "ex": [
+        {
+          "es": "Firme sobre la línea.",
+          "en": "Sign on the line."
+        }
+      ]
+    },
+    {
+      "es": "la letra",
+      "pos": "n.f.",
+      "en": "letter (of the alphabet); handwriting; lyrics",
+      "he": "אות / כתב יד / מילים",
+      "note": "Not a letter you post — that is una carta (see unit 12).",
+      "ex": [
+        {
+          "tag": "letter",
+          "es": "Empieza con la letra ese.",
+          "en": "It starts with the letter S."
+        },
+        {
+          "tag": "handwriting",
+          "es": "Tiene muy buena letra.",
+          "en": "He has very good handwriting."
+        },
+        {
+          "tag": "lyrics",
+          "es": "No me acuerdo de la letra.",
+          "en": "I can't remember the lyrics."
+        }
+      ]
+    },
+    {
+      "es": "el grupo",
+      "pos": "n.m.",
+      "en": "group, band; class",
+      "note": "See unit 33 for bands, unit 25 for school classes.",
+      "ex": [
+        {
+          "tag": "group",
+          "es": "Vinieron en grupo.",
+          "en": "They came as a group."
+        },
+        {
+          "tag": "class",
+          "es": "Estoy en el grupo de la tarde.",
+          "en": "I'm in the afternoon class."
+        }
+      ]
+    },
+    {
+      "es": "el fondo",
+      "pos": "n.m.",
+      "en": "bottom, back; background; fund",
+      "he": "תחתית / רקע / קרן",
+      "note": "al fondo means at the back or at the far end. en el fondo means deep down.",
+      "ex": [
+        {
+          "tag": "back",
+          "es": "El baño está al fondo.",
+          "en": "The bathroom is at the back."
+        },
+        {
+          "tag": "background",
+          "es": "Se oía música de fondo.",
+          "en": "There was music in the background."
+        },
+        {
+          "tag": "fund",
+          "es": "Crearon un fondo para becas.",
+          "en": "They set up a fund for scholarships."
+        }
+      ]
+    },
+    {
+      "es": "el nivel",
+      "pos": "n.m.",
+      "en": "level, standard",
+      "note": "el nivel del mar is sea level; a nivel de at the level of.",
+      "ex": [
+        {
+          "es": "Su nivel de español es muy alto.",
+          "en": "Her level of Spanish is very high."
+        }
+      ]
+    },
+    {
+      "es": "la edad",
+      "pos": "n.f.",
+      "en": "age",
+      "note": "¿Qué edad tienes? is the formal way to ask; ¿cuántos años tienes? the everyday one.",
+      "ex": [
+        {
+          "es": "Está muy bien para su edad.",
+          "en": "He's in very good shape for his age."
+        }
+      ]
+    },
+    {
+      "es": "la marca",
+      "pos": "n.f.",
+      "en": "brand, make; mark",
+      "he": "מותג / סימן",
+      "ex": [
+        {
+          "tag": "brand",
+          "es": "¿De qué marca es tu carro?",
+          "en": "What make is your car?"
+        },
+        {
+          "tag": "mark",
+          "es": "Dejó una marca en la mesa.",
+          "en": "It left a mark on the table."
+        }
+      ]
+    },
+    {
+      "es": "el gusto",
+      "pos": "n.m.",
+      "en": "taste; liking, pleasure",
+      "note": "mucho gusto is nice to meet you — see unit 5. con gusto means gladly.",
+      "ex": [
+        {
+          "tag": "taste",
+          "es": "Tiene buen gusto para la ropa.",
+          "en": "She has good taste in clothes."
+        },
+        {
+          "tag": "pleasure",
+          "es": "Fue un gusto conocerte.",
+          "en": "It was a pleasure to meet you."
+        }
+      ]
+    },
+    {
+      "es": "el consejo",
+      "pos": "n.m.",
+      "en": "advice; council",
+      "he": "עצה / מועצה",
+      "note": "Countable, unlike English advice: un consejo, dos consejos. aconsejar is to advise.",
+      "ex": [
+        {
+          "tag": "advice",
+          "es": "¿Me das un consejo?",
+          "en": "Can you give me some advice?"
+        },
+        {
+          "tag": "council",
+          "es": "El consejo se reúne el lunes.",
+          "en": "The council meets on Monday."
+        }
+      ]
+    },
+    {
+      "es": "el esfuerzo",
+      "pos": "n.m.",
+      "en": "effort",
+      "note": "hacer un esfuerzo is to make an effort; esforzarse to make an effort oneself.",
+      "ex": [
+        {
+          "es": "Valoro mucho tu esfuerzo.",
+          "en": "I really appreciate your effort."
+        }
+      ]
+    },
+    {
+      "es": "el riesgo",
+      "pos": "n.m.",
+      "en": "risk",
+      "note": "correr un riesgo is to run a risk; arriesgar to risk.",
+      "ex": [
+        {
+          "es": "No vale el riesgo.",
+          "en": "It isn't worth the risk."
+        }
+      ]
+    },
+    {
+      "es": "el apoyo",
+      "pos": "n.m.",
+      "en": "support, backing",
+      "note": "apoyar is to support, both a cause and physically leaning something.",
+      "ex": [
+        {
+          "es": "Contamos con el apoyo de todos.",
+          "en": "We have everyone's support."
+        }
+      ]
+    },
+    {
+      "es": "la falta",
+      "pos": "n.f.",
+      "en": "lack, absence; mistake; foul",
+      "he": "חוסר / שגיאה / עבירה",
+      "note": "hacer falta is to be needed — see unit 40. por falta de means for want of.",
+      "ex": [
+        {
+          "tag": "lack",
+          "es": "Se canceló por falta de dinero.",
+          "en": "It was cancelled for lack of money."
+        },
+        {
+          "tag": "mistake",
+          "es": "Tiene tres faltas de ortografía.",
+          "en": "It has three spelling mistakes."
+        },
+        {
+          "tag": "foul",
+          "es": "El árbitro marcó falta.",
+          "en": "The referee called a foul."
+        }
+      ]
+    },
+    {
+      "es": "la ventaja · la desventaja",
+      "pos": "n.f.",
+      "en": "advantage; disadvantage",
+      "note": "llevar ventaja is to be ahead.",
+      "ex": [
+        {
+          "tag": "advantage",
+          "es": "Tiene la ventaja de estar cerca.",
+          "en": "It has the advantage of being close."
+        },
+        {
+          "tag": "disadvantage",
+          "es": "La única desventaja es el precio.",
+          "en": "The only disadvantage is the price."
+        }
+      ]
+    },
+    {
+      "es": "el paso",
+      "pos": "n.m.",
+      "en": "step; way through, passage",
+      "he": "צעד / מעבר",
+      "note": "paso a paso is step by step. Prohibido el paso means no entry.",
+      "ex": [
+        {
+          "tag": "step",
+          "es": "Es un paso importante.",
+          "en": "It's an important step."
+        },
+        {
+          "tag": "passage",
+          "es": "Los árboles bloqueaban el paso.",
+          "en": "The trees blocked the way through."
+        }
+      ]
+    },
+    {
+      "es": "la vuelta",
+      "pos": "n.f.",
+      "en": "return; turn, lap; change (money)",
+      "he": "חזרה / סיבוב / עודף",
+      "note": "dar la vuelta is to turn round or to go round. In Mexico la vuelta is also your change.",
+      "ex": [
+        {
+          "tag": "return",
+          "es": "A la vuelta te cuento.",
+          "en": "I'll tell you when I get back."
+        },
+        {
+          "tag": "lap",
+          "es": "Dio dos vueltas a la plaza.",
+          "en": "He went twice round the square."
+        },
+        {
+          "tag": "change",
+          "es": "Quédese con la vuelta.",
+          "en": "Keep the change."
+        }
+      ]
+    },
+    {
+      "es": "la meta · el objetivo",
+      "pos": "n.",
+      "en": "goal, aim; finish line",
+      "note": "la meta is the finish line in a race, and a goal in life. el objetivo is also a camera lens.",
+      "ex": [
+        {
+          "tag": "goal",
+          "es": "Cumplimos el objetivo del año.",
+          "en": "We met the year's target."
+        },
+        {
+          "tag": "finish line",
+          "es": "Cruzó la meta primero.",
+          "en": "He crossed the finish line first."
+        }
+      ]
+    }
+  ]
+}

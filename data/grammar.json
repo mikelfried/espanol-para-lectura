@@ -1,0 +1,336 @@
+{
+  "title": "The words a gloss cannot teach",
+  "intro": "These sit in the top 50 of every Spanish frequency list, and every one of them is a piece of grammar wearing the costume of a word. Read this section before the units; come back to it whenever a sentence refuses to parse.",
+  "items": [
+    {
+      "word": "que",
+      "gloss": "that · which · who · than",
+      "he": "ש- / אשר / מ- (בהשוואה)",
+      "senses": [
+        {
+          "label": "joins clauses",
+          "text": "Links a second clause to the first. English often drops it; Spanish never does.",
+          "ex": [
+            {"es": "Creo que tiene razón.", "en": "I think (that) he's right."},
+            {"es": "Dice que no viene.", "en": "She says she isn't coming."}
+          ]
+        },
+        {
+          "label": "relative pronoun",
+          "text": "Covers English that, which, who and whom all at once, for people and things alike.",
+          "ex": [
+            {"es": "La mujer que trabaja aquí es mi hermana.", "en": "The woman who works here is my sister."},
+            {"es": "El libro que leí era corto.", "en": "The book I read was short."}
+          ]
+        },
+        {
+          "label": "than",
+          "text": "After más or menos it forms the comparison.",
+          "ex": [
+            {"es": "Es más caro que el otro.", "en": "It's more expensive than the other one."}
+          ]
+        }
+      ],
+      "pitfall": "With an accent, qué is the question word what. ¿Qué dices? = What are you saying? Que dices = that you say. The accent is the entire difference."
+    },
+    {
+      "word": "de",
+      "gloss": "of · from · made of",
+      "senses": [
+        {
+          "label": "possession",
+          "text": "Spanish has no apostrophe-s. Ownership is built backwards with de.",
+          "ex": [
+            {"es": "el carro de mi padre", "en": "my father's car"}
+          ]
+        },
+        {
+          "label": "origin, material, topic",
+          "text": "Where something is from, what it is made of, what it is about.",
+          "ex": [
+            {"es": "Soy de Israel.", "en": "I'm from Israel."},
+            {"es": "una mesa de madera", "en": "a wooden table"}
+          ]
+        }
+      ],
+      "pitfall": "de + el always contracts to del. Never write de el. The same happens with a + el = al."
+    },
+    {
+      "word": "se",
+      "gloss": "himself · herself · itself · one · each other",
+      "he": "ממלא תפקיד של התפעל / נפעל / סתמי",
+      "senses": [
+        {
+          "label": "reflexive",
+          "text": "The action returns to the subject. Closest to the Hebrew hitpa'el.",
+          "ex": [
+            {"es": "Mi hijo se lava las manos.", "en": "My son washes his hands."}
+          ]
+        },
+        {
+          "label": "reciprocal",
+          "text": "Two or more people doing it to each other.",
+          "ex": [
+            {"es": "Se conocieron en la escuela.", "en": "They met each other at school."}
+          ]
+        },
+        {
+          "label": "impersonal / passive",
+          "text": "No named actor at all. Where English says one, you, or a passive, Spanish says se. Extremely common on signs.",
+          "ex": [
+            {"es": "Aquí se habla español.", "en": "Spanish is spoken here."},
+            {"es": "¿Cómo se dice esto?", "en": "How do you say this?"}
+          ]
+        }
+      ],
+      "pitfall": "A fourth se exists purely for sound: le or les becomes se before lo/la/los/las. Se lo di, never le lo di."
+    },
+    {
+      "word": "lo",
+      "gloss": "it · him · the abstract one",
+      "he": "אותו / הדבר ה-",
+      "senses": [
+        {
+          "label": "object pronoun",
+          "text": "Stands for a masculine thing or person already mentioned, and goes before the verb.",
+          "ex": [
+            {"es": "¿El informe? Ya lo terminé.", "en": "The report? I already finished it."}
+          ]
+        },
+        {
+          "label": "makes a noun from an adjective",
+          "text": "lo + adjective names the quality itself. There is no English one-word equivalent.",
+          "ex": [
+            {"es": "Lo importante es empezar.", "en": "The important thing is to start."},
+            {"es": "Eso es lo malo.", "en": "That's the bad part."}
+          ]
+        },
+        {
+          "label": "lo que",
+          "text": "what, in the sense of the thing which.",
+          "ex": [
+            {"es": "No entiendo lo que quieres.", "en": "I don't understand what you want."}
+          ]
+        }
+      ],
+      "pitfall": "lo is not the masculine of la in the article sense. The article is el. lo never precedes a normal noun."
+    },
+    {
+      "word": "por",
+      "gloss": "because of · through · by · per",
+      "he": "בשל / דרך / על ידי",
+      "senses": [
+        {
+          "label": "cause, motive",
+          "text": "The reason behind an action. Looks backwards, at what made it happen.",
+          "ex": [
+            {"es": "Lo hice por ti.", "en": "I did it because of you / for your sake."},
+            {"es": "Gracias por la ayuda.", "en": "Thanks for the help."}
+          ]
+        },
+        {
+          "label": "movement through, duration",
+          "text": "Passing along or across, or how long something lasts.",
+          "ex": [
+            {"es": "Caminamos por el parque.", "en": "We walked through the park."},
+            {"es": "Estudió por dos horas.", "en": "He studied for two hours."}
+          ]
+        },
+        {
+          "label": "agent and rate",
+          "text": "The doer in a passive, and prices or rates.",
+          "ex": [
+            {"es": "Fue escrito por un niño.", "en": "It was written by a child."},
+            {"es": "cien pesos por kilo", "en": "a hundred pesos per kilo"}
+          ]
+        }
+      ],
+      "pitfall": "See para below. If you can substitute in order to, you need para; if you can substitute because of, you need por."
+    },
+    {
+      "word": "para",
+      "gloss": "in order to · for (a recipient) · by (a deadline)",
+      "he": "כדי ל- / עבור / עד",
+      "senses": [
+        {
+          "label": "purpose, goal",
+          "text": "Looks forwards, at what the action aims at. Followed by an infinitive.",
+          "ex": [
+            {"es": "Estudio para aprender.", "en": "I study in order to learn."}
+          ]
+        },
+        {
+          "label": "recipient, destination",
+          "text": "Who or where something is headed.",
+          "ex": [
+            {"es": "Esta carta es para ti.", "en": "This letter is for you."},
+            {"es": "Salimos para Madrid mañana.", "en": "We leave for Madrid tomorrow."}
+          ]
+        },
+        {
+          "label": "deadline",
+          "text": "The point by which something must be done.",
+          "ex": [
+            {"es": "Lo necesito para el viernes.", "en": "I need it by Friday."}
+          ]
+        }
+      ],
+      "pitfall": "Trabajo para Ana = Ana is my boss. Trabajo por Ana = I'm covering her shift. One preposition, two very different employment situations."
+    },
+    {
+      "word": "a",
+      "gloss": "to · at · the personal a",
+      "senses": [
+        {
+          "label": "direction, time",
+          "text": "Motion towards something, or a clock time.",
+          "ex": [
+            {"es": "Vamos a la playa a las ocho.", "en": "We're going to the beach at eight."}
+          ]
+        },
+        {
+          "label": "the personal a",
+          "text": "When the direct object is a specific person, Spanish inserts an a that English has no equivalent for. Skipping it is the single most recognisable foreigner mistake.",
+          "ex": [
+            {"es": "Veo a María.", "en": "I see María."},
+            {"es": "Veo la casa.", "en": "I see the house. (no a — not a person)"}
+          ]
+        }
+      ],
+      "pitfall": "a + el contracts to al. Voy al banco."
+    },
+    {
+      "word": "no",
+      "gloss": "no · not",
+      "senses": [
+        {
+          "label": "negates the verb",
+          "text": "Always immediately before the verb, and before any object pronouns attached to it.",
+          "ex": [
+            {"es": "No lo sé.", "en": "I don't know."}
+          ]
+        },
+        {
+          "label": "double negatives are correct",
+          "text": "Unlike English, Spanish requires the second negative. Nada, nadie and nunca after the verb still need no in front of it.",
+          "ex": [
+            {"es": "No veo nada.", "en": "I don't see anything."},
+            {"es": "No viene nadie.", "en": "Nobody is coming."}
+          ]
+        }
+      ]
+    },
+    {
+      "word": "ya",
+      "gloss": "already · now · anymore",
+      "he": "כבר / עכשיו / יותר (בשלילה)",
+      "senses": [
+        {
+          "label": "already",
+          "text": "The thing has happened, sooner than expected.",
+          "ex": [
+            {"es": "Ya comimos.", "en": "We already ate."}
+          ]
+        },
+        {
+          "label": "ya no — not anymore",
+          "text": "Marks a state that has ended.",
+          "ex": [
+            {"es": "Ya no vivo allí.", "en": "I don't live there anymore."}
+          ]
+        },
+        {
+          "label": "now, right away",
+          "text": "In commands and answers it means immediately.",
+          "ex": [
+            {"es": "¡Ya voy!", "en": "I'm coming, right now!"}
+          ]
+        }
+      ]
+    },
+    {
+      "word": "más / menos",
+      "gloss": "more, most / less, fewer",
+      "senses": [
+        {
+          "label": "comparison",
+          "text": "más or menos + adjective + que. Spanish has no -er ending.",
+          "ex": [
+            {"es": "Este camino es más corto.", "en": "This road is shorter."},
+            {"es": "Hoy hay menos gente que ayer.", "en": "There are fewer people today than yesterday."}
+          ]
+        },
+        {
+          "label": "superlative",
+          "text": "Add the article: el/la/los/las más.",
+          "ex": [
+            {"es": "Es la ciudad más grande del país.", "en": "It's the biggest city in the country."}
+          ]
+        }
+      ],
+      "pitfall": "Four comparatives are irregular and refuse más: mejor (better), peor (worse), mayor (older/greater), menor (younger/lesser)."
+    },
+    {
+      "word": "si / sí",
+      "gloss": "if / yes",
+      "senses": [
+        {
+          "label": "si — if",
+          "text": "Introduces a condition. No accent.",
+          "ex": [
+            {"es": "Si llueve, nos quedamos.", "en": "If it rains, we'll stay."}
+          ]
+        },
+        {
+          "label": "sí — yes",
+          "text": "With accent. Also used to stress a verb, the way English stresses with does.",
+          "ex": [
+            {"es": "Sí entiendo, pero no estoy de acuerdo.", "en": "I do understand, but I don't agree."}
+          ]
+        }
+      ]
+    },
+    {
+      "word": "pero / sino",
+      "gloss": "but / but rather",
+      "he": "אבל / אלא",
+      "senses": [
+        {
+          "label": "pero",
+          "text": "The ordinary but, adding a contrasting fact.",
+          "ex": [
+            {"es": "Es caro pero vale la pena.", "en": "It's expensive but it's worth it."}
+          ]
+        },
+        {
+          "label": "sino",
+          "text": "Only after a negative, to correct it: not X but Y. Hebrew אלא maps onto it exactly.",
+          "ex": [
+            {"es": "No es azul sino verde.", "en": "It isn't blue but green."}
+          ]
+        }
+      ]
+    },
+    {
+      "word": "mismo",
+      "gloss": "same · -self · very",
+      "senses": [
+        {
+          "label": "the same",
+          "text": "Before the noun, with the article.",
+          "ex": [
+            {"es": "Tomamos el mismo tren.", "en": "We took the same train."}
+          ]
+        },
+        {
+          "label": "intensifier",
+          "text": "After a pronoun or adverb it means exactly, -self, right there.",
+          "ex": [
+            {"es": "Lo hizo ella misma.", "en": "She did it herself."},
+            {"es": "Aquí mismo.", "en": "Right here."}
+          ]
+        }
+      ]
+    }
+  ]
+}

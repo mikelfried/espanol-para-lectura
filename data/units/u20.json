@@ -1,0 +1,161 @@
+{
+  "id": "u20",
+  "title": "Feelings and states",
+  "intro": "Nearly everything here takes estar, not ser, because a feeling is a state and not an identity. The exception is ser + adjective for a lasting trait: es nervioso means he is a nervous sort, está nervioso means he is nervous right now.",
+  "entries": [
+    {
+      "es": "feliz", "pos": "adj.", "en": "happy",
+      "note": "Plural felices. Used of a settled happiness; contento is the everyday word for pleased.",
+      "ex": [
+        {"es": "Nunca la había visto tan feliz.", "en": "I'd never seen her so happy."}
+      ]
+    },
+    {
+      "es": "contento", "pos": "adj.", "en": "pleased, glad, content",
+      "note": "Always with estar. The commonest reply to ¿cómo estás?",
+      "ex": [
+        {"es": "Estoy contento con el resultado.", "en": "I'm pleased with the result."}
+      ]
+    },
+    {
+      "es": "triste", "pos": "adj.", "en": "sad",
+      "note": "la tristeza is sadness.",
+      "ex": [
+        {"es": "Se puso triste al leer la carta.", "en": "He grew sad reading the letter."}
+      ]
+    },
+    {
+      "es": "enojado", "pos": "adj.", "en": "angry, cross",
+      "note": "enojado in Latin America, enfadado in Spain. enojarse is to get angry.",
+      "ex": [
+        {"es": "Está enojada conmigo.", "en": "She's angry with me."}
+      ]
+    },
+    {
+      "es": "el miedo", "pos": "n.m.", "en": "fear",
+      "he": "פחד",
+      "note": "You have fear rather than being afraid: tengo miedo. dar miedo is to frighten.",
+      "ex": [
+        {"es": "Le da miedo volar.", "en": "Flying frightens him."}
+      ]
+    },
+    {
+      "es": "nervioso", "pos": "adj.", "en": "nervous, anxious",
+      "ex": [
+        {"es": "Me pongo nervioso antes de hablar.", "en": "I get nervous before speaking."}
+      ]
+    },
+    {
+      "es": "tranquilo", "pos": "adj.", "en": "calm, quiet; don't worry",
+      "he": "רגוע / שקט",
+      "note": "¡Tranquilo! on its own means take it easy.",
+      "ex": [
+        {"tag": "calm", "es": "Es un barrio muy tranquilo.", "en": "It's a very quiet neighbourhood."},
+        {"tag": "reassurance", "es": "Tranquila, ya lo arreglé.", "en": "Don't worry, I've already fixed it."}
+      ]
+    },
+    {
+      "es": "preocupado", "pos": "adj.", "en": "worried",
+      "note": "preocuparse por is to worry about.",
+      "ex": [
+        {"es": "Están preocupados por su hijo.", "en": "They're worried about their son."}
+      ]
+    },
+    {
+      "es": "el amor", "pos": "n.m.", "en": "love",
+      "note": "enamorarse de is to fall in love with.",
+      "ex": [
+        {"es": "Se casaron por amor.", "en": "They married for love."}
+      ]
+    },
+    {
+      "es": "odiar", "pos": "v.", "en": "to hate",
+      "note": "el odio is hatred. Strong — for milder dislike use no me gusta nada.",
+      "ex": [
+        {"es": "Odio levantarme temprano.", "en": "I hate getting up early."}
+      ]
+    },
+    {
+      "es": "gustar", "pos": "v.", "en": "to be pleasing, to like",
+      "he": "למצוא חן / לאהוב",
+      "note": "Built backwards: the thing liked is the subject. Me gusta el café is literally coffee pleases me. Plural things take gustan.",
+      "conj": {"label": "pres.", "forms": ["me gusta", "te gusta", "le gusta", "nos gusta", "les gusta"]},
+      "ex": [
+        {"es": "Me gusta esta canción.", "en": "I like this song."},
+        {"es": "No les gustan los perros.", "en": "They don't like dogs."}
+      ]
+    },
+    {
+      "es": "encantar", "pos": "v.", "en": "to love, to delight",
+      "note": "Works exactly like gustar but stronger: me encanta is I love it. Never me encanta mucho.",
+      "ex": [
+        {"es": "Me encanta cocinar los domingos.", "en": "I love cooking on Sundays."}
+      ]
+    },
+    {
+      "es": "reír", "pos": "v. irr.", "en": "to laugh",
+      "note": "Usually reflexive with de: reírse de algo, to laugh at something. la risa is laughter.",
+      "conj": {"label": "pres.", "forms": ["río", "ríes", "ríe", "reímos", "ríen"]},
+      "ex": [
+        {"es": "Nos reímos toda la noche.", "en": "We laughed all night."}
+      ]
+    },
+    {
+      "es": "llorar", "pos": "v.", "en": "to cry",
+      "note": "las lágrimas are tears.",
+      "ex": [
+        {"es": "El bebé lloró hasta dormirse.", "en": "The baby cried until it fell asleep."}
+      ]
+    },
+    {
+      "es": "sonreír", "pos": "v. irr.", "en": "to smile",
+      "note": "la sonrisa is a smile. Same pattern as reír.",
+      "ex": [
+        {"es": "Sonrió sin decir nada.", "en": "She smiled without saying anything."}
+      ]
+    },
+    {
+      "es": "la suerte", "pos": "n.f.", "en": "luck; fate",
+      "he": "מזל",
+      "note": "¡Buena suerte! is good luck. tener suerte is to be lucky.",
+      "ex": [
+        {"tag": "luck", "es": "Tuvimos mucha suerte con el clima.", "en": "We were very lucky with the weather."},
+        {"tag": "fate", "es": "Aceptó su suerte sin quejarse.", "en": "He accepted his fate without complaining."}
+      ]
+    },
+    {
+      "es": "la vergüenza", "pos": "n.f.", "en": "embarrassment, shame",
+      "he": "בושה",
+      "note": "dar vergüenza is to embarrass. Remember embarazada means pregnant, not embarrassed.",
+      "ex": [
+        {"es": "Me da vergüenza preguntar otra vez.", "en": "I'm embarrassed to ask again."}
+      ]
+    },
+    {
+      "es": "el ánimo", "pos": "n.m.", "en": "spirits, mood; encouragement",
+      "he": "מצב רוח / עידוד",
+      "note": "¡Ánimo! is cheer up or you can do it.",
+      "ex": [
+        {"tag": "mood", "es": "Hoy tiene mejor ánimo.", "en": "He's in better spirits today."},
+        {"tag": "encouragement", "es": "¡Ánimo, ya casi terminas!", "en": "Come on, you're nearly finished!"}
+      ]
+    },
+    {
+      "es": "extrañar", "pos": "v.", "en": "to miss (someone); to find strange",
+      "he": "להתגעגע",
+      "note": "extrañar in Latin America; echar de menos in Spain.",
+      "ex": [
+        {"tag": "miss", "es": "Extraño mucho a mi familia.", "en": "I miss my family a lot."},
+        {"tag": "find strange", "es": "Me extraña que no haya llamado.", "en": "I find it strange that he hasn't called."}
+      ]
+    },
+    {
+      "es": "la ganas", "pos": "n.f.pl.", "en": "desire, urge, wanting to",
+      "he": "חשק",
+      "note": "tener ganas de + infinitive is to feel like doing something. Almost always plural.",
+      "ex": [
+        {"es": "No tengo ganas de salir hoy.", "en": "I don't feel like going out today."}
+      ]
+    }
+  ]
+}

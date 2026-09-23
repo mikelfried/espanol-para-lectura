@@ -1,0 +1,153 @@
+{
+  "id": "u19",
+  "title": "Inside the house: furniture and things",
+  "intro": "Read plate 1 alongside this unit, which names the rooms. These are the things inside them. Note that Spanish says la luz for both the light and the electricity.",
+  "entries": [
+    {
+      "es": "el mueble", "pos": "n.m.", "en": "piece of furniture",
+      "note": "los muebles is furniture collectively. English has no singular for it; Spanish does.",
+      "ex": [
+        {"es": "Compramos los muebles de segunda mano.", "en": "We bought the furniture second-hand."}
+      ]
+    },
+    {
+      "es": "la cama", "pos": "n.f.", "en": "bed",
+      "note": "hacer la cama is to make the bed; irse a la cama to go to bed.",
+      "ex": [
+        {"es": "La cama es demasiado blanda.", "en": "The bed is too soft."}
+      ]
+    },
+    {
+      "es": "la almohada", "pos": "n.f.", "en": "pillow",
+      "note": "la sábana is a sheet; la manta or la cobija a blanket.",
+      "ex": [
+        {"es": "Necesito otra almohada.", "en": "I need another pillow."}
+      ]
+    },
+    {
+      "es": "el sillón", "pos": "n.m.", "en": "armchair",
+      "note": "el sofá is the sofa, and is masculine despite the -a.",
+      "ex": [
+        {"es": "Se quedó dormido en el sillón.", "en": "He fell asleep in the armchair."}
+      ]
+    },
+    {
+      "es": "el armario", "pos": "n.m.", "en": "wardrobe, cupboard",
+      "note": "el clóset in much of Latin America; el ropero for clothes specifically.",
+      "ex": [
+        {"es": "Cuelga la camisa en el armario.", "en": "Hang the shirt in the wardrobe."}
+      ]
+    },
+    {
+      "es": "el cajón", "pos": "n.m.", "en": "drawer",
+      "note": "Plural cajones. la caja is a box, and also the till in a shop.",
+      "ex": [
+        {"es": "Las llaves están en el primer cajón.", "en": "The keys are in the top drawer."}
+      ]
+    },
+    {
+      "es": "el estante", "pos": "n.m.", "en": "shelf",
+      "note": "la estantería is the whole bookcase; el librero too in Mexico.",
+      "ex": [
+        {"es": "Puse los libros en el estante de arriba.", "en": "I put the books on the top shelf."}
+      ]
+    },
+    {
+      "es": "la lámpara", "pos": "n.f.", "en": "lamp",
+      "ex": [
+        {"es": "Enciende la lámpara, no veo nada.", "en": "Turn the lamp on, I can't see a thing."}
+      ]
+    },
+    {
+      "es": "la luz", "pos": "n.f.", "en": "light; electricity, power",
+      "he": "אור / חשמל",
+      "note": "Plural luces. Se fue la luz means the power went out.",
+      "ex": [
+        {"tag": "light", "es": "Apaga la luz al salir.", "en": "Turn the light off when you leave."},
+        {"tag": "power", "es": "Se fue la luz en todo el barrio.", "en": "The power went out in the whole neighbourhood."}
+      ]
+    },
+    {
+      "es": "el espejo", "pos": "n.m.", "en": "mirror",
+      "ex": [
+        {"es": "Se miró en el espejo.", "en": "She looked at herself in the mirror."}
+      ]
+    },
+    {
+      "es": "la alfombra", "pos": "n.f.", "en": "rug, carpet",
+      "ex": [
+        {"es": "La alfombra está manchada.", "en": "The rug is stained."}
+      ]
+    },
+    {
+      "es": "la cortina", "pos": "n.f.", "en": "curtain",
+      "ex": [
+        {"es": "Abre las cortinas, entra sol.", "en": "Open the curtains, the sun's coming in."}
+      ]
+    },
+    {
+      "es": "el piso", "pos": "n.m.", "en": "floor (surface); storey, floor (level)",
+      "he": "רצפה / קומה",
+      "note": "In Spain un piso is also a flat. el suelo is the ground or floor surface.",
+      "ex": [
+        {"tag": "surface", "es": "El piso está mojado.", "en": "The floor is wet."},
+        {"tag": "storey", "es": "Vivimos en el tercer piso.", "en": "We live on the third floor."}
+      ]
+    },
+    {
+      "es": "la escalera", "pos": "n.f.", "en": "stairs, staircase; ladder",
+      "he": "מדרגות / סולם",
+      "note": "Often plural for stairs: las escaleras.",
+      "ex": [
+        {"tag": "stairs", "es": "Subimos por la escalera.", "en": "We went up the stairs."},
+        {"tag": "ladder", "es": "Trae la escalera para el techo.", "en": "Bring the ladder for the ceiling."}
+      ]
+    },
+    {
+      "es": "la llave", "pos": "n.f.", "en": "key; tap, faucet",
+      "he": "מפתח / ברז",
+      "note": "In Spain the tap is el grifo; llave de agua in Latin America.",
+      "ex": [
+        {"tag": "key", "es": "Olvidé las llaves dentro.", "en": "I left the keys inside."},
+        {"tag": "tap", "es": "Cierra bien la llave.", "en": "Turn the tap off properly."}
+      ]
+    },
+    {
+      "es": "el jabón", "pos": "n.m.", "en": "soap",
+      "note": "la toalla is a towel; el cepillo de dientes a toothbrush.",
+      "ex": [
+        {"es": "Se acabó el jabón.", "en": "We're out of soap."}
+      ]
+    },
+    {
+      "es": "la basura", "pos": "n.f.", "en": "rubbish, garbage; bin",
+      "note": "sacar la basura is to take the rubbish out.",
+      "ex": [
+        {"tag": "rubbish", "es": "Tira eso a la basura.", "en": "Throw that in the bin."},
+        {"tag": "bin", "es": "La basura está llena.", "en": "The bin is full."}
+      ]
+    },
+    {
+      "es": "limpiar", "pos": "v.", "en": "to clean",
+      "note": "hacer la limpieza is to do the cleaning; barrer to sweep.",
+      "ex": [
+        {"es": "Limpio la cocina los domingos.", "en": "I clean the kitchen on Sundays."}
+      ]
+    },
+    {
+      "es": "lavar", "pos": "v.", "en": "to wash",
+      "note": "Reflexive lavarse for washing yourself: me lavo las manos.",
+      "ex": [
+        {"es": "Hay que lavar los platos.", "en": "The dishes need washing."}
+      ]
+    },
+    {
+      "es": "cómodo", "pos": "adj.", "en": "comfortable; convenient",
+      "he": "נוח",
+      "ex": [
+        {"tag": "comfortable", "es": "Este sillón es muy cómodo.", "en": "This armchair is very comfortable."},
+        {"tag": "convenient", "es": "Es más cómodo pagar en línea.", "en": "It's more convenient to pay online."}
+      ]
+    }
+  ]
+}

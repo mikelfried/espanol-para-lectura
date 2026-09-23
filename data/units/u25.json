@@ -1,0 +1,158 @@
+{
+  "id": "u25",
+  "title": "School and studying",
+  "intro": "Watch two traps: la librería is a bookshop and the library is la biblioteca, and el colegio is a school, not a college. University is la universidad.",
+  "entries": [
+    {
+      "es": "la escuela · el colegio", "pos": "n.", "en": "school",
+      "warn": "el colegio is not a college. Higher education is la universidad, and a university course is una carrera.",
+      "ex": [
+        {"es": "Los niños salen del colegio a las dos.", "en": "The children leave school at two."}
+      ]
+    },
+    {
+      "es": "la universidad", "pos": "n.f.", "en": "university",
+      "note": "la facultad is the faculty or department you actually attend.",
+      "ex": [
+        {"es": "Estudia en la universidad pública.", "en": "She studies at the state university."}
+      ]
+    },
+    {
+      "es": "el alumno / la alumna", "pos": "n.", "en": "pupil, student",
+      "note": "el estudiante is used at any level and has one form for both sexes.",
+      "ex": [
+        {"es": "Hay treinta alumnos en el grupo.", "en": "There are thirty pupils in the class."}
+      ]
+    },
+    {
+      "es": "la clase", "pos": "n.f.", "en": "class, lesson; kind, type; classroom",
+      "he": "שיעור / סוג",
+      "note": "toda clase de means all kinds of.",
+      "ex": [
+        {"tag": "lesson", "es": "La clase empieza a las nueve.", "en": "The lesson starts at nine."},
+        {"tag": "kind", "es": "Vende toda clase de herramientas.", "en": "He sells all kinds of tools."},
+        {"tag": "classroom", "es": "Nos vemos en la clase de al lado.", "en": "See you in the next classroom."}
+      ]
+    },
+    {
+      "es": "el libro", "pos": "n.m.", "en": "book",
+      "note": "la librería is a bookshop; la biblioteca the library. A classic false friend.",
+      "ex": [
+        {"es": "Me presta el libro cuando lo termine.", "en": "He'll lend me the book when he finishes it."}
+      ]
+    },
+    {
+      "es": "el cuaderno", "pos": "n.m.", "en": "notebook, exercise book",
+      "ex": [
+        {"es": "Apúntalo en el cuaderno.", "en": "Write it down in your notebook."}
+      ]
+    },
+    {
+      "es": "el papel", "pos": "n.m.", "en": "paper; role, part",
+      "he": "נייר / תפקיד",
+      "note": "hacer el papel de is to play the part of.",
+      "ex": [
+        {"tag": "paper", "es": "Necesito una hoja de papel.", "en": "I need a sheet of paper."},
+        {"tag": "role", "es": "Jugó un papel importante.", "en": "He played an important role."}
+      ]
+    },
+    {
+      "es": "el lápiz", "pos": "n.m.", "en": "pencil",
+      "note": "Plural lápices. la pluma or el bolígrafo is a pen; la goma an eraser.",
+      "ex": [
+        {"es": "Escribe con lápiz, por si te equivocas.", "en": "Write in pencil, in case you make a mistake."}
+      ]
+    },
+    {
+      "es": "la tarea", "pos": "n.f.", "en": "homework; task",
+      "he": "שיעורי בית / מטלה",
+      "note": "hacer la tarea is to do your homework. los deberes in Spain.",
+      "ex": [
+        {"tag": "homework", "es": "¿Ya hiciste la tarea?", "en": "Have you done your homework?"},
+        {"tag": "task", "es": "Es una tarea difícil.", "en": "It's a difficult task."}
+      ]
+    },
+    {
+      "es": "el examen", "pos": "n.m.", "en": "exam, test",
+      "note": "Plural exámenes, which gains an accent. la prueba is a shorter test.",
+      "ex": [
+        {"es": "Aprobé el examen por poco.", "en": "I passed the exam by a whisker."}
+      ]
+    },
+    {
+      "es": "aprobar · reprobar", "pos": "v. irr.", "en": "to pass (an exam); to fail",
+      "note": "suspender is used for failing in Spain. aprobar also means to approve.",
+      "ex": [
+        {"tag": "pass", "es": "Aprobó con buena nota.", "en": "She passed with a good mark."},
+        {"tag": "fail", "es": "Reprobé química el año pasado.", "en": "I failed chemistry last year."}
+      ]
+    },
+    {
+      "es": "la nota", "pos": "n.f.", "en": "mark, grade; note",
+      "he": "ציון / פתק",
+      "ex": [
+        {"tag": "mark", "es": "Saqué buena nota en historia.", "en": "I got a good mark in history."},
+        {"tag": "note", "es": "Me dejó una nota en la mesa.", "en": "He left me a note on the table."}
+      ]
+    },
+    {
+      "es": "la pregunta", "pos": "n.f.", "en": "question",
+      "note": "hacer una pregunta is to ask a question — hacer, never preguntar una pregunta.",
+      "ex": [
+        {"es": "¿Puedo hacer una pregunta?", "en": "May I ask a question?"}
+      ]
+    },
+    {
+      "es": "la respuesta", "pos": "n.f.", "en": "answer, reply",
+      "ex": [
+        {"es": "Todavía espero su respuesta.", "en": "I'm still waiting for his answer."}
+      ]
+    },
+    {
+      "es": "la página", "pos": "n.f.", "en": "page",
+      "note": "Also a web page: la página web.",
+      "ex": [
+        {"es": "Abran el libro en la página treinta.", "en": "Open your books at page thirty."}
+      ]
+    },
+    {
+      "es": "el curso", "pos": "n.m.", "en": "course; school year",
+      "ex": [
+        {"tag": "course", "es": "Tomé un curso de fotografía.", "en": "I took a photography course."},
+        {"tag": "school year", "es": "El curso termina en junio.", "en": "The school year ends in June."}
+      ]
+    },
+    {
+      "es": "la materia", "pos": "n.f.", "en": "subject (of study); matter, material",
+      "he": "מקצוע / חומר",
+      "ex": [
+        {"tag": "subject", "es": "Mi materia favorita es la historia.", "en": "My favourite subject is history."},
+        {"tag": "matter", "es": "Es experto en la materia.", "en": "He's an expert on the subject."}
+      ]
+    },
+    {
+      "es": "la historia", "pos": "n.f.", "en": "history; story",
+      "he": "היסטוריה / סיפור",
+      "note": "One word for both, which English keeps apart.",
+      "ex": [
+        {"tag": "history", "es": "Estudió historia en México.", "en": "She studied history in Mexico."},
+        {"tag": "story", "es": "Cuéntame la historia completa.", "en": "Tell me the whole story."}
+      ]
+    },
+    {
+      "es": "las matemáticas", "pos": "n.f.pl.", "en": "mathematics",
+      "note": "Plural in Spanish. Shortened to mate or matemática in some countries.",
+      "ex": [
+        {"es": "Siempre fui malo en matemáticas.", "en": "I was always bad at maths."}
+      ]
+    },
+    {
+      "es": "practicar", "pos": "v.", "en": "to practise; to play (a sport)",
+      "he": "להתאמן / לשחק",
+      "ex": [
+        {"tag": "practise", "es": "Practico español todos los días.", "en": "I practise Spanish every day."},
+        {"tag": "play a sport", "es": "Practica natación dos veces por semana.", "en": "He swims twice a week."}
+      ]
+    }
+  ]
+}

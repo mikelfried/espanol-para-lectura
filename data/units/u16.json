@@ -1,0 +1,148 @@
+{
+  "id": "u16",
+  "title": "Days, months and dates",
+  "intro": "Days and months are never capitalised in Spanish. Dates run day-month-year and take de: el 5 de mayo de 2024. For the first of the month, primero rather than uno.",
+  "entries": [
+    {
+      "es": "el lunes", "pos": "n.m.", "en": "Monday",
+      "note": "Every day ends in -s and does not change in the plural: el lunes, los lunes. los lunes means on Mondays.",
+      "ex": [
+        {"es": "Los lunes trabajo desde casa.", "en": "On Mondays I work from home."}
+      ]
+    },
+    {
+      "es": "el martes · el miércoles", "pos": "n.m.", "en": "Tuesday, Wednesday",
+      "note": "miércoles carries an accent. martes trece is the unlucky day, not Friday the thirteenth.",
+      "ex": [
+        {"es": "El miércoles tengo cita con el dentista.", "en": "On Wednesday I have a dentist's appointment."}
+      ]
+    },
+    {
+      "es": "el jueves · el viernes", "pos": "n.m.", "en": "Thursday, Friday",
+      "ex": [
+        {"es": "Salimos el viernes en la noche.", "en": "We go out on Friday evening."}
+      ]
+    },
+    {
+      "es": "el sábado · el domingo", "pos": "n.m.", "en": "Saturday, Sunday",
+      "note": "The only two that take a plural -s: los sábados, los domingos.",
+      "ex": [
+        {"es": "El sábado fuimos al mercado.", "en": "On Saturday we went to the market."}
+      ]
+    },
+    {
+      "es": "el fin de semana", "pos": "n.m.", "en": "weekend",
+      "note": "Plural is los fines de semana — the first word changes, not the last.",
+      "ex": [
+        {"es": "¿Qué vas a hacer el fin de semana?", "en": "What are you doing at the weekend?"}
+      ]
+    },
+    {
+      "es": "enero · febrero · marzo", "pos": "n.m.", "en": "January, February, March",
+      "note": "Lower case, and normally with no article: en enero.",
+      "ex": [
+        {"es": "Nació en marzo de 1990.", "en": "He was born in March 1990."}
+      ]
+    },
+    {
+      "es": "abril · mayo · junio", "pos": "n.m.", "en": "April, May, June",
+      "ex": [
+        {"es": "Las clases terminan en junio.", "en": "Classes end in June."}
+      ]
+    },
+    {
+      "es": "julio · agosto · septiembre", "pos": "n.m.", "en": "July, August, September",
+      "ex": [
+        {"es": "En agosto cierra media ciudad.", "en": "Half the city closes in August."}
+      ]
+    },
+    {
+      "es": "octubre · noviembre · diciembre", "pos": "n.m.", "en": "October, November, December",
+      "ex": [
+        {"es": "Nos vemos en diciembre.", "en": "See you in December."}
+      ]
+    },
+    {
+      "es": "la fecha", "pos": "n.f.", "en": "date (calendar)",
+      "he": "תאריך",
+      "note": "Not a date with someone — that is una cita.",
+      "ex": [
+        {"es": "¿Cuál es la fecha de hoy?", "en": "What's today's date?"}
+      ]
+    },
+    {
+      "es": "el calendario", "pos": "n.m.", "en": "calendar",
+      "ex": [
+        {"es": "Apúntalo en el calendario.", "en": "Write it in the calendar."}
+      ]
+    },
+    {
+      "es": "el siglo", "pos": "n.m.", "en": "century",
+      "note": "Written with Roman numerals: el siglo XXI, read as el siglo veintiuno.",
+      "ex": [
+        {"es": "La catedral es del siglo XVI.", "en": "The cathedral is from the sixteenth century."}
+      ]
+    },
+    {
+      "es": "la época", "pos": "n.f.", "en": "time, period, era; season (of year)",
+      "he": "תקופה",
+      "ex": [
+        {"tag": "era", "es": "En esa época no había teléfonos.", "en": "In that era there were no telephones."},
+        {"tag": "season", "es": "Es la época de lluvias.", "en": "It's the rainy season."}
+      ]
+    },
+    {
+      "es": "próximo", "pos": "adj.", "en": "next; nearby",
+      "he": "הבא / קרוב",
+      "note": "la próxima semana is next week; la semana que viene means the same and is commoner in speech.",
+      "ex": [
+        {"tag": "next", "es": "El próximo martes hay examen.", "en": "Next Tuesday there's an exam."},
+        {"tag": "nearby", "es": "La estación más próxima está a un kilómetro.", "en": "The nearest station is a kilometre away."}
+      ]
+    },
+    {
+      "es": "pasado", "pos": "adj. / n.m.", "en": "last, past; the past",
+      "ex": [
+        {"tag": "last", "es": "El mes pasado llovió mucho.", "en": "Last month it rained a lot."},
+        {"tag": "the past", "es": "No quiere hablar del pasado.", "en": "He doesn't want to talk about the past."}
+      ]
+    },
+    {
+      "es": "el futuro", "pos": "n.m.", "en": "the future",
+      "note": "en el futuro for in future; de aquí en adelante for from now on.",
+      "ex": [
+        {"es": "En el futuro todo será distinto.", "en": "In the future everything will be different."}
+      ]
+    },
+    {
+      "es": "antes · después", "pos": "adv.", "en": "before; after, afterwards",
+      "note": "Both take de before a noun or infinitive: antes de comer, después de la clase.",
+      "ex": [
+        {"tag": "before", "es": "Llámame antes de salir.", "en": "Call me before you leave."},
+        {"tag": "after", "es": "Después hablamos.", "en": "We'll talk afterwards."}
+      ]
+    },
+    {
+      "es": "durante", "pos": "prep.", "en": "during, for (a length of time)",
+      "ex": [
+        {"es": "Estudió allí durante cuatro años.", "en": "He studied there for four years."}
+      ]
+    },
+    {
+      "es": "desde · hasta", "pos": "prep.", "en": "from, since; until, as far as",
+      "he": "מ- / עד",
+      "ex": [
+        {"tag": "since", "es": "Trabajo aquí desde marzo.", "en": "I've worked here since March."},
+        {"tag": "until", "es": "Esperamos hasta las nueve.", "en": "We waited until nine."}
+      ]
+    },
+    {
+      "es": "el rato", "pos": "n.m.", "en": "a while, a short time",
+      "he": "זמן קצר",
+      "note": "un rato is a bit; al rato means in a little while in Mexico.",
+      "ex": [
+        {"es": "Descansemos un rato.", "en": "Let's rest for a while."}
+      ]
+    }
+  ]
+}

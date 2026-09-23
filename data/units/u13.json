@@ -1,0 +1,146 @@
+{
+  "id": "u13",
+  "title": "Clothes and getting dressed",
+  "intro": "Spanish uses the singular where English often uses a plural: un pantalón is a pair of trousers. Clothes go on with ponerse and come off with quitarse, both reflexive.",
+  "entries": [
+    {
+      "es": "la ropa", "pos": "n.f.", "en": "clothes, clothing",
+      "he": "בגדים",
+      "note": "Singular and uncountable, so la ropa está sucia, never las ropas. Not rope — that is la cuerda.",
+      "ex": [
+        {"es": "Guarda la ropa en el armario.", "en": "Put the clothes away in the wardrobe."}
+      ]
+    },
+    {
+      "es": "la camisa", "pos": "n.f.", "en": "shirt",
+      "note": "la camiseta is a T-shirt or vest.",
+      "ex": [
+        {"es": "Lleva una camisa blanca.", "en": "He's wearing a white shirt."}
+      ]
+    },
+    {
+      "es": "el pantalón", "pos": "n.m.", "en": "trousers, pants",
+      "note": "Singular in Spanish. los pantalones is also heard and means the same thing.",
+      "ex": [
+        {"es": "Ese pantalón te queda grande.", "en": "Those trousers are too big for you."}
+      ]
+    },
+    {
+      "es": "el vestido", "pos": "n.m.", "en": "dress",
+      "ex": [
+        {"es": "Se compró un vestido para la boda.", "en": "She bought a dress for the wedding."}
+      ]
+    },
+    {
+      "es": "la falda", "pos": "n.f.", "en": "skirt",
+      "ex": [
+        {"es": "La falda es demasiado corta para la oficina.", "en": "The skirt is too short for the office."}
+      ]
+    },
+    {
+      "es": "el abrigo", "pos": "n.m.", "en": "coat, overcoat",
+      "note": "la chaqueta is a jacket; el saco a suit jacket in Latin America.",
+      "ex": [
+        {"es": "Ponte el abrigo, hace frío.", "en": "Put your coat on, it's cold."}
+      ]
+    },
+    {
+      "es": "el suéter", "pos": "n.m.", "en": "sweater, jumper",
+      "note": "Also el jersey in Spain, el pulóver in the Southern Cone.",
+      "ex": [
+        {"es": "Tejió el suéter ella misma.", "en": "She knitted the sweater herself."}
+      ]
+    },
+    {
+      "es": "los zapatos", "pos": "n.m.pl.", "en": "shoes",
+      "note": "las zapatillas or los tenis are trainers; una zapatería is a shoe shop.",
+      "ex": [
+        {"es": "Estos zapatos me aprietan.", "en": "These shoes are tight on me."}
+      ]
+    },
+    {
+      "es": "los calcetines", "pos": "n.m.pl.", "en": "socks",
+      "note": "las medias in much of Latin America, where it also covers tights.",
+      "ex": [
+        {"es": "No encuentro un calcetín.", "en": "I can't find one of the socks."}
+      ]
+    },
+    {
+      "es": "el sombrero", "pos": "n.m.", "en": "hat",
+      "note": "la gorra is a cap with a peak.",
+      "ex": [
+        {"es": "Usa sombrero para el sol.", "en": "He wears a hat because of the sun."}
+      ]
+    },
+    {
+      "es": "el bolsillo", "pos": "n.m.", "en": "pocket",
+      "ex": [
+        {"es": "Lo llevaba en el bolsillo.", "en": "I was carrying it in my pocket."}
+      ]
+    },
+    {
+      "es": "el botón", "pos": "n.m.", "en": "button",
+      "note": "One word for the button on a shirt and the one on a machine.",
+      "ex": [
+        {"es": "Se le cayó un botón.", "en": "One of his buttons came off."}
+      ]
+    },
+    {
+      "es": "el reloj", "pos": "n.m.", "en": "watch; clock",
+      "he": "שעון",
+      "note": "The j is silent at the end in most speech: re-LÓ.",
+      "ex": [
+        {"tag": "watch", "es": "Me regalaron un reloj.", "en": "They gave me a watch."},
+        {"tag": "clock", "es": "El reloj de la plaza va atrasado.", "en": "The clock in the square is slow."}
+      ]
+    },
+    {
+      "es": "ponerse", "pos": "v. irr.", "en": "to put on (clothes)",
+      "note": "Reflexive, with the article rather than a possessive: se puso los zapatos.",
+      "ex": [
+        {"es": "Ponte algo más formal.", "en": "Put on something more formal."}
+      ]
+    },
+    {
+      "es": "quitarse", "pos": "v.", "en": "to take off (clothes)",
+      "note": "In Latin America sacarse is just as common.",
+      "ex": [
+        {"es": "Quítate el abrigo, aquí hace calor.", "en": "Take your coat off, it's warm in here."}
+      ]
+    },
+    {
+      "es": "vestirse", "pos": "v. irr.", "en": "to get dressed",
+      "conj": {"label": "pres.", "forms": ["me visto", "te vistes", "se viste", "nos vestimos", "se visten"]},
+      "ex": [
+        {"es": "Me visto en cinco minutos.", "en": "I'll get dressed in five minutes."}
+      ]
+    },
+    {
+      "es": "quedar", "pos": "v.", "en": "to fit, to suit (of clothes)",
+      "he": "להתאים (בגד)",
+      "note": "Built like gustar: the garment is the subject. Me queda bien is it fits me well.",
+      "ex": [
+        {"es": "Ese color te queda muy bien.", "en": "That colour really suits you."}
+      ]
+    },
+    {
+      "es": "la talla", "pos": "n.f.", "en": "size (of clothing)",
+      "note": "For shoes Spanish says el número, not la talla.",
+      "ex": [
+        {"es": "¿Tiene una talla más grande?", "en": "Do you have a bigger size?"}
+      ]
+    },
+    {
+      "es": "limpio", "pos": "adj.", "en": "clean",
+      "ex": [
+        {"es": "La camisa ya está limpia.", "en": "The shirt is clean now."}
+      ]
+    },
+    {
+      "es": "sucio", "pos": "adj.", "en": "dirty",
+      "ex": [
+        {"es": "No te sientes con las manos sucias.", "en": "Don't sit down with dirty hands."}
+      ]
+    }
+  ]
+}

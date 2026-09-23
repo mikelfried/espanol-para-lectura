@@ -1,0 +1,157 @@
+{
+  "id": "u11",
+  "title": "Numbers, quantity and order",
+  "intro": "Read plate 5 alongside this unit. Several numerals are grouped into single entries because they are learned as a run. Note that Spanish reverses the English punctuation: 1.500 is one and a half thousand, and 3,5 is three and a half.",
+  "entries": [
+    {
+      "es": "uno · un · una", "pos": "num.", "en": "one; a, an",
+      "he": "אחד / אחת",
+      "note": "uno stands alone, un goes before a masculine noun, una before a feminine one. The same shortening hits veintiún and treinta y un.",
+      "ex": [
+        {"tag": "one", "es": "Sólo queda uno.", "en": "There's only one left."},
+        {"tag": "a, an", "es": "Necesito un boleto y una maleta.", "en": "I need a ticket and a suitcase."}
+      ]
+    },
+    {
+      "es": "dos · tres · cuatro · cinco", "pos": "num.", "en": "two, three, four, five",
+      "ex": [
+        {"es": "Somos cinco en la familia.", "en": "There are five of us in the family."}
+      ]
+    },
+    {
+      "es": "seis · siete · ocho · nueve · diez", "pos": "num.", "en": "six, seven, eight, nine, ten",
+      "ex": [
+        {"es": "El tren sale a las diez.", "en": "The train leaves at ten."}
+      ]
+    },
+    {
+      "es": "once · doce · trece · catorce · quince", "pos": "num.", "en": "eleven to fifteen",
+      "note": "These five are irregular and simply have to be learned. From sixteen the pattern becomes regular.",
+      "ex": [
+        {"es": "Mi hija cumple quince años.", "en": "My daughter is turning fifteen."}
+      ]
+    },
+    {
+      "es": "dieciséis · diecisiete · dieciocho · diecinueve", "pos": "num.", "en": "sixteen to nineteen",
+      "note": "Literally ten-and-six, written as one word. dieciséis carries an accent; the others do not.",
+      "ex": [
+        {"es": "Trabajé allí dieciocho meses.", "en": "I worked there for eighteen months."}
+      ]
+    },
+    {
+      "es": "veinte · veintiuno · veintidós", "pos": "num.", "en": "twenty, twenty-one, twenty-two",
+      "note": "The twenties are one word; from thirty on they split into three: treinta y uno.",
+      "ex": [
+        {"es": "Cuesta veintidós pesos.", "en": "It costs twenty-two pesos."}
+      ]
+    },
+    {
+      "es": "treinta · cuarenta · cincuenta", "pos": "num.", "en": "thirty, forty, fifty",
+      "ex": [
+        {"es": "Mi padre tiene cincuenta años.", "en": "My father is fifty."}
+      ]
+    },
+    {
+      "es": "sesenta · setenta · ochenta · noventa", "pos": "num.", "en": "sixty, seventy, eighty, ninety",
+      "note": "sesenta and setenta differ by one letter and are easy to confuse when spoken quickly.",
+      "ex": [
+        {"es": "La reunión duró noventa minutos.", "en": "The meeting lasted ninety minutes."}
+      ]
+    },
+    {
+      "es": "cien · ciento", "pos": "num.", "en": "a hundred; a hundred and (101–199)",
+      "he": "מאה",
+      "note": "cien exactly, and before a noun or before mil. ciento only when something follows: ciento cinco.",
+      "ex": [
+        {"tag": "exactly", "es": "Hay cien personas en la sala.", "en": "There are a hundred people in the room."},
+        {"tag": "and more", "es": "Pagué ciento veinte pesos.", "en": "I paid a hundred and twenty pesos."}
+      ]
+    },
+    {
+      "es": "mil · un millón", "pos": "num.", "en": "a thousand; a million",
+      "note": "Never un mil — mil stands alone. But un millón takes de before a noun: un millón de personas.",
+      "ex": [
+        {"tag": "thousand", "es": "El vuelo cuesta mil quinientos pesos.", "en": "The flight costs fifteen hundred pesos."},
+        {"tag": "million", "es": "La ciudad tiene dos millones de habitantes.", "en": "The city has two million inhabitants."}
+      ]
+    },
+    {
+      "es": "el número", "pos": "n.m.", "en": "number; issue, size",
+      "he": "מספר",
+      "ex": [
+        {"tag": "number", "es": "¿Me das tu número?", "en": "Can I have your number?"},
+        {"tag": "size", "es": "¿Qué número calza?", "en": "What shoe size do you take?"}
+      ]
+    },
+    {
+      "es": "primero · segundo · tercero", "pos": "adj.", "en": "first, second, third",
+      "note": "primero and tercero drop the -o before a masculine noun: el primer día, el tercer piso.",
+      "ex": [
+        {"es": "Vivo en el primer piso.", "en": "I live on the first floor."}
+      ]
+    },
+    {
+      "es": "último", "pos": "adj.", "en": "last, final; latest",
+      "he": "אחרון",
+      "ex": [
+        {"tag": "final", "es": "Ése fue el último tren.", "en": "That was the last train."},
+        {"tag": "latest", "es": "¿Leíste su último libro?", "en": "Did you read her latest book?"}
+      ]
+    },
+    {
+      "es": "medio · la mitad", "pos": "adj. / n.f.", "en": "half (adjective); half (noun)",
+      "he": "חצי",
+      "note": "medio agrees with its noun — media hora. la mitad is the thing itself, and takes de.",
+      "ex": [
+        {"tag": "adjective", "es": "Espera media hora.", "en": "Wait half an hour."},
+        {"tag": "noun", "es": "Me comí la mitad del pastel.", "en": "I ate half the cake."}
+      ]
+    },
+    {
+      "es": "mucho · poco", "pos": "adj. / adv.", "en": "a lot, many; little, few",
+      "note": "As adjectives they agree: muchas casas, pocos días. As adverbs they never change: trabaja mucho.",
+      "ex": [
+        {"tag": "a lot", "es": "Hay muchas opciones.", "en": "There are a lot of options."},
+        {"tag": "few", "es": "Quedan pocos días.", "en": "There are few days left."}
+      ]
+    },
+    {
+      "es": "todo", "pos": "adj. / pron.", "en": "all, every; everything",
+      "he": "כל / הכל",
+      "note": "todo el día is all day; todos los días is every day. One letter, two different meanings.",
+      "ex": [
+        {"tag": "all, every", "es": "Estudia todos los días.", "en": "He studies every day."},
+        {"tag": "everything", "es": "Ya lo sé todo.", "en": "I already know everything."}
+      ]
+    },
+    {
+      "es": "alguno · ninguno", "pos": "adj. / pron.", "en": "some, any; none, not any",
+      "he": "כלשהו / אף אחד",
+      "note": "Both shorten before a masculine noun: algún día, ningún problema. ninguno needs no before the verb if it follows it.",
+      "ex": [
+        {"tag": "some", "es": "Algún día volveré.", "en": "Some day I'll come back."},
+        {"tag": "none", "es": "No tengo ningún problema.", "en": "I don't have any problem."}
+      ]
+    },
+    {
+      "es": "cada", "pos": "adj.", "en": "each, every",
+      "note": "Never changes form, and is always followed by a singular noun: cada persona.",
+      "ex": [
+        {"es": "Cada niño recibió un libro.", "en": "Each child received a book."}
+      ]
+    },
+    {
+      "es": "otro", "pos": "adj. / pron.", "en": "other, another",
+      "note": "Takes no article: otro café, never un otro café. That un is the commonest mistake English speakers make with it.",
+      "ex": [
+        {"es": "¿Me trae otro café, por favor?", "en": "Could you bring me another coffee, please?"}
+      ]
+    },
+    {
+      "es": "varios", "pos": "adj.", "en": "several, various",
+      "ex": [
+        {"es": "Lo intenté varias veces.", "en": "I tried several times."}
+      ]
+    }
+  ]
+}

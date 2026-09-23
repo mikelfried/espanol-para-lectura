@@ -1,0 +1,287 @@
+{
+  "id": "u14",
+  "title": "Colours, size and shape",
+  "intro": "Read plate 7 alongside this unit. Colours are adjectives, so they follow the noun and agree with it: una casa blanca. The ones ending in -e or a consonant do not change for gender — verde, azul, gris.",
+  "entries": [
+    {
+      "es": "el color",
+      "pos": "n.m.",
+      "en": "colour",
+      "note": "Masculine despite the -or ending being unusual. ¿De qué color es? is how you ask.",
+      "ex": [
+        {
+          "es": "¿De qué color es tu carro?",
+          "en": "What colour is your car?"
+        }
+      ]
+    },
+    {
+      "es": "blanco",
+      "pos": "adj.",
+      "en": "white",
+      "note": "en blanco means blank: dejé la hoja en blanco.",
+      "ex": [
+        {
+          "es": "Las paredes son blancas.",
+          "en": "The walls are white."
+        }
+      ]
+    },
+    {
+      "es": "negro",
+      "pos": "adj.",
+      "en": "black",
+      "ex": [
+        {
+          "es": "Tomo el café negro.",
+          "en": "I drink my coffee black."
+        }
+      ]
+    },
+    {
+      "es": "rojo",
+      "pos": "adj.",
+      "en": "red",
+      "note": "Red wine is vino tinto, never vino rojo. Red hair is pelirrojo.",
+      "ex": [
+        {
+          "es": "Se puso roja de vergüenza.",
+          "en": "She went red with embarrassment."
+        }
+      ]
+    },
+    {
+      "es": "azul",
+      "pos": "adj.",
+      "en": "blue",
+      "note": "Same form for masculine and feminine: un carro azul, una puerta azul.",
+      "ex": [
+        {
+          "es": "El cielo está muy azul hoy.",
+          "en": "The sky is very blue today."
+        }
+      ]
+    },
+    {
+      "es": "verde",
+      "pos": "adj.",
+      "en": "green; unripe",
+      "he": "ירוק / לא בשל",
+      "ex": [
+        {
+          "tag": "green",
+          "es": "Pintamos la cocina de verde.",
+          "en": "We painted the kitchen green."
+        },
+        {
+          "tag": "unripe",
+          "es": "Los plátanos están verdes todavía.",
+          "en": "The bananas are still unripe."
+        }
+      ]
+    },
+    {
+      "es": "amarillo",
+      "pos": "adj.",
+      "en": "yellow",
+      "ex": [
+        {
+          "es": "Los taxis son amarillos.",
+          "en": "The taxis are yellow."
+        }
+      ]
+    },
+    {
+      "es": "gris",
+      "pos": "adj.",
+      "en": "grey",
+      "note": "Plural grises. Also used of weather and mood, as in English.",
+      "ex": [
+        {
+          "es": "Fue un día gris y lluvioso.",
+          "en": "It was a grey, rainy day."
+        }
+      ]
+    },
+    {
+      "es": "café · marrón",
+      "pos": "adj.",
+      "en": "brown",
+      "note": "café in Mexico and much of Latin America, marrón in Spain and the Southern Cone. café never changes form.",
+      "ex": [
+        {
+          "es": "Tiene los ojos café.",
+          "en": "She has brown eyes."
+        }
+      ]
+    },
+    {
+      "es": "rosado · rosa",
+      "pos": "adj.",
+      "en": "pink",
+      "ex": [
+        {
+          "es": "Escogió unas flores rosadas.",
+          "en": "She chose some pink flowers."
+        }
+      ]
+    },
+    {
+      "es": "morado",
+      "pos": "adj.",
+      "en": "purple",
+      "note": "Also violeta and púrpura, but morado is the everyday word.",
+      "ex": [
+        {
+          "es": "Se le puso el brazo morado.",
+          "en": "His arm turned purple."
+        }
+      ]
+    },
+    {
+      "es": "naranja",
+      "pos": "adj. / n.f.",
+      "en": "orange (colour); orange (fruit)",
+      "he": "כתום / תפוז",
+      "note": "As a colour it does not change: unos zapatos naranja. Also anaranjado.",
+      "ex": [
+        {
+          "tag": "colour",
+          "es": "El atardecer era naranja.",
+          "en": "The sunset was orange."
+        },
+        {
+          "tag": "fruit",
+          "es": "Me comí dos naranjas.",
+          "en": "I ate two oranges."
+        }
+      ]
+    },
+    {
+      "es": "claro · oscuro",
+      "pos": "adj.",
+      "en": "light, pale; dark",
+      "note": "Placed after the colour: azul claro, verde oscuro. Neither agrees in that position.",
+      "ex": [
+        {
+          "tag": "light",
+          "es": "Prefiero el azul claro.",
+          "en": "I prefer the light blue."
+        },
+        {
+          "tag": "dark",
+          "es": "El cuarto es muy oscuro.",
+          "en": "The room is very dark."
+        }
+      ]
+    },
+    {
+      "es": "grande",
+      "pos": "adj.",
+      "en": "big, large; great",
+      "he": "גדול",
+      "note": "Shortens to gran before any singular noun, where it means great rather than large: un gran hombre.",
+      "ex": [
+        {
+          "tag": "big",
+          "es": "Viven en una casa grande.",
+          "en": "They live in a big house."
+        },
+        {
+          "tag": "great",
+          "es": "Fue un gran día.",
+          "en": "It was a great day."
+        }
+      ]
+    },
+    {
+      "es": "pequeño",
+      "pos": "adj.",
+      "en": "small, little",
+      "note": "chico is the everyday alternative in Latin America.",
+      "ex": [
+        {
+          "es": "El cuarto es pequeño pero cómodo.",
+          "en": "The room is small but comfortable."
+        }
+      ]
+    },
+    {
+      "es": "largo",
+      "pos": "adj.",
+      "en": "long",
+      "warn": "A false friend. Large is grande. Un viaje largo is a long journey, not a big one.",
+      "ex": [
+        {
+          "es": "Fue una reunión muy larga.",
+          "en": "It was a very long meeting."
+        }
+      ]
+    },
+    {
+      "es": "corto",
+      "pos": "adj.",
+      "en": "short (in length)",
+      "note": "For a short person use bajo, not corto.",
+      "ex": [
+        {
+          "es": "El camino corto pasa por el río.",
+          "en": "The short route goes past the river."
+        }
+      ]
+    },
+    {
+      "es": "alto · bajo",
+      "pos": "adj.",
+      "en": "tall, high; short, low",
+      "he": "גבוה / נמוך",
+      "ex": [
+        {
+          "tag": "tall",
+          "es": "Su hijo es muy alto.",
+          "en": "Her son is very tall."
+        },
+        {
+          "tag": "low",
+          "es": "Habla en voz baja.",
+          "en": "Speak quietly."
+        }
+      ]
+    },
+    {
+      "es": "ancho · estrecho",
+      "pos": "adj.",
+      "en": "wide, broad; narrow",
+      "ex": [
+        {
+          "tag": "wide",
+          "es": "La avenida es muy ancha.",
+          "en": "The avenue is very wide."
+        },
+        {
+          "tag": "narrow",
+          "es": "La calle es estrecha para dos carros.",
+          "en": "The street is narrow for two cars."
+        }
+      ]
+    },
+    {
+      "es": "redondo · cuadrado",
+      "pos": "adj.",
+      "en": "round; square",
+      "note": "The nouns are el círculo and el cuadrado.",
+      "ex": [
+        {
+          "tag": "round",
+          "es": "Buscamos una mesa redonda.",
+          "en": "We're looking for a round table."
+        },
+        {
+          "tag": "square",
+          "es": "La plaza es perfectamente cuadrada.",
+          "en": "The square is perfectly square."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "id": "u36",
+  "title": "Place and direction",
+  "intro": "Read plate 2 for the prepositions. These are the adverbs that go with them. Spanish has a three-way distance system where English has two: aquí here, ahí there near you, allí there further off.",
+  "entries": [
+    {
+      "es": "aquí · acá",
+      "pos": "adv.",
+      "en": "here",
+      "note": "acá is commoner in Latin America and suggests movement towards the speaker: ven acá.",
+      "ex": [
+        {
+          "es": "Ponlo aquí, junto a la ventana.",
+          "en": "Put it here, next to the window."
+        }
+      ]
+    },
+    {
+      "es": "ahí · allí · allá",
+      "pos": "adv.",
+      "en": "there (near you); there; over there",
+      "he": "שם / שם רחוק",
+      "note": "A genuine three-way scale: ahí is near the listener, allí further, allá vaguer and further still.",
+      "ex": [
+        {
+          "tag": "near you",
+          "es": "Ahí está, en tu mano.",
+          "en": "There it is, in your hand."
+        },
+        {
+          "tag": "there",
+          "es": "Allí vivía mi abuela.",
+          "en": "My grandmother lived there."
+        },
+        {
+          "tag": "over there",
+          "es": "Allá en el norte hace frío.",
+          "en": "Up there in the north it's cold."
+        }
+      ]
+    },
+    {
+      "es": "arriba · abajo",
+      "pos": "adv.",
+      "en": "up, upstairs; down, downstairs",
+      "he": "למעלה / למטה",
+      "ex": [
+        {
+          "tag": "up",
+          "es": "Los niños están arriba.",
+          "en": "The children are upstairs."
+        },
+        {
+          "tag": "down",
+          "es": "Te espero abajo.",
+          "en": "I'll wait for you downstairs."
+        }
+      ]
+    },
+    {
+      "es": "adentro · afuera",
+      "pos": "adv.",
+      "en": "inside; outside",
+      "note": "Spain prefers dentro and fuera; Latin America adds the a-.",
+      "ex": [
+        {
+          "tag": "inside",
+          "es": "Vamos adentro, hace frío.",
+          "en": "Let's go inside, it's cold."
+        },
+        {
+          "tag": "outside",
+          "es": "El perro duerme afuera.",
+          "en": "The dog sleeps outside."
+        }
+      ]
+    },
+    {
+      "es": "adelante · atrás",
+      "pos": "adv.",
+      "en": "forward, ahead; behind, back",
+      "he": "קדימה / אחורה",
+      "note": "¡Adelante! also means come in.",
+      "ex": [
+        {
+          "tag": "ahead",
+          "es": "Sigue adelante dos calles.",
+          "en": "Carry straight on for two streets."
+        },
+        {
+          "tag": "behind",
+          "es": "Se quedó atrás con las maletas.",
+          "en": "He stayed behind with the suitcases."
+        }
+      ]
+    },
+    {
+      "es": "la derecha · la izquierda",
+      "pos": "n.f.",
+      "en": "right; left",
+      "note": "a la derecha, a la izquierda. derecho as an adverb means straight ahead, so a la derecha and derecho are different instructions.",
+      "ex": [
+        {
+          "tag": "right",
+          "es": "Gira a la derecha en la esquina.",
+          "en": "Turn right at the corner."
+        },
+        {
+          "tag": "left",
+          "es": "El baño está a la izquierda.",
+          "en": "The bathroom is on the left."
+        }
+      ]
+    },
+    {
+      "es": "derecho",
+      "pos": "adv. / n.m.",
+      "en": "straight ahead; a right, the law",
+      "he": "ישר / זכות",
+      "note": "sigue derecho is carry straight on. los derechos humanos are human rights; estudiar derecho is to study law.",
+      "ex": [
+        {
+          "tag": "straight ahead",
+          "es": "Sigue derecho hasta el semáforo.",
+          "en": "Go straight on to the traffic lights."
+        },
+        {
+          "tag": "a right",
+          "es": "Tienes derecho a saberlo.",
+          "en": "You have a right to know."
+        }
+      ]
+    },
+    {
+      "es": "cerca · lejos",
+      "pos": "adv.",
+      "en": "near, close; far",
+      "note": "Both take de before a noun: cerca de la escuela.",
+      "ex": [
+        {
+          "tag": "near",
+          "es": "Vivo cerca del mercado.",
+          "en": "I live near the market."
+        },
+        {
+          "tag": "far",
+          "es": "Queda muy lejos de aquí.",
+          "en": "It's very far from here."
+        }
+      ]
+    },
+    {
+      "es": "el norte · el sur",
+      "pos": "n.m.",
+      "en": "north; south",
+      "note": "Not capitalised. al norte de means to the north of.",
+      "ex": [
+        {
+          "tag": "north",
+          "es": "Viven en el norte del país.",
+          "en": "They live in the north of the country."
+        },
+        {
+          "tag": "south",
+          "es": "El clima del sur es más cálido.",
+          "en": "The climate in the south is warmer."
+        }
+      ]
+    },
+    {
+      "es": "el este · el oeste",
+      "pos": "n.m.",
+      "en": "east; west",
+      "ex": [
+        {
+          "tag": "east",
+          "es": "El sol sale por el este.",
+          "en": "The sun rises in the east."
+        },
+        {
+          "tag": "west",
+          "es": "La costa oeste es más lluviosa.",
+          "en": "The west coast is rainier."
+        }
+      ]
+    },
+    {
+      "es": "el centro",
+      "pos": "n.m.",
+      "en": "centre; town centre, downtown",
+      "ex": [
+        {
+          "tag": "centre",
+          "es": "Ponlo en el centro de la mesa.",
+          "en": "Put it in the centre of the table."
+        },
+        {
+          "tag": "downtown",
+          "es": "Trabajo en el centro.",
+          "en": "I work downtown."
+        }
+      ]
+    },
+    {
+      "es": "el lado",
+      "pos": "n.m.",
+      "en": "side",
+      "note": "al lado de is next to — see plate 2. por un lado ... por otro lado is on the one hand ... on the other.",
+      "ex": [
+        {
+          "es": "Siéntate a mi lado.",
+          "en": "Sit next to me."
+        }
+      ]
+    },
+    {
+      "es": "el lugar · el sitio",
+      "pos": "n.m.",
+      "en": "place, spot",
+      "note": "en lugar de means instead of; tener lugar to take place.",
+      "ex": [
+        {
+          "es": "Es mi lugar favorito de la ciudad.",
+          "en": "It's my favourite place in the city."
+        }
+      ]
+    },
+    {
+      "es": "el rincón · la esquina",
+      "pos": "n.",
+      "en": "corner (inside); corner (of streets)",
+      "he": "פינה פנימית / פינת רחוב",
+      "note": "A room has rincones; streets meet at an esquina.",
+      "ex": [
+        {
+          "tag": "inside corner",
+          "es": "La planta está en el rincón.",
+          "en": "The plant is in the corner."
+        },
+        {
+          "tag": "street corner",
+          "es": "Te espero en la esquina.",
+          "en": "I'll wait for you on the corner."
+        }
+      ]
+    },
+    {
+      "es": "el borde · la orilla",
+      "pos": "n.",
+      "en": "edge; bank, shore",
+      "note": "Used of rivers and the sea. el borde is any edge.",
+      "ex": [
+        {
+          "tag": "edge",
+          "es": "No te pares en el borde.",
+          "en": "Don't stand on the edge."
+        },
+        {
+          "tag": "bank",
+          "es": "Caminamos por la orilla del río.",
+          "en": "We walked along the river bank."
+        }
+      ]
+    },
+    {
+      "es": "alrededor",
+      "pos": "adv.",
+      "en": "around, round about",
+      "note": "alrededor de before a noun, and also used for approximately: alrededor de veinte.",
+      "ex": [
+        {
+          "es": "Miró alrededor pero no vio nada.",
+          "en": "He looked around but saw nothing."
+        }
+      ]
+    },
+    {
+      "es": "en medio de",
+      "pos": "prep.",
+      "en": "in the middle of",
+      "note": "For an interruption Spanish also says en pleno: en plena reunión.",
+      "ex": [
+        {
+          "es": "Se paró en medio de la calle.",
+          "en": "He stopped in the middle of the street."
+        }
+      ]
+    },
+    {
+      "es": "enfrente · frente a",
+      "pos": "adv. / prep.",
+      "en": "opposite, facing",
+      "note": "Distinct from delante de, which is simply in front of. enfrente implies facing across a gap.",
+      "ex": [
+        {
+          "es": "La farmacia está enfrente del banco.",
+          "en": "The pharmacy is opposite the bank."
+        }
+      ]
+    },
+    {
+      "es": "hacia",
+      "pos": "prep.",
+      "en": "towards; around (a time)",
+      "he": "לכיוון / בסביבות",
+      "ex": [
+        {
+          "tag": "towards",
+          "es": "Caminó hacia la puerta.",
+          "en": "He walked towards the door."
+        },
+        {
+          "tag": "around a time",
+          "es": "Llegaron hacia las diez.",
+          "en": "They arrived around ten."
+        }
+      ]
+    },
+    {
+      "es": "dondequiera · por todas partes",
+      "pos": "adv.",
+      "en": "anywhere; everywhere",
+      "note": "en ninguna parte is nowhere, and needs no before the verb.",
+      "ex": [
+        {
+          "tag": "anywhere",
+          "es": "Puedes sentarte dondequiera.",
+          "en": "You can sit anywhere."
+        },
+        {
+          "tag": "everywhere",
+          "es": "Hay basura por todas partes.",
+          "en": "There's rubbish everywhere."
+        }
+      ]
+    }
+  ]
+}

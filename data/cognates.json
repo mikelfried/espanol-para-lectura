@@ -1,0 +1,327 @@
+{
+  "title": "Appendix A · Words you already know",
+  "intro": "These are frequent enough to belong in a top-1000 list, and transparent enough from English that a full entry would waste a page. Read the column once; you own them. Only the few whose meaning drifts from the English cognate carry a gloss.",
+  "groups": [
+    {
+      "label": "-ción → -tion",
+      "words": [
+        {
+          "es": "la información"
+        },
+        {
+          "es": "la situación"
+        },
+        {
+          "es": "la relación"
+        },
+        {
+          "es": "la atención"
+        },
+        {
+          "es": "la nación"
+        },
+        {
+          "es": "la acción"
+        },
+        {
+          "es": "la condición"
+        },
+        {
+          "es": "la operación"
+        },
+        {
+          "es": "la población",
+          "en": "population"
+        },
+        {
+          "es": "la educación"
+        },
+        {
+          "es": "la dirección",
+          "en": "also: address"
+        }
+      ]
+    },
+    {
+      "label": "-dad / -tad → -ty",
+      "words": [
+        {
+          "es": "la ciudad",
+          "en": "city, not 'citty'"
+        },
+        {
+          "es": "la realidad"
+        },
+        {
+          "es": "la posibilidad"
+        },
+        {
+          "es": "la sociedad"
+        },
+        {
+          "es": "la universidad"
+        },
+        {
+          "es": "la libertad"
+        },
+        {
+          "es": "la dificultad"
+        },
+        {
+          "es": "la calidad",
+          "en": "quality"
+        },
+        {
+          "es": "la cantidad",
+          "en": "quantity"
+        }
+      ]
+    },
+    {
+      "label": "-mente → -ly",
+      "words": [
+        {
+          "es": "exactamente"
+        },
+        {
+          "es": "realmente"
+        },
+        {
+          "es": "normalmente"
+        },
+        {
+          "es": "completamente"
+        },
+        {
+          "es": "generalmente"
+        },
+        {
+          "es": "finalmente"
+        },
+        {
+          "es": "posiblemente"
+        },
+        {
+          "es": "totalmente"
+        }
+      ]
+    },
+    {
+      "label": "adjectives",
+      "words": [
+        {
+          "es": "importante"
+        },
+        {
+          "es": "diferente"
+        },
+        {
+          "es": "posible"
+        },
+        {
+          "es": "necesario"
+        },
+        {
+          "es": "natural"
+        },
+        {
+          "es": "social"
+        },
+        {
+          "es": "nacional"
+        },
+        {
+          "es": "especial"
+        },
+        {
+          "es": "personal"
+        },
+        {
+          "es": "público"
+        },
+        {
+          "es": "político"
+        },
+        {
+          "es": "económico"
+        },
+        {
+          "es": "final"
+        },
+        {
+          "es": "central"
+        },
+        {
+          "es": "normal"
+        }
+      ]
+    },
+    {
+      "label": "nouns",
+      "words": [
+        {
+          "es": "el problema",
+          "en": "masc. despite the -a"
+        },
+        {
+          "es": "el momento"
+        },
+        {
+          "es": "el grupo"
+        },
+        {
+          "es": "el centro"
+        },
+        {
+          "es": "el programa",
+          "en": "masc."
+        },
+        {
+          "es": "el sistema",
+          "en": "masc."
+        },
+        {
+          "es": "la idea"
+        },
+        {
+          "es": "el proyecto"
+        },
+        {
+          "es": "el doctor"
+        },
+        {
+          "es": "el hotel"
+        },
+        {
+          "es": "el restaurante"
+        },
+        {
+          "es": "el banco",
+          "en": "also: bench"
+        },
+        {
+          "es": "el hospital"
+        },
+        {
+          "es": "la música"
+        },
+        {
+          "es": "el teléfono"
+        },
+        {
+          "es": "el minuto"
+        },
+        {
+          "es": "el color"
+        },
+        {
+          "es": "el animal"
+        },
+        {
+          "es": "la parte"
+        }
+      ]
+    },
+    {
+      "label": "verbs",
+      "words": [
+        {
+          "es": "usar"
+        },
+        {
+          "es": "pasar",
+          "en": "also: to happen"
+        },
+        {
+          "es": "presentar"
+        },
+        {
+          "es": "considerar"
+        },
+        {
+          "es": "aceptar"
+        },
+        {
+          "es": "decidir"
+        },
+        {
+          "es": "permitir"
+        },
+        {
+          "es": "existir"
+        },
+        {
+          "es": "formar"
+        },
+        {
+          "es": "preparar"
+        },
+        {
+          "es": "visitar"
+        },
+        {
+          "es": "estudiar"
+        },
+        {
+          "es": "continuar"
+        },
+        {
+          "es": "notar"
+        }
+      ]
+    },
+    {
+      "label": "false friends — do not trust these",
+      "words": [
+        {
+          "es": "actual",
+          "en": "current, not actual"
+        },
+        {
+          "es": "realizar",
+          "en": "to carry out, not to realise"
+        },
+        {
+          "es": "asistir",
+          "en": "to attend, not to assist"
+        },
+        {
+          "es": "éxito",
+          "en": "success, not exit"
+        },
+        {
+          "es": "embarazada",
+          "en": "pregnant, not embarrassed"
+        },
+        {
+          "es": "sensible",
+          "en": "sensitive, not sensible"
+        },
+        {
+          "es": "librería",
+          "en": "bookshop; library is biblioteca"
+        },
+        {
+          "es": "recordar",
+          "en": "to remember, not to record"
+        },
+        {
+          "es": "molestar",
+          "en": "to bother, nothing worse"
+        },
+        {
+          "es": "largo",
+          "en": "long, not large"
+        },
+        {
+          "es": "ropa",
+          "en": "clothes, not rope"
+        },
+        {
+          "es": "carta",
+          "en": "letter or menu, not cart"
+        }
+      ]
+    }
+  ]
+}

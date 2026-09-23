@@ -1,0 +1,320 @@
+{
+  "id": "u44",
+  "title": "How often, how long, when",
+  "intro": "Frequency and duration. The one to learn carefully is hace, which builds all time-ago expressions: hace dos años, two years ago, and hace dos años que vivo aquí, I've lived here for two years.",
+  "entries": [
+    {
+      "es": "hace",
+      "pos": "v.",
+      "en": "ago; for (a length of time)",
+      "he": "לפני / כבר",
+      "note": "From hacer. hace un mes is a month ago; hace un mes que espero, I've been waiting a month.",
+      "ex": [
+        {
+          "tag": "ago",
+          "es": "Llegamos hace dos horas.",
+          "en": "We arrived two hours ago."
+        },
+        {
+          "tag": "for",
+          "es": "Hace tres años que estudio español.",
+          "en": "I've been studying Spanish for three years."
+        }
+      ]
+    },
+    {
+      "es": "siempre · nunca",
+      "pos": "adv.",
+      "en": "always; never",
+      "note": "See unit 4. para siempre means forever; casi nunca hardly ever.",
+      "ex": [
+        {
+          "tag": "always",
+          "es": "Siempre llega puntual.",
+          "en": "He always arrives on time."
+        },
+        {
+          "tag": "never",
+          "es": "Nunca he probado eso.",
+          "en": "I've never tried that."
+        }
+      ]
+    },
+    {
+      "es": "a veces",
+      "pos": "phrase",
+      "en": "sometimes",
+      "note": "From la vez — see unit 4. Also de vez en cuando, now and then.",
+      "ex": [
+        {
+          "es": "A veces trabajo los sábados.",
+          "en": "Sometimes I work on Saturdays."
+        }
+      ]
+    },
+    {
+      "es": "a menudo · seguido",
+      "pos": "adv.",
+      "en": "often",
+      "note": "seguido is the Latin American everyday word; a menudo is more written.",
+      "ex": [
+        {
+          "es": "Nos vemos bastante seguido.",
+          "en": "We see each other fairly often."
+        }
+      ]
+    },
+    {
+      "es": "de vez en cuando",
+      "pos": "phrase",
+      "en": "now and then, occasionally",
+      "ex": [
+        {
+          "es": "De vez en cuando salimos a cenar.",
+          "en": "Now and then we go out for dinner."
+        }
+      ]
+    },
+    {
+      "es": "cada vez",
+      "pos": "phrase",
+      "en": "each time; increasingly",
+      "he": "כל פעם / יותר ויותר",
+      "note": "cada vez más means more and more: cada vez más caro.",
+      "ex": [
+        {
+          "tag": "each time",
+          "es": "Cada vez que lo veo está más alto.",
+          "en": "Every time I see him he's taller."
+        },
+        {
+          "tag": "increasingly",
+          "es": "Está cada vez más difícil.",
+          "en": "It's getting harder and harder."
+        }
+      ]
+    },
+    {
+      "es": "ya no · todavía no",
+      "pos": "adv.",
+      "en": "not anymore; not yet",
+      "he": "כבר לא / עדיין לא",
+      "note": "The pair that English learners most often swap. See ya in the opening section.",
+      "ex": [
+        {
+          "tag": "not anymore",
+          "es": "Ya no fuma.",
+          "en": "He doesn't smoke anymore."
+        },
+        {
+          "tag": "not yet",
+          "es": "Todavía no ha llegado.",
+          "en": "He hasn't arrived yet."
+        }
+      ]
+    },
+    {
+      "es": "enseguida · ahorita",
+      "pos": "adv.",
+      "en": "right away, in a moment",
+      "note": "ahorita is Mexican and elastic: it can mean right now or in a while, depending on tone.",
+      "ex": [
+        {
+          "es": "Enseguida te atiendo.",
+          "en": "I'll be with you in a moment."
+        }
+      ]
+    },
+    {
+      "es": "de repente · de pronto",
+      "pos": "adv.",
+      "en": "suddenly, all of a sudden",
+      "ex": [
+        {
+          "es": "De repente se apagó la luz.",
+          "en": "Suddenly the light went out."
+        }
+      ]
+    },
+    {
+      "es": "por fin · ya",
+      "pos": "adv.",
+      "en": "at last; already",
+      "note": "See unit 32 and the opening section.",
+      "ex": [
+        {
+          "tag": "at last",
+          "es": "Por fin terminamos.",
+          "en": "We've finished at last."
+        },
+        {
+          "tag": "already",
+          "es": "Ya terminé la tarea.",
+          "en": "I've already finished the homework."
+        }
+      ]
+    },
+    {
+      "es": "mientras tanto",
+      "pos": "phrase",
+      "en": "meanwhile, in the meantime",
+      "note": "See mientras in unit 4 and unit 32.",
+      "ex": [
+        {
+          "es": "Mientras tanto, prepara la mesa.",
+          "en": "In the meantime, set the table."
+        }
+      ]
+    },
+    {
+      "es": "al principio · al final",
+      "pos": "phrase",
+      "en": "at first, at the beginning; in the end",
+      "he": "בהתחלה / בסוף",
+      "ex": [
+        {
+          "tag": "at first",
+          "es": "Al principio no entendía nada.",
+          "en": "At first I understood nothing."
+        },
+        {
+          "tag": "in the end",
+          "es": "Al final decidimos quedarnos.",
+          "en": "In the end we decided to stay."
+        }
+      ]
+    },
+    {
+      "es": "primero · luego · después",
+      "pos": "adv.",
+      "en": "first; then; afterwards",
+      "note": "The basic sequence for telling a story or giving instructions.",
+      "ex": [
+        {
+          "tag": "first",
+          "es": "Primero calienta el aceite.",
+          "en": "First heat the oil."
+        },
+        {
+          "tag": "then",
+          "es": "Luego añade la cebolla.",
+          "en": "Then add the onion."
+        },
+        {
+          "tag": "afterwards",
+          "es": "Después lo dejas reposar.",
+          "en": "Afterwards you let it rest."
+        }
+      ]
+    },
+    {
+      "es": "el momento · el instante",
+      "pos": "n.m.",
+      "en": "moment, instant",
+      "note": "un momento, por favor is the everyday hold on a second.",
+      "ex": [
+        {
+          "es": "Un momento, por favor.",
+          "en": "One moment, please."
+        }
+      ]
+    },
+    {
+      "es": "durar",
+      "pos": "v.",
+      "en": "to last, to go on for",
+      "note": "¿Cuánto dura? asks how long something lasts.",
+      "ex": [
+        {
+          "es": "La película dura dos horas.",
+          "en": "The film lasts two hours."
+        }
+      ]
+    },
+    {
+      "es": "tardar",
+      "pos": "v.",
+      "en": "to take (time); to be late",
+      "he": "לקחת זמן / להתאחר",
+      "note": "¿Cuánto tarda? asks how long the journey takes. No tardes means don't be long.",
+      "ex": [
+        {
+          "tag": "take time",
+          "es": "El tren tarda cuarenta minutos.",
+          "en": "The train takes forty minutes."
+        },
+        {
+          "tag": "be late",
+          "es": "No tardes, te esperamos.",
+          "en": "Don't be long, we're waiting."
+        }
+      ]
+    },
+    {
+      "es": "a tiempo · con tiempo",
+      "pos": "phrase",
+      "en": "on time; in good time",
+      "note": "a la vez means at the same time; a tiempo completo full-time.",
+      "ex": [
+        {
+          "tag": "on time",
+          "es": "Llegamos justo a tiempo.",
+          "en": "We arrived just on time."
+        },
+        {
+          "tag": "in good time",
+          "es": "Sal con tiempo, hay tráfico.",
+          "en": "Leave in good time, there's traffic."
+        }
+      ]
+    },
+    {
+      "es": "el retraso",
+      "pos": "n.m.",
+      "en": "delay",
+      "note": "con retraso means late, of trains and flights. atrasado is the adjective.",
+      "ex": [
+        {
+          "es": "El vuelo lleva dos horas de retraso.",
+          "en": "The flight is two hours delayed."
+        }
+      ]
+    },
+    {
+      "es": "diario · semanal",
+      "pos": "adj.",
+      "en": "daily; weekly",
+      "note": "mensual monthly, anual yearly. el diario is also a newspaper or a diary.",
+      "ex": [
+        {
+          "tag": "daily",
+          "es": "Es parte de mi rutina diaria.",
+          "en": "It's part of my daily routine."
+        },
+        {
+          "tag": "weekly",
+          "es": "Tenemos una reunión semanal.",
+          "en": "We have a weekly meeting."
+        }
+      ]
+    },
+    {
+      "es": "anoche · anteayer",
+      "pos": "adv.",
+      "en": "last night; the day before yesterday",
+      "note": "pasado mañana is the day after tomorrow. Spanish has single words where English needs phrases.",
+      "ex": [
+        {
+          "tag": "last night",
+          "es": "Anoche dormí fatal.",
+          "en": "I slept terribly last night."
+        },
+        {
+          "tag": "day before yesterday",
+          "es": "Llegaron anteayer.",
+          "en": "They arrived the day before yesterday."
+        }
+      ]
+    }
+  ]
+}

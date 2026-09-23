@@ -1,0 +1,157 @@
+{
+  "id": "u12",
+  "title": "At the table and eating out",
+  "intro": "Read plate 6 alongside this unit. The trap to watch is hot: caliente is temperature and picante is spice, and confusing them in a Mexican restaurant has consequences.",
+  "entries": [
+    {
+      "es": "el plato", "pos": "n.m.", "en": "plate; dish, course",
+      "he": "צלחת / מנה",
+      "note": "A deep plate is un plato hondo; el platillo is the saucer.",
+      "ex": [
+        {"tag": "plate", "es": "Pon los platos en la mesa.", "en": "Put the plates on the table."},
+        {"tag": "dish", "es": "Es el plato típico de la región.", "en": "It's the region's typical dish."}
+      ]
+    },
+    {
+      "es": "el vaso", "pos": "n.m.", "en": "glass, tumbler",
+      "he": "כוס",
+      "note": "For water or juice, with no stem. Not a vase — that is un florero.",
+      "ex": [
+        {"es": "¿Me da un vaso de agua?", "en": "Could I have a glass of water?"}
+      ]
+    },
+    {
+      "es": "la copa", "pos": "n.f.", "en": "wine glass; drink (alcoholic); cup, trophy",
+      "he": "כוס יין / גביע",
+      "note": "Stemmed. tomar una copa is to go for a drink.",
+      "ex": [
+        {"tag": "wine glass", "es": "Sirvió el vino en copas altas.", "en": "He served the wine in tall glasses."},
+        {"tag": "a drink", "es": "¿Vamos por una copa?", "en": "Shall we go for a drink?"},
+        {"tag": "trophy", "es": "Ganaron la copa en 2010.", "en": "They won the cup in 2010."}
+      ]
+    },
+    {
+      "es": "la taza", "pos": "n.f.", "en": "cup, mug",
+      "note": "For coffee or tea. English cup covers both taza and copa; Spanish keeps them apart.",
+      "ex": [
+        {"es": "Una taza de café, por favor.", "en": "A cup of coffee, please."}
+      ]
+    },
+    {
+      "es": "el tenedor", "pos": "n.m.", "en": "fork",
+      "ex": [
+        {"es": "Se me cayó el tenedor.", "en": "I dropped my fork."}
+      ]
+    },
+    {
+      "es": "el cuchillo", "pos": "n.m.", "en": "knife",
+      "ex": [
+        {"es": "Este cuchillo no corta nada.", "en": "This knife doesn't cut at all."}
+      ]
+    },
+    {
+      "es": "la cuchara", "pos": "n.f.", "en": "spoon",
+      "note": "A teaspoon is una cucharita; a spoonful is una cucharada.",
+      "ex": [
+        {"es": "Necesito una cuchara para la sopa.", "en": "I need a spoon for the soup."}
+      ]
+    },
+    {
+      "es": "la servilleta", "pos": "n.f.", "en": "napkin, serviette",
+      "ex": [
+        {"es": "¿Nos trae más servilletas?", "en": "Could you bring us more napkins?"}
+      ]
+    },
+    {
+      "es": "la botella", "pos": "n.f.", "en": "bottle",
+      "ex": [
+        {"es": "Pedimos una botella de vino tinto.", "en": "We ordered a bottle of red wine."}
+      ]
+    },
+    {
+      "es": "la carta", "pos": "n.f.", "en": "menu; letter; playing card",
+      "he": "תפריט / מכתב / קלף",
+      "warn": "Three unrelated meanings in one word, and none of them is cart. El menú usually means the fixed meal of the day, not the list of dishes — ask for la carta.",
+      "ex": [
+        {"tag": "menu", "es": "¿Nos trae la carta, por favor?", "en": "Could you bring us the menu, please?"},
+        {"tag": "letter", "es": "Le escribí una carta a mi abuela.", "en": "I wrote my grandmother a letter."},
+        {"tag": "card", "es": "Jugamos a las cartas toda la noche.", "en": "We played cards all night."}
+      ]
+    },
+    {
+      "es": "el mesero / la mesera", "pos": "n.", "en": "waiter / waitress",
+      "note": "mesero in Mexico and much of Latin America; mozo in Argentina; camarero in Spain.",
+      "ex": [
+        {"es": "El mesero nos atendió muy bien.", "en": "The waiter looked after us very well."}
+      ]
+    },
+    {
+      "es": "la propina", "pos": "n.f.", "en": "tip, gratuity",
+      "note": "Ten per cent is usual in much of Latin America; check whether la propina is already on the bill.",
+      "ex": [
+        {"es": "¿Dejamos propina?", "en": "Shall we leave a tip?"}
+      ]
+    },
+    {
+      "es": "la bebida", "pos": "n.f.", "en": "drink, beverage",
+      "ex": [
+        {"es": "Las bebidas no están incluidas.", "en": "Drinks are not included."}
+      ]
+    },
+    {
+      "es": "el postre", "pos": "n.m.", "en": "dessert, pudding",
+      "note": "de postre means for dessert.",
+      "ex": [
+        {"es": "De postre pedí flan.", "en": "For dessert I ordered flan."}
+      ]
+    },
+    {
+      "es": "probar", "pos": "v. irr.", "en": "to taste, to try; to try on; to prove",
+      "he": "לטעום / למדוד / להוכיח",
+      "conj": {"label": "pres.", "forms": ["pruebo", "pruebas", "prueba", "probamos", "prueban"]},
+      "ex": [
+        {"tag": "taste", "es": "Prueba la sopa, está buenísima.", "en": "Taste the soup, it's really good."},
+        {"tag": "try on", "es": "Quiero probarme esta camisa.", "en": "I want to try this shirt on."},
+        {"tag": "prove", "es": "Nadie pudo probar nada.", "en": "Nobody could prove anything."}
+      ]
+    },
+    {
+      "es": "beber", "pos": "v.", "en": "to drink",
+      "note": "Correct everywhere, but Latin America reaches for tomar in everyday speech. beber leans towards drinking alcohol.",
+      "ex": [
+        {"es": "Esa noche bebimos demasiado.", "en": "That night we drank too much."}
+      ]
+    },
+    {
+      "es": "cocinar", "pos": "v.", "en": "to cook",
+      "note": "la cocina is both the kitchen and the cuisine; el cocinero is the cook.",
+      "ex": [
+        {"es": "Cocina mejor que cualquier restaurante.", "en": "He cooks better than any restaurant."}
+      ]
+    },
+    {
+      "es": "caliente", "pos": "adj.", "en": "hot, warm (temperature)",
+      "he": "חם",
+      "note": "Temperature only. For weather Spanish uses hacer calor, not estar caliente.",
+      "ex": [
+        {"es": "Ten cuidado, el plato está caliente.", "en": "Be careful, the plate is hot."}
+      ]
+    },
+    {
+      "es": "picante", "pos": "adj.", "en": "spicy, hot (chilli)",
+      "he": "חריף",
+      "warn": "English hot means both temperature and spice; Spanish does not. Asking for something caliente when you mean picante will get you warm food, and asking whether the soup is caliente is not asking whether it will burn your mouth.",
+      "ex": [
+        {"es": "¿La salsa es muy picante?", "en": "Is the sauce very spicy?"}
+      ]
+    },
+    {
+      "es": "frío", "pos": "adj. / n.m.", "en": "cold (adjective); the cold (noun)",
+      "note": "tener frío is to feel cold, hacer frío is for the weather, estar frío is for objects. Three different verbs.",
+      "ex": [
+        {"tag": "adjective", "es": "La sopa ya está fría.", "en": "The soup has gone cold."},
+        {"tag": "noun", "es": "No aguanto el frío de aquí.", "en": "I can't stand the cold here."}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "u06",
+  "title": "Asking: question words and pronouns",
+  "intro": "Every question word carries an accent — that accent is what makes it a question rather than a relative pronoun. Spanish also drops subject pronouns constantly, because the verb ending already says who is speaking; the pronouns below are for emphasis and for clearing up ambiguity.",
+  "entries": [
+    {
+      "es": "¿qué?", "pos": "pron.", "en": "what?",
+      "note": "Asks for a definition or a thing. Unaccented que is the conjunction that.",
+      "ex": [
+        {"es": "¿Qué quieres tomar?", "en": "What do you want to drink?"}
+      ]
+    },
+    {
+      "es": "¿quién? · ¿quiénes?", "pos": "pron.", "en": "who?",
+      "note": "Takes a plural form when you expect more than one person.",
+      "ex": [
+        {"es": "¿Quién llamó?", "en": "Who called?"},
+        {"es": "¿Quiénes vienen a la cena?", "en": "Who is coming to the dinner?"}
+      ]
+    },
+    {
+      "es": "¿cuándo?", "pos": "adv.", "en": "when?",
+      "ex": [
+        {"es": "¿Cuándo llegaste?", "en": "When did you arrive?"}
+      ]
+    },
+    {
+      "es": "¿dónde?", "pos": "adv.", "en": "where?",
+      "ex": [
+        {"es": "¿Dónde dejaste las llaves?", "en": "Where did you leave the keys?"}
+      ]
+    },
+    {
+      "es": "¿adónde? · ¿de dónde?", "pos": "adv.", "en": "where to?; where from?",
+      "he": "לאן / מאיפה",
+      "note": "Spanish marks direction on the question word. English has to add a preposition at the end of the sentence.",
+      "ex": [
+        {"tag": "where to", "es": "¿Adónde vas con tanta prisa?", "en": "Where are you going in such a hurry?"},
+        {"tag": "where from", "es": "¿De dónde eres?", "en": "Where are you from?"}
+      ]
+    },
+    {
+      "es": "¿por qué? · porque", "pos": "adv. / conj.", "en": "why?; because",
+      "he": "למה / כי",
+      "note": "Two words with an accent asks the question; one word without answers it. A third form, el porqué, is the noun the reason.",
+      "ex": [
+        {"tag": "why", "es": "¿Por qué no viniste?", "en": "Why didn't you come?"},
+        {"tag": "because", "es": "Porque estaba enfermo.", "en": "Because I was ill."}
+      ]
+    },
+    {
+      "es": "¿cuál? · ¿cuáles?", "pos": "pron.", "en": "which?, which one?",
+      "note": "Picks from a set. Before a noun Spanish prefers qué: ¿qué color? not ¿cuál color? But ¿cuál es tu nombre? — not ¿qué es tu nombre?",
+      "ex": [
+        {"es": "Hay dos trenes. ¿Cuál tomamos?", "en": "There are two trains. Which one do we take?"}
+      ]
+    },
+    {
+      "es": "¿cómo?", "pos": "adv.", "en": "how?; what? (I didn't catch that)",
+      "he": "איך / מה אמרת",
+      "note": "Asking someone to repeat themselves with ¿qué? is blunt; ¿cómo? is the polite one.",
+      "ex": [
+        {"tag": "how", "es": "¿Cómo se abre esto?", "en": "How does this open?"},
+        {"tag": "pardon", "es": "¿Cómo? No te escuché.", "en": "Sorry? I didn't hear you."}
+      ]
+    },
+    {
+      "es": "¿cuánto? · ¿cuántos?", "pos": "adj.", "en": "how much?; how many?",
+      "note": "Agrees with the noun: cuánta agua, cuántas sillas.",
+      "ex": [
+        {"tag": "how much", "es": "¿Cuánto cuesta?", "en": "How much does it cost?"},
+        {"tag": "how many", "es": "¿Cuántas personas caben?", "en": "How many people fit?"}
+      ]
+    },
+    {
+      "es": "yo", "pos": "pron.", "en": "I",
+      "note": "Usually left out — hablo already means I speak. Say yo only to stress or contrast.",
+      "ex": [
+        {"es": "Yo pago, tú invitas la próxima.", "en": "I'll pay, you treat next time."}
+      ]
+    },
+    {
+      "es": "tú", "pos": "pron.", "en": "you (one person, informal)",
+      "note": "With an accent it is the pronoun; without, tu means your. In Argentina and much of Central America vos replaces it.",
+      "ex": [
+        {"es": "¿Y tú qué opinas?", "en": "And what do you think?"}
+      ]
+    },
+    {
+      "es": "usted", "pos": "pron.", "en": "you (one person, formal)",
+      "he": "אתה/את (בכבוד)",
+      "note": "Takes the same verb form as él and ella: usted tiene, not usted tienes. Abbreviated Ud.",
+      "ex": [
+        {"es": "¿Usted ya tiene su boleto?", "en": "Do you already have your ticket?"}
+      ]
+    },
+    {
+      "es": "ustedes", "pos": "pron.", "en": "you (more than one person)",
+      "note": "In Latin America this is the only plural you — formal and informal alike. Spain keeps a separate vosotros, which you can safely ignore.",
+      "ex": [
+        {"es": "¿Ustedes vienen en carro o en tren?", "en": "Are you coming by car or by train?"}
+      ]
+    },
+    {
+      "es": "él · ella", "pos": "pron.", "en": "he · she",
+      "note": "él with an accent is the pronoun; el without is the article the.",
+      "ex": [
+        {"es": "Él cocina y ella lava los platos.", "en": "He cooks and she washes the dishes."}
+      ]
+    },
+    {
+      "es": "nosotros · nosotras", "pos": "pron.", "en": "we",
+      "note": "nosotras only if every one of you is female.",
+      "ex": [
+        {"es": "Nosotros ya comimos, gracias.", "en": "We've already eaten, thanks."}
+      ]
+    },
+    {
+      "es": "ellos · ellas", "pos": "pron.", "en": "they",
+      "note": "One man in the group and it goes back to ellos.",
+      "ex": [
+        {"es": "Ellas trabajan en el hospital.", "en": "They work at the hospital."}
+      ]
+    },
+    {
+      "es": "me · te · nos", "pos": "pron.", "en": "me · you · us (object)",
+      "he": "אותי / אותך / אותנו",
+      "note": "They sit before the verb, or stick onto the end of an infinitive or a command: quiero verte, llámame.",
+      "ex": [
+        {"tag": "before verb", "es": "Me llamó ayer.", "en": "She called me yesterday."},
+        {"tag": "attached", "es": "¿Puedes esperarnos?", "en": "Can you wait for us?"}
+      ]
+    },
+    {
+      "es": "le · les", "pos": "pron.", "en": "to him, to her, to you (formal); to them",
+      "note": "The indirect object. Becomes se when lo or la follows: se lo dije.",
+      "ex": [
+        {"tag": "singular", "es": "Le dije la verdad a mi jefa.", "en": "I told my boss the truth."},
+        {"tag": "plural", "es": "Les mandé un mensaje a los niños.", "en": "I sent the children a message."}
+      ]
+    },
+    {
+      "es": "mi · tu · su", "pos": "adj.", "en": "my · your · his, her, your (formal), their",
+      "he": "שלי / שלך / שלו־שלה־שלהם",
+      "note": "su is genuinely ambiguous, so Spanish often clarifies: su casa de ella, or la casa de Marta.",
+      "ex": [
+        {"es": "Mi hermano perdió su teléfono.", "en": "My brother lost his phone."}
+      ]
+    },
+    {
+      "es": "conmigo · contigo", "pos": "pron.", "en": "with me · with you",
+      "note": "Irregular one-word forms. Never con mí or con ti.",
+      "ex": [
+        {"es": "¿Vienes conmigo al mercado?", "en": "Are you coming with me to the market?"}
+      ]
+    }
+  ]
+}

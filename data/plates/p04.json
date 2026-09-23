@@ -1,0 +1,88 @@
+{
+  "id": "p04",
+  "title": "La familia · a family tree",
+  "intro": "Kinship words only mean something in relation to somebody, so everything here hangs off yo. The short double line joins a married couple; the green dashed line marks the one relationship a tree cannot show by position — you are your grandparents' nieto. Plural forms take the masculine: los padres is parents, los abuelos is grandparents, los hijos is children.",
+  "svg": "<svg viewBox=\"0 0 800 548\" xmlns=\"http://www.w3.org/2000/svg\"><style>.bx{fill:#f5f2ea;stroke:#4a5159;stroke-width:2;}.me{fill:#e6ece9;stroke:#2f6b55;stroke-width:2.6}.es{font-size:13.5px;fill:#1d2229;font-weight:700;text-anchor:middle}.en{font-size:9.5px;fill:#79818d;text-anchor:middle}.ln{fill:none;stroke:#4a5159;stroke-width:2}.mar{fill:none;stroke:#4a5159;stroke-width:2}.rel{fill:none;stroke:#2f6b55;stroke-width:1.8;stroke-dasharray:6 5}.frame{fill:none;stroke:#c3cad2;stroke-width:1.4;stroke-dasharray:7 6}.bn{fill:#1d2229}.bt{font-size:11.5px;fill:#fff;font-weight:700;text-anchor:middle}.gn{fill:#2f6b55}</style><rect x=\"26\" y=\"26\" width=\"748\" height=\"496\" rx=\"12\" class=\"frame\"/><rect x=\"276.0\" y=\"58\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"332\" y=\"80\" class=\"es lab\">el abuelo</text><text x=\"332\" y=\"95\" class=\"en lab\">grandfather</text><circle cx=\"276.0\" cy=\"58\" r=\"12\" class=\"bn\"/><text x=\"276.0\" y=\"62.5\" class=\"bt\">2</text><rect x=\"412.0\" y=\"58\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"468\" y=\"80\" class=\"es lab\">la abuela</text><text x=\"468\" y=\"95\" class=\"en lab\">grandmother</text><circle cx=\"412.0\" cy=\"58\" r=\"12\" class=\"bn\"/><text x=\"412.0\" y=\"62.5\" class=\"bt\">3</text><path d=\"M388 83h24\" class=\"mar\"/><path d=\"M400 83V152\" class=\"ln\"/><circle cx=\"400\" cy=\"116\" r=\"12\" class=\"bn\"/><text x=\"400\" y=\"120.5\" class=\"bt\">4</text><path d=\"M256 152h288\" class=\"ln\"/><path d=\"M256 152v26M544 152v26\" class=\"ln\"/><rect x=\"64.0\" y=\"178\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"120\" y=\"200\" class=\"es lab\">el tío</text><text x=\"120\" y=\"215\" class=\"en lab\">uncle</text><circle cx=\"64.0\" cy=\"178\" r=\"12\" class=\"bn\"/><text x=\"64.0\" y=\"182.5\" class=\"bt\">8</text><rect x=\"200.0\" y=\"178\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"256\" y=\"200\" class=\"es lab\">la tía</text><text x=\"256\" y=\"215\" class=\"en lab\">aunt</text><circle cx=\"200.0\" cy=\"178\" r=\"12\" class=\"bn\"/><text x=\"200.0\" y=\"182.5\" class=\"bt\">9</text><rect x=\"488.0\" y=\"178\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"544\" y=\"200\" class=\"es lab\">el padre</text><text x=\"544\" y=\"215\" class=\"en lab\">father</text><circle cx=\"488.0\" cy=\"178\" r=\"12\" class=\"bn\"/><text x=\"488.0\" y=\"182.5\" class=\"bt\">5</text><rect x=\"624.0\" y=\"178\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"680\" y=\"200\" class=\"es lab\">la madre</text><text x=\"680\" y=\"215\" class=\"en lab\">mother</text><circle cx=\"624.0\" cy=\"178\" r=\"12\" class=\"bn\"/><text x=\"624.0\" y=\"182.5\" class=\"bt\">6</text><path d=\"M176 203h24M600 203h24\" class=\"mar\"/><path d=\"M188 203v95M612 203v46\" class=\"ln\"/><circle cx=\"188\" cy=\"238\" r=\"12\" class=\"bn\"/><text x=\"188\" y=\"242.5\" class=\"bt\">16</text><circle cx=\"612\" cy=\"238\" r=\"12\" class=\"bn\"/><text x=\"612\" y=\"242.5\" class=\"bt\">7</text><path d=\"M460 272h160\" class=\"ln\"/><path d=\"M460 272v26M620 272v26\" class=\"ln\"/><rect x=\"132.0\" y=\"298\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"188\" y=\"320\" class=\"es lab\">el primo</text><text x=\"188\" y=\"335\" class=\"en lab\">cousin</text><circle cx=\"132.0\" cy=\"298\" r=\"12\" class=\"bn\"/><text x=\"132.0\" y=\"302.5\" class=\"bt\">11</text><rect x=\"404.0\" y=\"298\" width=\"112\" height=\"50\" rx=\"9\" class=\"me\"/><text x=\"460\" y=\"320\" class=\"es lab\">yo</text><text x=\"460\" y=\"335\" class=\"en lab\">me</text><circle cx=\"404.0\" cy=\"298\" r=\"12\" class=\"bn\"/><text x=\"404.0\" y=\"302.5\" class=\"bt\">12</text><rect x=\"564.0\" y=\"298\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"620\" y=\"320\" class=\"es lab\">la hermana</text><text x=\"620\" y=\"335\" class=\"en lab\">sister</text><circle cx=\"564.0\" cy=\"298\" r=\"12\" class=\"bn\"/><text x=\"564.0\" y=\"302.5\" class=\"bt\">10</text><path d=\"M460 348v80\" class=\"ln\"/><rect x=\"404.0\" y=\"428\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"460\" y=\"450\" class=\"es lab\">el hijo · la hija</text><text x=\"460\" y=\"465\" class=\"en lab\">son · daughter</text><circle cx=\"404.0\" cy=\"428\" r=\"12\" class=\"bn\"/><text x=\"404.0\" y=\"432.5\" class=\"bt\">13</text><path d=\"M620 348v46h46v34\" class=\"ln\"/><rect x=\"610.0\" y=\"428\" width=\"112\" height=\"50\" rx=\"9\" class=\"bx\"/><text x=\"666\" y=\"450\" class=\"es lab\">el sobrino</text><text x=\"666\" y=\"465\" class=\"en lab\">nephew</text><circle cx=\"610.0\" cy=\"428\" r=\"12\" class=\"bn\"/><text x=\"610.0\" y=\"432.5\" class=\"bt\">15</text><path d=\"M400 152C366 208 364 258 402 300\" class=\"rel\"/><circle cx=\"372\" cy=\"232\" r=\"12\" class=\"gn\"/><text x=\"372\" y=\"236.5\" class=\"bt\">14</text><circle cx=\"26\" cy=\"26\" r=\"12\" class=\"bn\"/><text x=\"26\" y=\"30.5\" class=\"bt\">1</text></svg>",
+  "items": [
+    {
+      "n": 1,
+      "es": "la familia",
+      "en": "family"
+    },
+    {
+      "n": 2,
+      "es": "el abuelo",
+      "en": "grandfather"
+    },
+    {
+      "n": 3,
+      "es": "la abuela",
+      "en": "grandmother"
+    },
+    {
+      "n": 4,
+      "es": "los abuelos",
+      "en": "grandparents"
+    },
+    {
+      "n": 5,
+      "es": "el padre",
+      "en": "father"
+    },
+    {
+      "n": 6,
+      "es": "la madre",
+      "en": "mother"
+    },
+    {
+      "n": 7,
+      "es": "los padres",
+      "en": "parents"
+    },
+    {
+      "n": 8,
+      "es": "el tío",
+      "en": "uncle"
+    },
+    {
+      "n": 9,
+      "es": "la tía",
+      "en": "aunt"
+    },
+    {
+      "n": 10,
+      "es": "el hermano · la hermana",
+      "en": "brother · sister"
+    },
+    {
+      "n": 11,
+      "es": "el primo · la prima",
+      "en": "cousin"
+    },
+    {
+      "n": 12,
+      "es": "yo",
+      "en": "me"
+    },
+    {
+      "n": 13,
+      "es": "el hijo · la hija",
+      "en": "son · daughter"
+    },
+    {
+      "n": 14,
+      "es": "el nieto · la nieta",
+      "en": "grandson · granddaughter"
+    },
+    {
+      "n": 15,
+      "es": "el sobrino · la sobrina",
+      "en": "nephew · niece"
+    },
+    {
+      "n": 16,
+      "es": "el esposo · la esposa",
+      "en": "husband · wife"
+    }
+  ]
+}

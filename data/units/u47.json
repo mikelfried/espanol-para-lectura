@@ -1,0 +1,164 @@
+{
+  "id": "u47",
+  "title": "The office and doing business",
+  "intro": "Working vocabulary for meetings, deadlines and paperwork. See unit 17 for jobs and unit 37 for officialdom.",
+  "entries": [
+    {
+      "es": "el proyecto", "pos": "n.m.", "en": "project, plan",
+      "note": "el plan is a plan in general — see unit 42.",
+      "ex": [
+        {"es": "El proyecto empieza en enero.", "en": "The project starts in January."}
+      ]
+    },
+    {
+      "es": "el informe", "pos": "n.m.", "en": "report",
+      "note": "el reporte is also used in Latin America.",
+      "ex": [
+        {"es": "Entregué el informe el viernes.", "en": "I handed in the report on Friday."}
+      ]
+    },
+    {
+      "es": "el plazo", "pos": "n.m.", "en": "deadline, time limit; instalment",
+      "he": "מועד אחרון / תשלום",
+      "note": "a corto plazo is short-term; a largo plazo long-term; pagar a plazos to pay in instalments.",
+      "ex": [
+        {"tag": "deadline", "es": "El plazo vence el lunes.", "en": "The deadline is Monday."},
+        {"tag": "instalment", "es": "Lo pagamos en doce plazos.", "en": "We paid for it in twelve instalments."}
+      ]
+    },
+    {
+      "es": "la junta · la reunión", "pos": "n.f.", "en": "meeting; board",
+      "note": "la junta is the usual word for a meeting in Mexico, and also a governing board.",
+      "ex": [
+        {"tag": "meeting", "es": "La junta es a las diez.", "en": "The meeting is at ten."},
+        {"tag": "board", "es": "La junta directiva lo aprobó.", "en": "The board approved it."}
+      ]
+    },
+    {
+      "es": "el puesto", "pos": "n.m.", "en": "post, position, job; market stall",
+      "he": "תפקיד / דוכן",
+      "ex": [
+        {"tag": "position", "es": "Solicitó el puesto de gerente.", "en": "He applied for the manager's post."},
+        {"tag": "stall", "es": "Compré fruta en un puesto del mercado.", "en": "I bought fruit at a market stall."}
+      ]
+    },
+    {
+      "es": "el gerente", "pos": "n.", "en": "manager",
+      "note": "el jefe is the boss — see unit 17. el director the director or head.",
+      "ex": [
+        {"es": "Habla con el gerente, por favor.", "en": "Speak to the manager, please."}
+      ]
+    },
+    {
+      "es": "la venta · la compra", "pos": "n.f.", "en": "sale; purchase",
+      "note": "en venta means for sale. See unit 18 for the verbs.",
+      "ex": [
+        {"tag": "sale", "es": "Las ventas subieron un diez por ciento.", "en": "Sales rose by ten per cent."},
+        {"tag": "purchase", "es": "Guarde el recibo de compra.", "en": "Keep the purchase receipt."}
+      ]
+    },
+    {
+      "es": "el contrato", "pos": "n.m.", "en": "contract",
+      "note": "firmar un contrato is to sign a contract — see unit 37.",
+      "ex": [
+        {"es": "El contrato dura un año.", "en": "The contract runs for a year."}
+      ]
+    },
+    {
+      "es": "la factura", "pos": "n.f.", "en": "invoice, bill",
+      "note": "el recibo is a receipt; la cuenta the bill in a restaurant — see unit 12.",
+      "ex": [
+        {"es": "Mándame la factura por correo.", "en": "Send me the invoice by email."}
+      ]
+    },
+    {
+      "es": "el presupuesto", "pos": "n.m.", "en": "budget; quote, estimate",
+      "he": "תקציב / הצעת מחיר",
+      "ex": [
+        {"tag": "budget", "es": "No hay presupuesto para eso.", "en": "There's no budget for that."},
+        {"tag": "quote", "es": "Pedí tres presupuestos distintos.", "en": "I asked for three different quotes."}
+      ]
+    },
+    {
+      "es": "la ganancia · la pérdida", "pos": "n.f.", "en": "profit; loss",
+      "note": "From ganar and perder — see unit 17 and unit 28.",
+      "ex": [
+        {"tag": "profit", "es": "Las ganancias del año fueron buenas.", "en": "The year's profits were good."},
+        {"tag": "loss", "es": "Cerraron por las pérdidas.", "en": "They closed because of the losses."}
+      ]
+    },
+    {
+      "es": "el negocio", "pos": "n.m.", "en": "business; deal; shop",
+      "he": "עסק / עסקה",
+      "ex": [
+        {"tag": "business", "es": "Abrió un negocio propio.", "en": "She opened her own business."},
+        {"tag": "deal", "es": "Cerramos el negocio ayer.", "en": "We closed the deal yesterday."},
+        {"tag": "shop", "es": "Hay varios negocios en esa calle.", "en": "There are several shops on that street."}
+      ]
+    },
+    {
+      "es": "el socio", "pos": "n.m.", "en": "partner, associate; member",
+      "he": "שותף / חבר",
+      "ex": [
+        {"tag": "partner", "es": "Es mi socio desde hace diez años.", "en": "He's been my business partner for ten years."},
+        {"tag": "member", "es": "Sólo entran los socios del club.", "en": "Only club members may enter."}
+      ]
+    },
+    {
+      "es": "encargarse de", "pos": "v.", "en": "to take charge of, to see to",
+      "he": "לטפל ב-",
+      "note": "el encargado is the person in charge. Yo me encargo means leave it to me.",
+      "ex": [
+        {"es": "Yo me encargo de las bebidas.", "en": "I'll take care of the drinks."}
+      ]
+    },
+    {
+      "es": "el pedido", "pos": "n.m.", "en": "order (of goods)",
+      "note": "From pedir — see unit 2. hacer un pedido is to place an order.",
+      "ex": [
+        {"es": "El pedido llega el jueves.", "en": "The order arrives on Thursday."}
+      ]
+    },
+    {
+      "es": "el cliente · el proveedor", "pos": "n.m.", "en": "customer; supplier",
+      "note": "See unit 17 for el cliente.",
+      "ex": [
+        {"tag": "customer", "es": "El cliente llamó dos veces.", "en": "The customer called twice."},
+        {"tag": "supplier", "es": "Cambiamos de proveedor.", "en": "We changed suppliers."}
+      ]
+    },
+    {
+      "es": "la copia · el original", "pos": "n.", "en": "copy; original",
+      "note": "sacar copias is to make photocopies.",
+      "ex": [
+        {"tag": "copy", "es": "Necesito una copia del contrato.", "en": "I need a copy of the contract."},
+        {"tag": "original", "es": "Traiga el original y una copia.", "en": "Bring the original and a copy."}
+      ]
+    },
+    {
+      "es": "la cifra · el dato", "pos": "n.", "en": "figure, number; piece of data",
+      "note": "los datos are data, and also personal details on a form.",
+      "ex": [
+        {"tag": "figure", "es": "Las cifras no cuadran.", "en": "The figures don't add up."},
+        {"tag": "data", "es": "Faltan algunos datos.", "en": "Some details are missing."}
+      ]
+    },
+    {
+      "es": "aumentar · disminuir", "pos": "v. irr.", "en": "to increase; to decrease",
+      "note": "subir and bajar do the same job in speech — see unit 22.",
+      "ex": [
+        {"tag": "increase", "es": "Los precios aumentaron en marzo.", "en": "Prices increased in March."},
+        {"tag": "decrease", "es": "El consumo disminuyó a la mitad.", "en": "Consumption fell by half."}
+      ]
+    },
+    {
+      "es": "el éxito · el fracaso", "pos": "n.m.", "en": "success; failure",
+      "he": "הצלחה / כישלון",
+      "warn": "el éxito is not an exit. The exit is la salida. tener éxito is to be successful.",
+      "ex": [
+        {"tag": "success", "es": "La campaña fue un éxito.", "en": "The campaign was a success."},
+        {"tag": "failure", "es": "El proyecto fue un fracaso.", "en": "The project was a failure."}
+      ]
+    }
+  ]
+}
