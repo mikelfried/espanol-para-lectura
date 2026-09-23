@@ -3,8 +3,8 @@
   "short_name": "Espa\u00f1ol",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#fbfaf8",
-  "theme_color": "#fbfaf8",
+  "background_color": "#f7f6f2",
+  "theme_color": "#f7f6f2",
   "icons": [
     {
       "src": "icon-180.png",

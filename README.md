@@ -184,30 +184,42 @@ edit the CSS:
 
 ## Mobile edition
 
+Live at **https://mikelfried.github.io/espanol-para-lectura/** — open in Safari,
+Share → *Add to Home Screen*.
+
 ```sh
-python3 tools/make_mobile.py   # -> docs/index.html, one self-contained file (~370 KB)
+python3 tools/make_mobile.py   # -> docs/index.html, one self-contained file (~380 KB)
+git push                        # GitHub Pages serves docs/ from main
 ```
 
 Not a port of the book. The PDF is the reading artifact; the phone does what
-paper cannot:
+paper cannot.
 
-- **Search** across Spanish, English, Hebrew and all 1446 example sentences,
-  diacritic-insensitive (`cancion` finds `canción`). Headword matches rank first.
-- **Practice** — retrieval, not recognition, in either direction. Leitner boxes
-  at 0/1/3/7/21 days. New words are released 15 a day in book order, so practice
-  follows the units you have read instead of dumping all 1003 on day one.
-- **Browse** with a *Hide meanings* toggle for self-testing a unit.
-- **Plates** with a label toggle (reusing the same `.lab` class as the printed
-  self-test pages) and tap-to-zoom, since plate labels are unreadable at 390pt.
+- **Learn** — the fifty units as a path, each node with a progress ring. A
+  lesson introduces five new words, then drills them: pick the meaning, pick the
+  Spanish, type it. Missed questions come back once at the end of the lesson.
+  Units are never locked — you should be able to practise whichever unit you
+  just read on paper.
+- **Typing is marked like a teacher would.** A missing accent is accepted with a
+  note, a missing article is accepted with a reminder, the wrong gender is wrong.
+- **Review** — spaced repetition on Leitner boxes at 0/1/3/7/21/60 days. Only the
+  first answer to a word in a session moves it between boxes. The exercise
+  hardens as the word does: meaning → Spanish → typed.
+- **Search** across Spanish, English, Hebrew and every example sentence,
+  accent-insensitive, headword matches first.
+- **Plates** with tap-to-zoom and a label toggle.
+- A streak and a daily goal of 20 answers. Deliberately absent: lives, a mascot,
+  confetti, and anything else that optimises for engagement over learning.
 
-Dark mode follows the system. Plates stay on a white card in dark mode — the
-drawings are coloured for paper and inverting them would ruin them.
+Dark mode follows the system. Progress lives in `localStorage`; **Copy backup**
+and **Restore** on the Review screen move it through the clipboard. Audio is left
+out for now — `speechSynthesis` with `lang="es-MX"` would slot into the new-word
+card without other changes.
 
-Progress lives in `localStorage`. **Copy backup** / **Restore** on the Practice
-screen move it through the clipboard, as insurance against iOS clearing storage.
-
-Audio is deliberately left out for now. `speechSynthesis` with `lang="es-MX"`
-would slot into `entryHTML` without other changes.
+One trap worth knowing: never name a top-level function `top`, `name`, `status`
+or anything else that is already a property of `window`. It parses cleanly in
+Node and throws in the browser — the whole app rendered blank until `top()` was
+renamed `topBar()`.
 
 ### Testing it at phone size
 
